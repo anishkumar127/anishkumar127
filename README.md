@@ -20,4 +20,4 @@
 ![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=anishkumar127&show_icons=true&count_private=true&hide_border=true)
 
 <br />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=kunal-kushwaha.kunal-kushwaha)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=anishkumar127.anishkumar127)
