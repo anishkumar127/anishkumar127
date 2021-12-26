@@ -15,7 +15,22 @@
 
 <br/>
 
+
 ### About Me 🚀
+
+<!-- Here are some ideas to get you started: -->
+
+<!-- - 👯 I’m looking to collaborate on any JavaScript Project -->
+<!-- - 🔭 I’m currently working on ... -->
+- 🌱 I’m currently learning 
+- 💬 Ask me about **JavaScript && MERN Stack**
+- 📫 Reach out to me at **[`anishbishnoi127@gmail.com`](mailto:anishbishnoi127@gmail.com)**
+<!-- - 💼 See my full portfolio at **[`davidrakosi.com`](https://davidrakosi.com)** -->
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 😄 Pronouns: ...
+- ⚡ Fun fact: ... -->
+  
+  <br/>
 
 ![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=anishkumar127&show_icons=true&count_private=true&hide_border=true)
 
