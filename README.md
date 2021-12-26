@@ -22,3 +22,7 @@
 <br />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=anishkumar127.anishkumar127)
+
+<br/>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=anishkumar127.anishkumar127)
