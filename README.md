@@ -80,11 +80,11 @@ TODO-IST:END -->
 ### ⚡ Recent GitHub Activity
 |
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/anishkumar127/anishkumar127/pull/2) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
-2. 💪 Opened PR [#2](https://github.com/anishkumar127/anishkumar127/pull/2) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
-3. 🎉 Merged PR [#1](https://github.com/anishkumar127/anishkumar127/pull/1) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
-4. 💪 Opened PR [#1](https://github.com/anishkumar127/anishkumar127/pull/1) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
-5. 🎉 Merged PR [#2](https://github.com/anishkumar127/Front-End-Design/pull/2) in [anishkumar127/Front-End-Design](https://github.com/anishkumar127/Front-End-Design) 
+1. 🎉 Merged PR [#6](https://github.com/anishkumar127/anishkumar127/pull/6) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
+2. 💪 Opened PR [#6](https://github.com/anishkumar127/anishkumar127/pull/6) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
+3. 🎉 Merged PR [#5](https://github.com/anishkumar127/anishkumar127/pull/5) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
+4. 💪 Opened PR [#5](https://github.com/anishkumar127/anishkumar127/pull/5) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
+5. 🎉 Merged PR [#4](https://github.com/anishkumar127/anishkumar127/pull/4) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
 <!--END_SECTION:activity--> |
 
 
