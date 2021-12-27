@@ -37,7 +37,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - ⚡ Fun fact: ... -->
 
 
-
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -58,6 +57,9 @@ TODO-IST:END -->
 | <a href="https://github.com/anishkumar127/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anishkumar127&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Anish's github stats" /></a> | <a href="https://github.com/anishkumar127/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishkumar127&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+### ⚡ Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
  <div>
 <details> 
@@ -74,15 +76,6 @@ TODO-IST:END -->
 
 </details>
 </div>
-
-### ⚡ Recent GitHub Activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/anishkumar127/Front-End-Design/pull/2) in [anishkumar127/Front-End-Design](https://github.com/anishkumar127/Front-End-Design)
-2. 💪 Opened PR [#2](https://github.com/anishkumar127/Front-End-Design/pull/2) in [anishkumar127/Front-End-Design](https://github.com/anishkumar127/Front-End-Design)
-3. 🎉 Merged PR [#1](https://github.com/anishkumar127/Front-End-Design/pull/1) in [anishkumar127/Front-End-Design](https://github.com/anishkumar127/Front-End-Design)
-4. 💪 Opened PR [#1](https://github.com/anishkumar127/Front-End-Design/pull/1) in [anishkumar127/Front-End-Design](https://github.com/anishkumar127/Front-End-Design)
-5. 🎉 Merged PR [#1](https://github.com/anishkumar127/TEST/pull/1) in [anishkumar127/TEST](https://github.com/anishkumar127/TEST)
-<!--END_SECTION:activity-->
 
 **I'm an Early 🐤** 
 
@@ -120,33 +113,6 @@ No Activity Tracked This Week
 
 ```
 
-
-
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#284](https://github.com/DenverCoder1/custom-icon-badges/issues/284) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-2. 🎉 Merged PR [#282](https://github.com/DenverCoder1/custom-icon-badges/pull/282) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-3. 🎉 Merged PR [#280](https://github.com/DenverCoder1/custom-icon-badges/pull/280) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. 🎉 Merged PR [#283](https://github.com/DenverCoder1/custom-icon-badges/pull/283) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-5. 💪 Opened PR [#5](https://github.com/albertlauncher/awesome-albert/pull/5) in [albertlauncher/awesome-albert](https://github.com/albertlauncher/awesome-albert)
-<!--END_SECTION:activity-->
-</details>
-
-
-
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-</details>
 
 
 
