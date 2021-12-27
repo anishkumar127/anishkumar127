@@ -75,6 +75,11 @@ TODO-IST:END -->
 </details>
 </div>
 
+### ⚡ Recent GitHub Activity
+
+<br/>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 **I'm an Early 🐤** 
 
