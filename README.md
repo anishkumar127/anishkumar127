@@ -13,16 +13,19 @@
 <a href="https://www.youtube.com/channel/UCWy3HY8xhhCU37FS8t9m9kA">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
+<a href="https://www.instagram.com/anishbishnoi29">
+<img align="left" alt="anish | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=anishkumar127.anishkumar127)
 <br/>
 
 
 ### About Me 🚀
-<!-- 
-hi, i'm [Anish Kumar](https://anish.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. -->
+Hi, i'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+
+i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 <!-- Here are some ideas to get you started: -->
 
@@ -30,7 +33,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning **Java, DSA & MERN**
 - 💬 Ask me about **Java, DSA, JavaScript && MERN Stack**
-- 📫 Reach out to me at **Email: [`anishbishnoi127@gmail.com`](mailto:anishbishnoi127@gmail.com)**
+- 📫 Reach out to me at **[`@anish`](mailto:anishbishnoi127@gmail.com)**
 <!-- - 💼 See my full portfolio at **[`davidrakosi.com`](https://davidrakosi.com)** -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ...
@@ -38,11 +41,26 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 
 **languages and tools:**  
+<code><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
+<code><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img alt="Java" title="Java" height="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /></code>
+<code><img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></code>
+<code><img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /></code>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
+<code><img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
+<code><img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>  
+
+                       
+
+
+
+
 <!--  
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
@@ -55,7 +73,7 @@ TODO-IST:END -->
 
 📈 my github stats
 | <a href="https://github.com/anishkumar127/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anishkumar127&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Anish's github stats" /></a> | <a href="https://github.com/anishkumar127/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishkumar127&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 ### ⚡ Recent GitHub Activity
 |
@@ -97,6 +115,8 @@ TODO-IST:END -->
 </details>
 </div>
 
+<!-- 
+
 **I'm an Early 🐤** 
 
 ```text
@@ -123,7 +143,7 @@ Sunday       61 commits     ██░░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Europe/Paris
+⌚︎ Time Zone: Asia/India
 
 💬 Programming Languages: 
 No Activity Tracked This Week
@@ -135,6 +155,8 @@ No Activity Tracked This Week
 
 
 
+
+ -->
 
 <!-- 
 [website]: https://codeSTACKr.com
