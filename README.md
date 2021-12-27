@@ -55,9 +55,10 @@ TODO-IST:END -->
 
 
 📈 my github stats
+| <a href="https://github.com/anishkumar127/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anishkumar127&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Anish's github stats" /></a> | <a href="https://github.com/anishkumar127/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishkumar127&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=anishkumar127&show_icons=true&count_private=true&hide_border=true)
-<br/>
+
  <div>
 <details> 
  <summary>GitHub History</summary>
@@ -133,3 +134,10 @@ No Activity Tracked This Week
 3. 💪 Opened PR [#10](https://github.com/famez/J1939-Framework/pull/10) in [famez/J1939-Framework](https://github.com/famez/J1939-Framework)
 4. ❗️ Closed issue [#11](https://github.com/APLA-Toolbox/go-pddl/issues/11) in [APLA-Toolbox/go-pddl](https://github.com/APLA-Toolbox/go-pddl)  -->
 <!--END_SECTION:activity-->
+
+
+<!-- 
+![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=anishkumar127&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=buefy)
+<br/>
+
+ -->
