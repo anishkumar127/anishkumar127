@@ -77,6 +77,11 @@ TODO-IST:END -->
 
 ### ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/anishkumar127/Front-End-Design/pull/2) in [anishkumar127/Front-End-Design](https://github.com/anishkumar127/Front-End-Design)
+2. 💪 Opened PR [#2](https://github.com/anishkumar127/Front-End-Design/pull/2) in [anishkumar127/Front-End-Design](https://github.com/anishkumar127/Front-End-Design)
+3. 🎉 Merged PR [#1](https://github.com/anishkumar127/Front-End-Design/pull/1) in [anishkumar127/Front-End-Design](https://github.com/anishkumar127/Front-End-Design)
+4. 💪 Opened PR [#1](https://github.com/anishkumar127/Front-End-Design/pull/1) in [anishkumar127/Front-End-Design](https://github.com/anishkumar127/Front-End-Design)
+5. 🎉 Merged PR [#1](https://github.com/anishkumar127/TEST/pull/1) in [anishkumar127/TEST](https://github.com/anishkumar127/TEST)
 <!--END_SECTION:activity-->
 
 **I'm an Early 🐤** 
