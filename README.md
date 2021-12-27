@@ -41,6 +41,14 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
  
+🚧 **my todoist stats:**
+<!-- TODO-IST:START -->
+🏆  7,982 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 669 tasks so far           
+⏳  Longest streak is 10 days
+<!-- TODO-IST:END -->
+
 ![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=anishkumar127&show_icons=true&count_private=true&hide_border=true)
 
 <br/>
