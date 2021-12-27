@@ -76,8 +76,6 @@ TODO-IST:END -->
 </div>
 
 ### ⚡ Recent GitHub Activity
-
-<br/>
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
@@ -116,6 +114,35 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 
 ```
+
+
+
+<!-- https://github.com/jamesgeorge007/github-activity-readme -->
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
+  <br/>
+
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#284](https://github.com/DenverCoder1/custom-icon-badges/issues/284) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+2. 🎉 Merged PR [#282](https://github.com/DenverCoder1/custom-icon-badges/pull/282) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+3. 🎉 Merged PR [#280](https://github.com/DenverCoder1/custom-icon-badges/pull/280) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+4. 🎉 Merged PR [#283](https://github.com/DenverCoder1/custom-icon-badges/pull/283) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+5. 💪 Opened PR [#5](https://github.com/albertlauncher/awesome-albert/pull/5) in [albertlauncher/awesome-albert](https://github.com/albertlauncher/awesome-albert)
+<!--END_SECTION:activity-->
+</details>
+
+
+
+<!-- https://github.com/jamesgeorge007/github-activity-readme -->
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
+  <br/>
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+</details>
+
 
 
 <!-- 
