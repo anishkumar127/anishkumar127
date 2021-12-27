@@ -57,7 +57,6 @@ TODO-IST:END -->
 | <a href="https://github.com/anishkumar127/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anishkumar127&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Anish's github stats" /></a> | <a href="https://github.com/anishkumar127/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishkumar127&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-
 ### ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -77,7 +76,6 @@ TODO-IST:END -->
 
 </details>
 </div>
-
 
 **I'm an Early 🐤** 
 
