@@ -36,7 +36,7 @@
 <!-- <!-- <div>
 <details> -->
 
-  <summary>GitHub History</summary> 
+  <p>GitHub History</p> 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anishkumar127&" alt="anishkumar127" /></p>
 <!-- .
 </details>
