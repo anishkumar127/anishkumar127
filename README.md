@@ -58,16 +58,13 @@ TODO-IST:END -->
 | ------------- | ------------- |
 
 ### ⚡ Recent GitHub Activity
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-<!-- YOUTUBE:END -->
 
 <br/>
 
-## 📺 Latest YouTube videos
-
-<!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
-<!-- YouTube Cards - WIP by DenverCoder1 -->
+## 🦋 Latest YouTube videos
 
 <!-- YOUTUBE:START -->
 [![MERN - API with  Token, Refresh Token, Login , SignUp , Custom Error Handler , Image Upload , Store](https://freshidea.com/jonah/app/youtube-card/?id=mFfG4tEl3pw)](https://www.youtube.com/watch?v=mFfG4tEl3pw "MERN - API with  Token, Refresh Token, Login , SignUp , Custom Error Handler , Image Upload , Store")
