@@ -33,13 +33,13 @@
 ![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=anishkumar127&show_icons=true&count_private=true&hide_border=true)
 
 <br/>
-<div>
+<!-- <div>
 <details>
-  <summary>GitHub History</summary>
+  <summary>GitHub History</summary> -->
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anishkumar127&" alt="anishkumar127" /></p>
-.
+<!-- .
 </details>
-</div>
+</div> -->
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=anishkumar127.anishkumar127)
