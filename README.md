@@ -60,6 +60,17 @@ TODO-IST:END -->
 ### ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+<!-- YOUTUBE:END -->
+
+<br/>
+
+## 📺 Latest YouTube videos
+
+<!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
+<!-- YouTube Cards - WIP by DenverCoder1 -->
+
+<!-- YOUTUBE:START -->
+
 
  <div>
 <details> 
