@@ -1,5 +1,7 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Anish!](https://github.com/anishkumar127) 
 
+### Connect with me:
+
 <a href="https://www.linkedin.com/in/anishkumar29/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
@@ -18,6 +20,10 @@
 
 
 ### About Me 🚀
+<!-- 
+hi, i'm [Anish Kumar](https://anish.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+
+i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. -->
 
 <!-- Here are some ideas to get you started: -->
 
@@ -36,19 +42,19 @@
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
- 
+<!--  
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
-🏆  7,982 Karma Points           
+<!-- 🏆  7,982 Karma Points           
 🌸  Completed 0 tasks today           
 ✅  Completed 669 tasks so far           
 ⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+TODO-IST:END --> -->
 
+📈 my github stats
 ![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=anishkumar127&show_icons=true&count_private=true&hide_border=true)
 
 <br/>
