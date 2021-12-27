@@ -13,6 +13,7 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=anishkumar127.anishkumar127)
 <br/>
 
 
@@ -42,5 +43,3 @@
 </details>
 </div> -->
 
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=anishkumar127.anishkumar127)
