@@ -80,11 +80,11 @@ TODO-IST:END -->
 ### ⚡ Recent GitHub Activity
 |
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/anishkumar127/Java/pull/1) in [anishkumar127/Java](https://github.com/anishkumar127/Java)
-2. 💪 Opened PR [#1](https://github.com/anishkumar127/Java/pull/1) in [anishkumar127/Java](https://github.com/anishkumar127/Java)
-3. 🎉 Merged PR [#4](https://github.com/anishkumar127/Front-End-Design/pull/4) in [anishkumar127/Front-End-Design](https://github.com/anishkumar127/Front-End-Design)
-4. 💪 Opened PR [#4](https://github.com/anishkumar127/Front-End-Design/pull/4) in [anishkumar127/Front-End-Design](https://github.com/anishkumar127/Front-End-Design)
-5. 🎉 Merged PR [#3](https://github.com/anishkumar127/Front-End-Design/pull/3) in [anishkumar127/Front-End-Design](https://github.com/anishkumar127/Front-End-Design)
+1. 🎉 Merged PR [#2](https://github.com/anishkumar127/Java/pull/2) in [anishkumar127/Java](https://github.com/anishkumar127/Java)
+2. 💪 Opened PR [#2](https://github.com/anishkumar127/Java/pull/2) in [anishkumar127/Java](https://github.com/anishkumar127/Java)
+3. 🎉 Merged PR [#1](https://github.com/anishkumar127/Java/pull/1) in [anishkumar127/Java](https://github.com/anishkumar127/Java)
+4. 💪 Opened PR [#1](https://github.com/anishkumar127/Java/pull/1) in [anishkumar127/Java](https://github.com/anishkumar127/Java)
+5. 🎉 Merged PR [#4](https://github.com/anishkumar127/Front-End-Design/pull/4) in [anishkumar127/Front-End-Design](https://github.com/anishkumar127/Front-End-Design)
 <!--END_SECTION:activity--> |
 
 
