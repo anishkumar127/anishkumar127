@@ -80,11 +80,11 @@ TODO-IST:END -->
 ### ⚡ Recent GitHub Activity
 |
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/anishkumar127/CredApp/pull/12) in [anishkumar127/CredApp](https://github.com/anishkumar127/CredApp)
-2. 💪 Opened PR [#12](https://github.com/anishkumar127/CredApp/pull/12) in [anishkumar127/CredApp](https://github.com/anishkumar127/CredApp)
-3. 🎉 Merged PR [#11](https://github.com/anishkumar127/CredApp/pull/11) in [anishkumar127/CredApp](https://github.com/anishkumar127/CredApp)
-4. 💪 Opened PR [#11](https://github.com/anishkumar127/CredApp/pull/11) in [anishkumar127/CredApp](https://github.com/anishkumar127/CredApp)
-5. 🎉 Merged PR [#10](https://github.com/anishkumar127/CredApp/pull/10) in [anishkumar127/CredApp](https://github.com/anishkumar127/CredApp)
+1. 🎉 Merged PR [#13](https://github.com/anishkumar127/CredApp/pull/13) in [anishkumar127/CredApp](https://github.com/anishkumar127/CredApp)
+2. 💪 Opened PR [#13](https://github.com/anishkumar127/CredApp/pull/13) in [anishkumar127/CredApp](https://github.com/anishkumar127/CredApp)
+3. 🎉 Merged PR [#12](https://github.com/anishkumar127/CredApp/pull/12) in [anishkumar127/CredApp](https://github.com/anishkumar127/CredApp)
+4. 💪 Opened PR [#12](https://github.com/anishkumar127/CredApp/pull/12) in [anishkumar127/CredApp](https://github.com/anishkumar127/CredApp)
+5. 🎉 Merged PR [#11](https://github.com/anishkumar127/CredApp/pull/11) in [anishkumar127/CredApp](https://github.com/anishkumar127/CredApp)
 <!--END_SECTION:activity--> |
 
 
