@@ -80,11 +80,11 @@ TODO-IST:END -->
 ### ⚡ Recent GitHub Activity
 |
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/anishkumar127/Admin-Dashboard-ReactJs/pull/5) in [anishkumar127/Admin-Dashboard-ReactJs](https://github.com/anishkumar127/Admin-Dashboard-ReactJs)
-2. 💪 Opened PR [#5](https://github.com/anishkumar127/Admin-Dashboard-ReactJs/pull/5) in [anishkumar127/Admin-Dashboard-ReactJs](https://github.com/anishkumar127/Admin-Dashboard-ReactJs)
-3. 🎉 Merged PR [#4](https://github.com/anishkumar127/Admin-Dashboard-ReactJs/pull/4) in [anishkumar127/Admin-Dashboard-ReactJs](https://github.com/anishkumar127/Admin-Dashboard-ReactJs)
-4. 💪 Opened PR [#4](https://github.com/anishkumar127/Admin-Dashboard-ReactJs/pull/4) in [anishkumar127/Admin-Dashboard-ReactJs](https://github.com/anishkumar127/Admin-Dashboard-ReactJs)
-5. 🎉 Merged PR [#3](https://github.com/anishkumar127/Admin-Dashboard-ReactJs/pull/3) in [anishkumar127/Admin-Dashboard-ReactJs](https://github.com/anishkumar127/Admin-Dashboard-ReactJs)
+1. 🎉 Merged PR [#6](https://github.com/anishkumar127/Admin-Dashboard-ReactJs/pull/6) in [anishkumar127/Admin-Dashboard-ReactJs](https://github.com/anishkumar127/Admin-Dashboard-ReactJs)
+2. 💪 Opened PR [#6](https://github.com/anishkumar127/Admin-Dashboard-ReactJs/pull/6) in [anishkumar127/Admin-Dashboard-ReactJs](https://github.com/anishkumar127/Admin-Dashboard-ReactJs)
+3. 🎉 Merged PR [#5](https://github.com/anishkumar127/Admin-Dashboard-ReactJs/pull/5) in [anishkumar127/Admin-Dashboard-ReactJs](https://github.com/anishkumar127/Admin-Dashboard-ReactJs)
+4. 💪 Opened PR [#5](https://github.com/anishkumar127/Admin-Dashboard-ReactJs/pull/5) in [anishkumar127/Admin-Dashboard-ReactJs](https://github.com/anishkumar127/Admin-Dashboard-ReactJs)
+5. 🎉 Merged PR [#4](https://github.com/anishkumar127/Admin-Dashboard-ReactJs/pull/4) in [anishkumar127/Admin-Dashboard-ReactJs](https://github.com/anishkumar127/Admin-Dashboard-ReactJs)
 <!--END_SECTION:activity--> |
 
 
