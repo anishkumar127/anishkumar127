@@ -77,7 +77,12 @@ TODO-IST:END -->
 
 
 📈 my github stats
-| <a href="https://github.com/anishkumar127/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anishkumar127&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Anish's github stats" /></a> | <a href="https://github.com/anishkumar127/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishkumar127&layout=compact&theme=buefy&hide_border=true" /></a> |
+<!--  commented stats and language old view. -->
+<!-- | <a href="https://github.com/anishkumar127/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anishkumar127&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Anish's github stats" /></a> | <a href="https://github.com/anishkumar127/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishkumar127&layout=compact&theme=buefy&hide_border=true" /></a> | -->
+<!-- new view of stats and language  -->
+
+| ![](https://raw.githubusercontent.com/anishkumar127/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/anishkumar127/github-stats/master/generated/languages.svg#gh-dark-mode-only) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 ### ⚡ Recent GitHub Activity
@@ -124,17 +129,10 @@ TODO-IST:END -->
 
 ![snake gif](https://github.com/anishkumar127/anishkumar127/blob/output/github-contribution-grid-snake.svg)
 
+<!--  // this is stats and language. 
+![](https://raw.githubusercontent.com/anishkumar127/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/anishkumar127/github-stats/master/generated/languages.svg#gh-dark-mode-only) -->
 
-
-# temp other.
-![](https://github.com/anishkumar127/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
-
-
-
-# lang
-![](https://github.com/anishkumar127/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
-
-![](https://github.com/anishkumar127/github-stats/blob/master/generated/overview.svg#gh-light-mode-only)
 <!-- 
 
 **I'm an Early 🐤** 
