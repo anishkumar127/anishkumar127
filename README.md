@@ -120,6 +120,17 @@ TODO-IST:END -->
 </div>
 
 ![snake gif](https://github.com/anishkumar127/anishkumar127/blob/output/github-contribution-grid-snake.svg)
+
+# temp my
+![](https://raw.githubusercontent.com/anishkumar127/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/anishkumar127/github-stats-transparent/output/generated/languages.svg)
+
+
+# temp other.
+
+![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
+
 <!-- 
 
 **I'm an Early 🐤** 
