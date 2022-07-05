@@ -32,8 +32,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!-- - 👯 I’m looking to collaborate on any JavaScript Project -->
 <!-- - 🔭 I’m currently working on ... -->
 - 🦋 Don't be a programmer, Be a problem solver.
-- 🌱 I’m currently learning **Java, DSA & MERN** 
-- 💬 Ask me about **Java, DSA, JavaScript && MERN Stack** 
+- 🌱 I’m currently learning **[Java](https://github.com/anishkumar127/Data-Structures-and-Algorithms), [DSA](https://github.com/anishkumar127/Data-Structures-and-Algorithms) & MERN** 
+- 💬 Ask me about **[Java](https://github.com/anishkumar127/Data-Structures-and-Algorithms), [DSA](https://github.com/anishkumar127/Data-Structures-and-Algorithms), JavaScript && MERN Stack** 
 - 📫 Reach out to me at **[`@anish`](mailto:anishbishnoi127@gmail.com)** 
 <!-- - 💼 See my full portfolio at **[`davidrakosi.com`](https://davidrakosi.com)** -->
 <!-- - 🤔 I’m looking for help with ... -->
@@ -86,18 +86,11 @@ TODO-IST:END -->
 
 
 ### ⚡ Recent GitHub Activity
-|
+
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/anishkumar127/anishkumar127/pull/8) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
-2. 💪 Opened PR [#8](https://github.com/anishkumar127/anishkumar127/pull/8) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
-3. ❗️ Opened issue [#76](https://github.com/jstrieb/github-stats/issues/76) in [jstrieb/github-stats](https://github.com/jstrieb/github-stats)
-4. 🎉 Merged PR [#7](https://github.com/anishkumar127/anishkumar127/pull/7) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
-5. 💪 Opened PR [#7](https://github.com/anishkumar127/anishkumar127/pull/7) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
-<!--END_SECTION:activity--> |
 
-
+<!--END_SECTION:activity-->
 ## 🦋 Latest YouTube videos
-|
 <!-- YOUTUBE:START -->
 - [MERN - API with  Token, Refresh Token, Login , SignUp , Custom Error Handler , Image Upload , Store](https://www.youtube.com/watch?v=mFfG4tEl3pw)
 - [MERN - Instagram clone using [ React Node MongoDB ]](https://www.youtube.com/watch?v=BMGVCjMiDyE)
@@ -107,9 +100,12 @@ TODO-IST:END -->
 <!-- YOUTUBE:END -->
 👉 [more videos...](https://www.youtube.com/channel/UCGfqR2ktkSE5xCvyzxkWhcw) 
 
-|
-
  <div>
+ <details> 
+ <summary>Latest Tweets</summary>
+
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=anishbishnoixD&layout=wide)](https://github.com/anishkumar127/github-readme-twitter)
+ </details>
 <details> 
  <summary>GitHub History</summary>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anishkumar127&" alt="anishkumar127" /></p>
@@ -215,3 +211,15 @@ No Activity Tracked This Week
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
 </a>
   -->
+
+  
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+
+
+<a href="https://github.com/anishkumar127/github-stats">
+<img src="https://github.com/anishkumar127/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/anishkumar127/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
