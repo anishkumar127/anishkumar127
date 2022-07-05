@@ -32,8 +32,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!-- - 👯 I’m looking to collaborate on any JavaScript Project -->
 <!-- - 🔭 I’m currently working on ... -->
 - 🦋 Don't be a programmer, Be a problem solver.
-- 🌱 I’m currently learning **Java, DSA & MERN** 
-- 💬 Ask me about **Java, DSA, JavaScript && MERN Stack** 
+- 🌱 I’m currently learning **[Java](https://github.com/anishkumar127/Data-Structures-and-Algorithms), [DSA](https://github.com/anishkumar127/Data-Structures-and-Algorithms) & MERN** 
+- 💬 Ask me about **[Java](https://github.com/anishkumar127/Data-Structures-and-Algorithms), [DSA](https://github.com/anishkumar127/Data-Structures-and-Algorithms), JavaScript && MERN Stack** 
 - 📫 Reach out to me at **[`@anish`](mailto:anishbishnoi127@gmail.com)** 
 <!-- - 💼 See my full portfolio at **[`davidrakosi.com`](https://davidrakosi.com)** -->
 <!-- - 🤔 I’m looking for help with ... -->
@@ -94,6 +94,10 @@ TODO-IST:END -->
 4. 💪 Opened PR [#13](https://github.com/anishkumar127/Java-Data-Structure-Algorithm-Solutions/pull/13) in [anishkumar127/Java-Data-Structure-Algorithm-Solutions](https://github.com/anishkumar127/Java-Data-Structure-Algorithm-Solutions)
 5. 🎉 Merged PR [#12](https://github.com/anishkumar127/Java-Data-Structure-Algorithm-Solutions/pull/12) in [anishkumar127/Java-Data-Structure-Algorithm-Solutions](https://github.com/anishkumar127/Java-Data-Structure-Algorithm-Solutions)
 <!--END_SECTION:activity--> |
+
+### Latest Tweets
+
+<p><a  href="https://www.twitter.com/anishbishnoixD"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=anishbishnoixD&amp;layout=wide?show_retweet=on" alt="github-readme-twitter"></a></p>
 
 
 ## 🦋 Latest YouTube videos
@@ -215,3 +219,5 @@ No Activity Tracked This Week
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
 </a>
   -->
+
+  [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=anishbishnoixD&layout=wide)](https://github.com/anishkumar127/github-readme-twitter)
