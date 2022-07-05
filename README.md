@@ -122,11 +122,17 @@ TODO-IST:END -->
 </div> -->
 
 <div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/anishkumar127/anishkumar127/assets/github-contribution-grid-snake.svg" />
+	<img src="https://github.com/anishkumar127/anishkumar127/blob/output/github-contribution-grid-snake.svg" />
 </div>
 <div align="center">
     <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=anishkumar127&theme=github"/>
 </div>
+
+![snake gif](https://github.com/anishkumar127/anishkumar127/blob/output/github-contribution-grid-snake.gif)
+
+# my
+
+![snake gif](https://github.com/anishkumar127/anishkumar127/blob/output/github-contribution-grid-snake.svg)
 <!-- 
 
 **I'm an Early 🐤** 
