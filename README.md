@@ -31,11 +31,10 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <!-- - 👯 I’m looking to collaborate on any JavaScript Project -->
 <!-- - 🔭 I’m currently working on ... -->
-
-- 🌱 I’m currently learning **Java, DSA & MERN** 
+| - 🌱 I’m currently learning **Java, DSA & MERN** 
 - 💬 Ask me about **Java, DSA, JavaScript && MERN Stack**
-- 📫 Reach out to me at **[`@anish`](mailto:anishbishnoi127@gmail.com)** 
- 
+- 📫 Reach out to me at **[`@anish`](mailto:anishbishnoi127@gmail.com)** | <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/> |
+ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 <!-- - 💼 See my full portfolio at **[`davidrakosi.com`](https://davidrakosi.com)** -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ...
@@ -76,7 +75,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 TODO-IST:END --> 
 
 
-📈 my github stats
+<!-- 📈 my github stats -->
 <!--  commented stats and language old view. -->
 <!-- | <a href="https://github.com/anishkumar127/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anishkumar127&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Anish's github stats" /></a> | <a href="https://github.com/anishkumar127/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishkumar127&layout=compact&theme=buefy&hide_border=true" /></a> | -->
 <!-- new view of stats and language  -->
