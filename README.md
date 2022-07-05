@@ -119,10 +119,6 @@ TODO-IST:END -->
 </details>
 </div>
 
-
-
-# my
-
 ![snake gif](https://github.com/anishkumar127/anishkumar127/blob/output/github-contribution-grid-snake.svg)
 <!-- 
 
