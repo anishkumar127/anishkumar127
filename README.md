@@ -113,22 +113,13 @@ TODO-IST:END -->
  <summary>Activity Graph</summary>
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/anishkumar127/github-readme-activity-graph)
-
-</details>
-</div>
-
-<!-- <div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
-</div> -->
-
-<div align="center">
-	<img src="https://github.com/anishkumar127/anishkumar127/blob/output/github-contribution-grid-snake.svg" />
-</div>
 <div align="center">
     <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=anishkumar127&theme=github"/>
 </div>
+</details>
+</div>
 
-![snake gif](https://github.com/anishkumar127/anishkumar127/blob/output/github-contribution-grid-snake.gif)
+
 
 # my
 
