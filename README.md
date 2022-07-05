@@ -25,15 +25,15 @@
 
 Hi, i'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>
+i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. [ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>](https://github.com/anishkumar127)
 
 <!-- Here are some ideas to get you started: -->
 
 <!-- - 👯 I’m looking to collaborate on any JavaScript Project -->
 <!-- - 🔭 I’m currently working on ... -->
-
+- Don't be a programmer, Be a problem solver.
 - 🌱 I’m currently learning **Java, DSA & MERN** 
-- 💬 Ask me about **Java, DSA, JavaScript && MERN Stack** |
+- 💬 Ask me about **Java, DSA, JavaScript && MERN Stack** 
 - 📫 Reach out to me at **[`@anish`](mailto:anishbishnoi127@gmail.com)** 
 <!-- - 💼 See my full portfolio at **[`davidrakosi.com`](https://davidrakosi.com)** -->
 <!-- - 🤔 I’m looking for help with ... -->
@@ -61,17 +61,12 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
                  
 <br/>
-<br/>
-                 
-<br/>
-<br/>                 
-<br/>
-<br/>                 
+<br/>               
 <br/>
 <br/>                 
 <br/>
 <br/>
- <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
+
 
 <!--  
 🚧 **my todoist stats:**
@@ -182,17 +177,7 @@ No Activity Tracked This Week
 
  -->
 
-<!-- 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 -->
+
 
 
 
@@ -207,11 +192,15 @@ No Activity Tracked This Week
 <!--END_SECTION:activity-->
 
 
-<!-- 
-![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=anishkumar127&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=buefy)
-<br/>
+START_SECTION:activity
+<!-- 1. ❗️ Opened issue [#32](https://github.com/kittinan/spotify-github-profile/issues/32) in [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile)
+1. 🎉 Merged PR [#1](https://github.com/cmrobotics/voxblox/pull/1) in [cmrobotics/voxblox](https://github.com/cmrobotics/voxblox)
+2. 🗣 Commented on [#13](https://github.com/SICKAG/sick_safetyscanners2/issues/13) in [SICKAG/sick_safetyscanners2](https://github.com/SICKAG/sick_safetyscanners2)
+3. 💪 Opened PR [#10](https://github.com/famez/J1939-Framework/pull/10) in [famez/J1939-Framework](https://github.com/famez/J1939-Framework)
+4. ❗️ Closed issue [#11](https://github.com/APLA-Toolbox/go-pddl/issues/11) in [APLA-Toolbox/go-pddl](https://github.com/APLA-Toolbox/go-pddl)  -->
+END_SECTION:activity
 
- -->
+
 
  <!-- 
  
