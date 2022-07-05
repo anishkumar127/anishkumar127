@@ -31,15 +31,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <!-- - 👯 I’m looking to collaborate on any JavaScript Project -->
 <!-- - 🔭 I’m currently working on ... -->
-<div>
-<span>
+
 - 🌱 I’m currently learning **Java, DSA & MERN** 
 - 💬 Ask me about **Java, DSA, JavaScript && MERN Stack**
 - 📫 Reach out to me at **[`@anish`](mailto:anishbishnoi127@gmail.com)** 
-</span> <span>
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  </span>
-  </div>
+ 
 <!-- - 💼 See my full portfolio at **[`davidrakosi.com`](https://davidrakosi.com)** -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ...
@@ -68,7 +64,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
                  
 <br/>
 <br/>
-
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <!--  
 🚧 **my todoist stats:**
@@ -131,14 +127,12 @@ TODO-IST:END -->
 
 
 # temp other.
+
+![](https://github.com/anishkumar127/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://github.com/anishkumar127/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 
-![](https://github.com/anishkumar127/github-stats/blob/master/generated/languages.svg#gh-light-mode-only)
 
-# lang
-![](https://github.com/anishkumar127/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
 
-![](https://github.com/anishkumar127/github-stats/blob/master/generated/overview.svg#gh-light-mode-only)
 <!-- 
 
 **I'm an Early 🐤** 
