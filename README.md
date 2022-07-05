@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Anish!](https://github.com/anishkumar127) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="25px">, I'm [Anish!](https://github.com/anishkumar127) 
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/anishkumar29/">
@@ -33,7 +33,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!-- - 🔭 I’m currently working on ... -->
 
 - 🌱 I’m currently learning **Java, DSA & MERN** 
-- 💬 Ask me about **Java, DSA, JavaScript && MERN Stack** |
+- 💬 Ask me about **Java, DSA, JavaScript && MERN Stack** 
 - 📫 Reach out to me at **[`@anish`](mailto:anishbishnoi127@gmail.com)** 
 <!-- - 💼 See my full portfolio at **[`davidrakosi.com`](https://davidrakosi.com)** -->
 <!-- - 🤔 I’m looking for help with ... -->
@@ -61,6 +61,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
                  
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/><br/>
 <br/>
  <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 
