@@ -186,3 +186,12 @@ No Activity Tracked This Week
 
  -->
 
+
+
+
+ <!-- ![](https://raw.githubusercontent.com/anishkumar127/github-stats/master/generated/overview.svg) ![](https://raw.githubusercontent.com/anishkumar127/github-stats/master/generated/languages.svg)  -->
+
+<a href="https://github.com/anishkumar127/github-stats-readme">
+<img src="https://github.com/anishkumar127/github-stats-readme/blob/main/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/anishkumar127/github-stats-readme/blob/main/generated/languages.svg#gh-dark-mode-only" />
+</a>
