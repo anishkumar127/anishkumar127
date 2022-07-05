@@ -225,3 +225,10 @@ No Activity Tracked This Week
 4. 🗣 Commented on [#44](https://github.com/codeSTACKr/minter-dapp/issues/44) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
 5. ❌ Closed PR [#45](https://github.com/codeSTACKr/minter-dapp/pull/45) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
 <!--END_SECTION:activity-->
+
+
+
+<a href="https://github.com/anishkumar127/github-stats">
+<img src="https://github.com/anishkumar127/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/anishkumar127/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
