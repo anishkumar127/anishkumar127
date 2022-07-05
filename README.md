@@ -85,7 +85,14 @@ TODO-IST:END -->
 | ![](https://raw.githubusercontent.com/anishkumar127/github-stats/master/generated/overview.svg#gh-dark-mode-only) | ![](https://raw.githubusercontent.com/anishkumar127/github-stats/master/generated/languages.svg#gh-dark-mode-only) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
-![](https://github.com/anishkumar127/github-stats/blob/master/generated/languages.svg#gh-dark-light-only)
+![](https://github.com/anishkumar127/github-stats/blob/master/generated/languages.svg&gh-dark-mode-only)
+
+![](https://github.com/anishkumar127/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
+
+# try 
+
+<img src="https://github.com/anishkumar127/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/anishkumar127/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 
 ### ⚡ Recent GitHub Activity
 |
