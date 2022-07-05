@@ -25,15 +25,16 @@
 
 Hi, i'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>
 
 <!-- Here are some ideas to get you started: -->
 
 <!-- - 👯 I’m looking to collaborate on any JavaScript Project -->
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning **Java, DSA & MERN**
-- 💬 Ask me about **Java, DSA, JavaScript && MERN Stack**
-- 📫 Reach out to me at **[`@anish`](mailto:anishbishnoi127@gmail.com)**
+
+- 🌱 I’m currently learning **Java, DSA & MERN** 
+- 💬 Ask me about **Java, DSA, JavaScript && MERN Stack** |
+- 📫 Reach out to me at **[`@anish`](mailto:anishbishnoi127@gmail.com)** 
 <!-- - 💼 See my full portfolio at **[`davidrakosi.com`](https://davidrakosi.com)** -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ...
@@ -61,7 +62,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
                  
 <br/>
 <br/>
-
+ <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 
 <!--  
 🚧 **my todoist stats:**
@@ -73,8 +74,12 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 TODO-IST:END --> 
 
 
-📈 my github stats
-| <a href="https://github.com/anishkumar127/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anishkumar127&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Anish's github stats" /></a> | <a href="https://github.com/anishkumar127/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishkumar127&layout=compact&theme=buefy&hide_border=true" /></a> |
+<!-- 📈 my github stats -->
+<!--  commented stats and language old view. -->
+<!-- | <a href="https://github.com/anishkumar127/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anishkumar127&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Anish's github stats" /></a> | <a href="https://github.com/anishkumar127/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishkumar127&layout=compact&theme=buefy&hide_border=true" /></a> | -->
+<!-- new view of stats and language  -->
+
+| ![](https://raw.githubusercontent.com/anishkumar127/github-stats/master/generated/overview.svg#gh-dark-mode-only) | ![](https://raw.githubusercontent.com/anishkumar127/github-stats/master/generated/languages.svg#gh-dark-mode-only) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 ### ⚡ Recent GitHub Activity
@@ -113,9 +118,17 @@ TODO-IST:END -->
  <summary>Activity Graph</summary>
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/anishkumar127/github-readme-activity-graph)
-
+<div align="center">
+    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=anishkumar127&theme=github"/>
+</div>
 </details>
 </div>
+
+![snake gif](https://github.com/anishkumar127/anishkumar127/blob/output/github-contribution-grid-snake.svg)
+
+<!--  // this is stats and language. 
+![](https://raw.githubusercontent.com/anishkumar127/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/anishkumar127/github-stats/master/generated/languages.svg#gh-dark-mode-only) -->
 
 <!-- 
 
