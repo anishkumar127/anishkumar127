@@ -92,24 +92,9 @@ TODO-IST:END -->
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/anishkumar127/anishkumar127/pull/8) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
-2. 💪 Opened PR [#8](https://github.com/anishkumar127/anishkumar127/pull/8) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
-3. ❗️ Opened issue [#76](https://github.com/jstrieb/github-stats/issues/76) in [jstrieb/github-stats](https://github.com/jstrieb/github-stats)
-4. 🎉 Merged PR [#7](https://github.com/anishkumar127/anishkumar127/pull/7) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
-5. 💪 Opened PR [#7](https://github.com/anishkumar127/anishkumar127/pull/7) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
-6. 🎉 Merged PR [#14](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/14) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-7. 💪 Opened PR [#14](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/14) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-8. 🎉 Merged PR [#13](https://github.com/anishkumar127/Java-Data-Structure-Algorithm-Solutions/pull/13) in [anishkumar127/Java-Data-Structure-Algorithm-Solutions](https://github.com/anishkumar127/Java-Data-Structure-Algorithm-Solutions)
-9. 💪 Opened PR [#13](https://github.com/anishkumar127/Java-Data-Structure-Algorithm-Solutions/pull/13) in [anishkumar127/Java-Data-Structure-Algorithm-Solutions](https://github.com/anishkumar127/Java-Data-Structure-Algorithm-Solutions)
-10. 🎉 Merged PR [#12](https://github.com/anishkumar127/Java-Data-Structure-Algorithm-Solutions/pull/12) in [anishkumar127/Java-Data-Structure-Algorithm-Solutions](https://github.com/anishkumar127/Java-Data-Structure-Algorithm-Solutions)
 <!--END_SECTION:activity-->
 ## 🦋 Latest YouTube videos
 <!-- YOUTUBE:START -->
-- [MERN - API with  Token, Refresh Token, Login , SignUp , Custom Error Handler , Image Upload , Store](https://www.youtube.com/watch?v=mFfG4tEl3pw)
-- [MERN - Instagram clone using [ React Node MongoDB ]](https://www.youtube.com/watch?v=BMGVCjMiDyE)
-- [MERN - Instagram clone using [ React Node MongoDB ]](https://www.youtube.com/watch?v=jMnzBYsVcM8)
-- [React Js - Skeleton Loading Screen with using API](https://www.youtube.com/watch?v=oY0Kp86xx_s)
-- [React Js - Skeleton Loading Screen with using API](https://www.youtube.com/watch?v=BSDYiA2l3IE)
 <!-- YOUTUBE:END -->
 👉 [more videos...](https://www.youtube.com/channel/UCGfqR2ktkSE5xCvyzxkWhcw) 
 
