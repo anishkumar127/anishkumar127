@@ -47,6 +47,16 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
  💬 Ask me about **Java, DSA, JavaScript && MERN Stack** 
  📫 Reach out to me at **[`@anish`](mailto:anishbishnoi127@gmail.com)**                     |             <img  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100" height="120"/>  |
  |----------------|------------------------|
+
+
+<br/>
+ # try another 
+- 🌱 I’m currently learning **Java, DSA & MERN** 
+- 💬 Ask me about **Java, DSA, JavaScript && MERN Stack** |
+- 📫 Reach out to me at **[`@anish`](mailto:anishbishnoi127@gmail.com)** <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>
+
+<br/>
+
 <!-- - 💼 See my full portfolio at **[`davidrakosi.com`](https://davidrakosi.com)** -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ...
