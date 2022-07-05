@@ -121,23 +121,15 @@ TODO-IST:END -->
 
 ![snake gif](https://github.com/anishkumar127/anishkumar127/blob/output/github-contribution-grid-snake.svg)
 
-# temp my
-![](https://raw.githubusercontent.com/anishkumar127/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/anishkumar127/github-stats-transparent/output/generated/languages.svg)
 
 
 # temp other.
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
-![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
-
-# new 
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=anishkumar127&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-![](https://raw.githubusercontent.com/anishkumar127/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/anishkumar127/github-stats-transparent/output/generated/languages.svg)
-
+# lang
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
 <!-- 
 
 **I'm an Early 🐤** 
