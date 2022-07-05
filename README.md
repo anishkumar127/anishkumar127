@@ -64,7 +64,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
                  
 <br/>
 <br/>
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 
 <!--  
 🚧 **my todoist stats:**
@@ -81,8 +81,7 @@ TODO-IST:END -->
 <!-- | <a href="https://github.com/anishkumar127/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anishkumar127&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Anish's github stats" /></a> | <a href="https://github.com/anishkumar127/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishkumar127&layout=compact&theme=buefy&hide_border=true" /></a> | -->
 <!-- new view of stats and language  -->
 
-| ![](https://raw.githubusercontent.com/anishkumar127/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/anishkumar127/github-stats/master/generated/languages.svg#gh-dark-mode-only) |
+| ![](https://raw.githubusercontent.com/anishkumar127/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/anishkumar127/github-stats/master/generated/languages.svg#gh-dark-mode-only) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 ### ⚡ Recent GitHub Activity
