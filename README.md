@@ -86,22 +86,16 @@ TODO-IST:END -->
 
 
 ### ⚡ Recent GitHub Activity
-|
+
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#14](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/14) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
 2. 💪 Opened PR [#14](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/14) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
 3. 🎉 Merged PR [#13](https://github.com/anishkumar127/Java-Data-Structure-Algorithm-Solutions/pull/13) in [anishkumar127/Java-Data-Structure-Algorithm-Solutions](https://github.com/anishkumar127/Java-Data-Structure-Algorithm-Solutions)
 4. 💪 Opened PR [#13](https://github.com/anishkumar127/Java-Data-Structure-Algorithm-Solutions/pull/13) in [anishkumar127/Java-Data-Structure-Algorithm-Solutions](https://github.com/anishkumar127/Java-Data-Structure-Algorithm-Solutions)
 5. 🎉 Merged PR [#12](https://github.com/anishkumar127/Java-Data-Structure-Algorithm-Solutions/pull/12) in [anishkumar127/Java-Data-Structure-Algorithm-Solutions](https://github.com/anishkumar127/Java-Data-Structure-Algorithm-Solutions)
-<!--END_SECTION:activity--> |
 
-### Latest Tweets
-
-<p><a  href="https://www.twitter.com/anishbishnoixD"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=anishbishnoixD&amp;layout=wide?show_retweet=on" alt="github-readme-twitter"></a></p>
-
-
+<!--END_SECTION:activity-->
 ## 🦋 Latest YouTube videos
-|
 <!-- YOUTUBE:START -->
 - [MERN - API with  Token, Refresh Token, Login , SignUp , Custom Error Handler , Image Upload , Store](https://www.youtube.com/watch?v=mFfG4tEl3pw)
 - [MERN - Instagram clone using [ React Node MongoDB ]](https://www.youtube.com/watch?v=BMGVCjMiDyE)
@@ -111,9 +105,12 @@ TODO-IST:END -->
 <!-- YOUTUBE:END -->
 👉 [more videos...](https://www.youtube.com/channel/UCGfqR2ktkSE5xCvyzxkWhcw) 
 
-|
-
  <div>
+ <details> 
+ <summary>Latest Tweets</summary>
+
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=anishbishnoixD)](https://github.com/anishkumar127/github-readme-twitter)
+ </details>
 <details> 
  <summary>GitHub History</summary>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anishkumar127&" alt="anishkumar127" /></p>
@@ -220,4 +217,4 @@ No Activity Tracked This Week
 </a>
   -->
 
-  [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=anishbishnoixD&layout=wide)](https://github.com/anishkumar127/github-readme-twitter)
+  
