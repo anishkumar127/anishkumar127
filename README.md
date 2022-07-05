@@ -127,12 +127,14 @@ TODO-IST:END -->
 
 
 # temp other.
-
-![](https://github.com/anishkumar127/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://github.com/anishkumar127/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 
 
 
+# lang
+![](https://github.com/anishkumar127/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+
+![](https://github.com/anishkumar127/github-stats/blob/master/generated/overview.svg#gh-light-mode-only)
 <!-- 
 
 **I'm an Early 🐤** 
