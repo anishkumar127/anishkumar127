@@ -85,6 +85,8 @@ TODO-IST:END -->
 | ![](https://raw.githubusercontent.com/anishkumar127/github-stats/master/generated/overview.svg#gh-dark-mode-only) | ![](https://raw.githubusercontent.com/anishkumar127/github-stats/master/generated/languages.svg#gh-dark-mode-only) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
+![](https://github.com/anishkumar127/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
+
 ### ⚡ Recent GitHub Activity
 |
 <!--START_SECTION:activity-->
@@ -191,15 +193,16 @@ No Activity Tracked This Week
 <!--END_SECTION:activity-->
 
 
-START_SECTION:activity
+<!-- START_SECTION:activity -->
 <!-- 1. ❗️ Opened issue [#32](https://github.com/kittinan/spotify-github-profile/issues/32) in [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile)
 1. 🎉 Merged PR [#1](https://github.com/cmrobotics/voxblox/pull/1) in [cmrobotics/voxblox](https://github.com/cmrobotics/voxblox)
 2. 🗣 Commented on [#13](https://github.com/SICKAG/sick_safetyscanners2/issues/13) in [SICKAG/sick_safetyscanners2](https://github.com/SICKAG/sick_safetyscanners2)
 3. 💪 Opened PR [#10](https://github.com/famez/J1939-Framework/pull/10) in [famez/J1939-Framework](https://github.com/famez/J1939-Framework)
 4. ❗️ Closed issue [#11](https://github.com/APLA-Toolbox/go-pddl/issues/11) in [APLA-Toolbox/go-pddl](https://github.com/APLA-Toolbox/go-pddl)  -->
-END_SECTION:activity
+<!-- END_SECTION:activity -->
 
-
+<!--START_SECTION:activity--> 
+<!--END_SECTION:activity-->
 
  <!-- 
  
