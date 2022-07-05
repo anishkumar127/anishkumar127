@@ -88,11 +88,11 @@ TODO-IST:END -->
 ### ⚡ Recent GitHub Activity
 |
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/anishkumar127/anishkumar127/pull/7) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
-2. 💪 Opened PR [#7](https://github.com/anishkumar127/anishkumar127/pull/7) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
-3. 🎉 Merged PR [#14](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/14) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-4. 💪 Opened PR [#14](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/14) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-5. 🎉 Merged PR [#13](https://github.com/anishkumar127/Java-Data-Structure-Algorithm-Solutions/pull/13) in [anishkumar127/Java-Data-Structure-Algorithm-Solutions](https://github.com/anishkumar127/Java-Data-Structure-Algorithm-Solutions)
+1. ❗️ Opened issue [#76](https://github.com/jstrieb/github-stats/issues/76) in [jstrieb/github-stats](https://github.com/jstrieb/github-stats)
+2. 🎉 Merged PR [#7](https://github.com/anishkumar127/anishkumar127/pull/7) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
+3. 💪 Opened PR [#7](https://github.com/anishkumar127/anishkumar127/pull/7) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
+4. 🎉 Merged PR [#14](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/14) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+5. 💪 Opened PR [#14](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/14) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
 <!--END_SECTION:activity--> |
 
 
