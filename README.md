@@ -88,10 +88,11 @@ TODO-IST:END -->
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-
+<!--END_SECTION:activity-->
+# Recent Activity :zap:
+<!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<!--START_SECTION:activity-->
 
 ## 🦋 Latest YouTube videos
 <!-- YOUTUBE:START -->
