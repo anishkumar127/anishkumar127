@@ -92,16 +92,16 @@ TODO-IST:END -->
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/anishkumar127/Data-Structures-and-Algorithms/issues/15) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-2. 🎉 Merged PR [#15](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/15) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-3. 💪 Opened PR [#15](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/15) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-4. 💪 Opened PR [#3](https://github.com/anishkumar127/github-stats-readme/pull/3) in [anishkumar127/github-stats-readme](https://github.com/anishkumar127/github-stats-readme)
-5. 🎉 Merged PR [#2](https://github.com/anishkumar127/github-stats-readme/pull/2) in [anishkumar127/github-stats-readme](https://github.com/anishkumar127/github-stats-readme)
-6. 💪 Opened PR [#2](https://github.com/anishkumar127/github-stats-readme/pull/2) in [anishkumar127/github-stats-readme](https://github.com/anishkumar127/github-stats-readme)
-7. 🎉 Merged PR [#1](https://github.com/anishkumar127/github-stats-readme/pull/1) in [anishkumar127/github-stats-readme](https://github.com/anishkumar127/github-stats-readme)
-8. 💪 Opened PR [#1](https://github.com/anishkumar127/github-stats-readme/pull/1) in [anishkumar127/github-stats-readme](https://github.com/anishkumar127/github-stats-readme)
-9. 🎉 Merged PR [#23](https://github.com/anishkumar127/anishkumar127/pull/23) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
-10. 💪 Opened PR [#23](https://github.com/anishkumar127/anishkumar127/pull/23) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
+1. 🎉 Merged PR [#16](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/16) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+2. 💪 Opened PR [#16](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/16) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+3. 🗣 Commented on [#15](https://github.com/anishkumar127/Data-Structures-and-Algorithms/issues/15) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+4. 🎉 Merged PR [#15](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/15) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+5. 💪 Opened PR [#15](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/15) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+6. 💪 Opened PR [#3](https://github.com/anishkumar127/github-stats-readme/pull/3) in [anishkumar127/github-stats-readme](https://github.com/anishkumar127/github-stats-readme)
+7. 🎉 Merged PR [#2](https://github.com/anishkumar127/github-stats-readme/pull/2) in [anishkumar127/github-stats-readme](https://github.com/anishkumar127/github-stats-readme)
+8. 💪 Opened PR [#2](https://github.com/anishkumar127/github-stats-readme/pull/2) in [anishkumar127/github-stats-readme](https://github.com/anishkumar127/github-stats-readme)
+9. 🎉 Merged PR [#1](https://github.com/anishkumar127/github-stats-readme/pull/1) in [anishkumar127/github-stats-readme](https://github.com/anishkumar127/github-stats-readme)
+10. 💪 Opened PR [#1](https://github.com/anishkumar127/github-stats-readme/pull/1) in [anishkumar127/github-stats-readme](https://github.com/anishkumar127/github-stats-readme)
 <!--END_SECTION:activity-->
 ## 🦋 Latest YouTube videos
 
