@@ -138,6 +138,9 @@ TODO-IST:END -->
 
 ![snake gif](https://github.com/anishkumar127/anishkumar127/blob/output/github-contribution-grid-snake.svg)
 
+
+![snake gif](https://github.com/anishkumar127/anishkumar127/blob/output/github-contribution-grid-snake.gif)
+
 <!--  // this is stats and language. 
 ![](https://raw.githubusercontent.com/anishkumar127/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/anishkumar127/github-stats/master/generated/languages.svg#gh-dark-mode-only) -->
