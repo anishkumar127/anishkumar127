@@ -117,7 +117,7 @@ TODO-IST:END -->
  <details> 
  <summary>Latest Tweets</summary>
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=anishbishnoixD&layout=wide)](https://github.com/anishkumar127/github-readme-twitter)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=anishbishnoixD&layout=wide)](https://twitter.com/anishbishnoixD)
  </details>
 <details> 
  <summary>GitHub History</summary>
@@ -135,9 +135,6 @@ TODO-IST:END -->
 </div>
 </details>
 </div>
-
-![snake gif](https://github.com/anishkumar127/anishkumar127/blob/output/github-contribution-grid-snake.svg)
-
 
 ![snake gif](https://github.com/anishkumar127/anishkumar127/blob/output/github-contribution-grid-snake.gif)
 
@@ -187,4 +184,7 @@ No Activity Tracked This Week
 
 
  -->
+
+
+<!-- ![snake gif](https://github.com/anishkumar127/anishkumar127/blob/output/github-contribution-grid-snake.svg) -->
 
