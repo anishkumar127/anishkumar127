@@ -92,16 +92,16 @@ TODO-IST:END -->
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#55](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/55) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-2. 💪 Opened PR [#55](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/55) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-3. 🎉 Merged PR [#54](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/54) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-4. 💪 Opened PR [#54](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/54) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-5. 🎉 Merged PR [#53](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/53) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-6. 🗣 Commented on [#53](https://github.com/anishkumar127/Data-Structures-and-Algorithms/issues/53) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-7. 💪 Opened PR [#53](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/53) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-8. ❌ Closed PR [#25](https://github.com/anishkumar127/anishkumar127/pull/25) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
-9. 🎉 Merged PR [#52](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/52) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-10. 💪 Opened PR [#52](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/52) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+1. 🎉 Merged PR [#56](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/56) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+2. 💪 Opened PR [#56](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/56) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+3. 🎉 Merged PR [#55](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/55) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+4. 💪 Opened PR [#55](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/55) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+5. 🎉 Merged PR [#54](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/54) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+6. 💪 Opened PR [#54](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/54) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+7. 🎉 Merged PR [#53](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/53) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+8. 🗣 Commented on [#53](https://github.com/anishkumar127/Data-Structures-and-Algorithms/issues/53) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+9. 💪 Opened PR [#53](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/53) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+10. ❌ Closed PR [#25](https://github.com/anishkumar127/anishkumar127/pull/25) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
 <!--END_SECTION:activity-->
 ## 🦋 Latest YouTube videos
 
