@@ -97,11 +97,11 @@ TODO-IST:END -->
 3. 🎉 Merged PR [#83](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/83) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
 4. 💪 Opened PR [#83](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/83) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
 5. 🗣 Commented on [#1370](https://github.com/Flow-Launcher/Flow.Launcher/issues/1370) in [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
-6. 🗣 Commented on [#695](https://github.com/Anuj-Kumar-Sharma/First-Contribution/issues/695) in [Anuj-Kumar-Sharma/First-Contribution](https://github.com/Anuj-Kumar-Sharma/First-Contribution)
-7. 🗣 Commented on [#695](https://github.com/Anuj-Kumar-Sharma/First-Contribution/issues/695) in [Anuj-Kumar-Sharma/First-Contribution](https://github.com/Anuj-Kumar-Sharma/First-Contribution)
-8. 💪 Opened PR [#695](https://github.com/Anuj-Kumar-Sharma/First-Contribution/pull/695) in [Anuj-Kumar-Sharma/First-Contribution](https://github.com/Anuj-Kumar-Sharma/First-Contribution)
-9. 🎉 Merged PR [#81](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/81) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-10. 💪 Opened PR [#81](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/81) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+6. 🎉 Merged PR [#82](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/82) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+7. 💪 Opened PR [#82](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/82) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+8. 🗣 Commented on [#695](https://github.com/Anuj-Kumar-Sharma/First-Contribution/issues/695) in [Anuj-Kumar-Sharma/First-Contribution](https://github.com/Anuj-Kumar-Sharma/First-Contribution)
+9. 🗣 Commented on [#695](https://github.com/Anuj-Kumar-Sharma/First-Contribution/issues/695) in [Anuj-Kumar-Sharma/First-Contribution](https://github.com/Anuj-Kumar-Sharma/First-Contribution)
+10. 💪 Opened PR [#695](https://github.com/Anuj-Kumar-Sharma/First-Contribution/pull/695) in [Anuj-Kumar-Sharma/First-Contribution](https://github.com/Anuj-Kumar-Sharma/First-Contribution)
 <!--END_SECTION:activity-->
 ## 🦋 Latest YouTube videos
 
