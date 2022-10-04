@@ -92,11 +92,11 @@ TODO-IST:END -->
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#114](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/114) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-2. 💪 Opened PR [#114](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/114) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-3. 🎉 Merged PR [#113](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/113) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-4. 💪 Opened PR [#113](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/113) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-5. 🎉 Merged PR [#4](https://github.com/anishkumar127/E-Dashboard/pull/4) in [anishkumar127/E-Dashboard](https://github.com/anishkumar127/E-Dashboard)
+1. 💪 Opened PR [#10](https://github.com/jaydip1235/DSA/pull/10) in [jaydip1235/DSA](https://github.com/jaydip1235/DSA)
+2. 💪 Opened PR [#9](https://github.com/jaydip1235/DSA/pull/9) in [jaydip1235/DSA](https://github.com/jaydip1235/DSA)
+3. 🎉 Merged PR [#114](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/114) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+4. 💪 Opened PR [#114](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/114) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+5. 🎉 Merged PR [#113](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/113) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
 6. 💪 Opened PR [#4](https://github.com/anishkumar127/E-Dashboard/pull/4) in [anishkumar127/E-Dashboard](https://github.com/anishkumar127/E-Dashboard)
 7. 🎉 Merged PR [#3](https://github.com/anishkumar127/E-Dashboard/pull/3) in [anishkumar127/E-Dashboard](https://github.com/anishkumar127/E-Dashboard)
 8. 💪 Opened PR [#3](https://github.com/anishkumar127/E-Dashboard/pull/3) in [anishkumar127/E-Dashboard](https://github.com/anishkumar127/E-Dashboard)
