@@ -97,11 +97,11 @@ TODO-IST:END -->
 3. 🎉 Merged PR [#4](https://github.com/anishkumar127/Routine_Track/pull/4) in [anishkumar127/Routine_Track](https://github.com/anishkumar127/Routine_Track)
 4. 💪 Opened PR [#4](https://github.com/anishkumar127/Routine_Track/pull/4) in [anishkumar127/Routine_Track](https://github.com/anishkumar127/Routine_Track)
 5. 🎉 Merged PR [#3](https://github.com/anishkumar127/Routine_Track/pull/3) in [anishkumar127/Routine_Track](https://github.com/anishkumar127/Routine_Track)
-6. 🗣 Commented on [#2](https://github.com/anishkumar127/Routine_Track/issues/2) in [anishkumar127/Routine_Track](https://github.com/anishkumar127/Routine_Track)
-7. 🎉 Merged PR [#1](https://github.com/anishkumar127/Routine_Track/pull/1) in [anishkumar127/Routine_Track](https://github.com/anishkumar127/Routine_Track)
-8. 💪 Opened PR [#1](https://github.com/anishkumar127/Routine_Track/pull/1) in [anishkumar127/Routine_Track](https://github.com/anishkumar127/Routine_Track)
-9. 🎉 Merged PR [#127](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/127) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-10. 💪 Opened PR [#127](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/127) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+6. 💪 Opened PR [#3](https://github.com/anishkumar127/Routine_Track/pull/3) in [anishkumar127/Routine_Track](https://github.com/anishkumar127/Routine_Track)
+7. ❗️ Closed issue [#2](https://github.com/anishkumar127/Routine_Track/issues/2) in [anishkumar127/Routine_Track](https://github.com/anishkumar127/Routine_Track)
+8. 🗣 Commented on [#2](https://github.com/anishkumar127/Routine_Track/issues/2) in [anishkumar127/Routine_Track](https://github.com/anishkumar127/Routine_Track)
+9. 🎉 Merged PR [#1](https://github.com/anishkumar127/Routine_Track/pull/1) in [anishkumar127/Routine_Track](https://github.com/anishkumar127/Routine_Track)
+10. 💪 Opened PR [#1](https://github.com/anishkumar127/Routine_Track/pull/1) in [anishkumar127/Routine_Track](https://github.com/anishkumar127/Routine_Track)
 <!--END_SECTION:activity-->
 ## 🦋 Latest YouTube videos
 
