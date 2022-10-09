@@ -92,11 +92,11 @@ TODO-IST:END -->
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/anishkumar127/Routine_Track/pull/6) in [anishkumar127/Routine_Track](https://github.com/anishkumar127/Routine_Track)
-2. 💪 Opened PR [#6](https://github.com/anishkumar127/Routine_Track/pull/6) in [anishkumar127/Routine_Track](https://github.com/anishkumar127/Routine_Track)
-3. 🎉 Merged PR [#5](https://github.com/anishkumar127/Routine_Track/pull/5) in [anishkumar127/Routine_Track](https://github.com/anishkumar127/Routine_Track)
-4. 💪 Opened PR [#5](https://github.com/anishkumar127/Routine_Track/pull/5) in [anishkumar127/Routine_Track](https://github.com/anishkumar127/Routine_Track)
-5. 🎉 Merged PR [#4](https://github.com/anishkumar127/Routine_Track/pull/4) in [anishkumar127/Routine_Track](https://github.com/anishkumar127/Routine_Track)
+1. 🎉 Merged PR [#7](https://github.com/anishkumar127/Routine_Track/pull/7) in [anishkumar127/Routine_Track](https://github.com/anishkumar127/Routine_Track)
+2. 💪 Opened PR [#7](https://github.com/anishkumar127/Routine_Track/pull/7) in [anishkumar127/Routine_Track](https://github.com/anishkumar127/Routine_Track)
+3. 🎉 Merged PR [#6](https://github.com/anishkumar127/Routine_Track/pull/6) in [anishkumar127/Routine_Track](https://github.com/anishkumar127/Routine_Track)
+4. 💪 Opened PR [#6](https://github.com/anishkumar127/Routine_Track/pull/6) in [anishkumar127/Routine_Track](https://github.com/anishkumar127/Routine_Track)
+5. 🎉 Merged PR [#5](https://github.com/anishkumar127/Routine_Track/pull/5) in [anishkumar127/Routine_Track](https://github.com/anishkumar127/Routine_Track)
 6. 💪 Opened PR [#4](https://github.com/anishkumar127/Routine_Track/pull/4) in [anishkumar127/Routine_Track](https://github.com/anishkumar127/Routine_Track)
 7. 🎉 Merged PR [#3](https://github.com/anishkumar127/Routine_Track/pull/3) in [anishkumar127/Routine_Track](https://github.com/anishkumar127/Routine_Track)
 8. 💪 Opened PR [#3](https://github.com/anishkumar127/Routine_Track/pull/3) in [anishkumar127/Routine_Track](https://github.com/anishkumar127/Routine_Track)
