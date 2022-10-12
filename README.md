@@ -97,11 +97,11 @@ TODO-IST:END -->
 3. 🎉 Merged PR [#132](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/132) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
 4. 💪 Opened PR [#132](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/132) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
 5. 🎉 Merged PR [#131](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/131) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-6. 💪 Opened PR [#4](https://github.com/anishkumar127/Brick_Breaker_Game/pull/4) in [anishkumar127/Brick_Breaker_Game](https://github.com/anishkumar127/Brick_Breaker_Game)
-7. 🎉 Merged PR [#3](https://github.com/anishkumar127/Brick_Breaker_Game/pull/3) in [anishkumar127/Brick_Breaker_Game](https://github.com/anishkumar127/Brick_Breaker_Game)
-8. 💪 Opened PR [#3](https://github.com/anishkumar127/Brick_Breaker_Game/pull/3) in [anishkumar127/Brick_Breaker_Game](https://github.com/anishkumar127/Brick_Breaker_Game)
-9. 🎉 Merged PR [#2](https://github.com/anishkumar127/Brick_Breaker_Game/pull/2) in [anishkumar127/Brick_Breaker_Game](https://github.com/anishkumar127/Brick_Breaker_Game)
-10. 💪 Opened PR [#2](https://github.com/anishkumar127/Brick_Breaker_Game/pull/2) in [anishkumar127/Brick_Breaker_Game](https://github.com/anishkumar127/Brick_Breaker_Game)
+6. 💪 Opened PR [#131](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/131) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+7. 🗣 Commented on [#4](https://github.com/anishkumar127/Brick_Breaker_Game/issues/4) in [anishkumar127/Brick_Breaker_Game](https://github.com/anishkumar127/Brick_Breaker_Game)
+8. 💪 Opened PR [#4](https://github.com/anishkumar127/Brick_Breaker_Game/pull/4) in [anishkumar127/Brick_Breaker_Game](https://github.com/anishkumar127/Brick_Breaker_Game)
+9. 🎉 Merged PR [#3](https://github.com/anishkumar127/Brick_Breaker_Game/pull/3) in [anishkumar127/Brick_Breaker_Game](https://github.com/anishkumar127/Brick_Breaker_Game)
+10. 💪 Opened PR [#3](https://github.com/anishkumar127/Brick_Breaker_Game/pull/3) in [anishkumar127/Brick_Breaker_Game](https://github.com/anishkumar127/Brick_Breaker_Game)
 <!--END_SECTION:activity-->
 ## 🦋 Latest YouTube videos
 
