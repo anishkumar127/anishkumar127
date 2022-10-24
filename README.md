@@ -97,11 +97,11 @@ TODO-IST:END -->
 3. 🎉 Merged PR [#2](https://github.com/anishkumar127/University_Management_System/pull/2) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
 4. 💪 Opened PR [#2](https://github.com/anishkumar127/University_Management_System/pull/2) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
 5. 🎉 Merged PR [#1](https://github.com/anishkumar127/University_Management_System/pull/1) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
-6. 💪 Opened PR [#168](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/168) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-7. 🎉 Merged PR [#167](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/167) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-8. 💪 Opened PR [#167](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/167) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-9. 🎉 Merged PR [#166](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/166) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-10. 💪 Opened PR [#166](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/166) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+6. 💪 Opened PR [#1](https://github.com/anishkumar127/University_Management_System/pull/1) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
+7. 🎉 Merged PR [#169](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/169) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+8. 💪 Opened PR [#169](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/169) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+9. 🎉 Merged PR [#168](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/168) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+10. 💪 Opened PR [#168](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/168) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
 <!--END_SECTION:activity-->
 ## 🦋 Latest YouTube videos
 
