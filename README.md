@@ -92,11 +92,11 @@ TODO-IST:END -->
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/anishkumar127/University_Management_System/pull/5) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
-2. 💪 Opened PR [#5](https://github.com/anishkumar127/University_Management_System/pull/5) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
-3. 🎉 Merged PR [#4](https://github.com/anishkumar127/University_Management_System/pull/4) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
-4. 💪 Opened PR [#4](https://github.com/anishkumar127/University_Management_System/pull/4) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
-5. 🎉 Merged PR [#3](https://github.com/anishkumar127/University_Management_System/pull/3) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
+1. 🎉 Merged PR [#6](https://github.com/anishkumar127/University_Management_System/pull/6) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
+2. 💪 Opened PR [#6](https://github.com/anishkumar127/University_Management_System/pull/6) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
+3. 🎉 Merged PR [#5](https://github.com/anishkumar127/University_Management_System/pull/5) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
+4. 💪 Opened PR [#5](https://github.com/anishkumar127/University_Management_System/pull/5) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
+5. 🎉 Merged PR [#4](https://github.com/anishkumar127/University_Management_System/pull/4) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
 6. 💪 Opened PR [#3](https://github.com/anishkumar127/University_Management_System/pull/3) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
 7. 🎉 Merged PR [#2](https://github.com/anishkumar127/University_Management_System/pull/2) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
 8. 💪 Opened PR [#2](https://github.com/anishkumar127/University_Management_System/pull/2) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
