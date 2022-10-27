@@ -92,16 +92,16 @@ TODO-IST:END -->
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#171](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/171) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-2. 💪 Opened PR [#171](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/171) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-3. 🎉 Merged PR [#16](https://github.com/anishkumar127/University_Management_System/pull/16) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
-4. 💪 Opened PR [#16](https://github.com/anishkumar127/University_Management_System/pull/16) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
-5. 🎉 Merged PR [#15](https://github.com/anishkumar127/University_Management_System/pull/15) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
-6. 💪 Opened PR [#15](https://github.com/anishkumar127/University_Management_System/pull/15) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
-7. 🗣 Commented on [#14](https://github.com/anishkumar127/University_Management_System/issues/14) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
-8. ❗️ Closed issue [#14](https://github.com/anishkumar127/University_Management_System/issues/14) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
-9. 🎉 Merged PR [#13](https://github.com/anishkumar127/University_Management_System/pull/13) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
-10. 💪 Opened PR [#13](https://github.com/anishkumar127/University_Management_System/pull/13) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
+1. 🎉 Merged PR [#17](https://github.com/anishkumar127/University_Management_System/pull/17) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
+2. 💪 Opened PR [#17](https://github.com/anishkumar127/University_Management_System/pull/17) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
+3. 🎉 Merged PR [#171](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/171) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+4. 💪 Opened PR [#171](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/171) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+5. 🎉 Merged PR [#16](https://github.com/anishkumar127/University_Management_System/pull/16) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
+6. 💪 Opened PR [#16](https://github.com/anishkumar127/University_Management_System/pull/16) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
+7. 🎉 Merged PR [#15](https://github.com/anishkumar127/University_Management_System/pull/15) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
+8. 💪 Opened PR [#15](https://github.com/anishkumar127/University_Management_System/pull/15) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
+9. 🗣 Commented on [#14](https://github.com/anishkumar127/University_Management_System/issues/14) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
+10. ❗️ Closed issue [#14](https://github.com/anishkumar127/University_Management_System/issues/14) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
 <!--END_SECTION:activity-->
 ## 🦋 Latest YouTube videos
 
