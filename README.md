@@ -92,16 +92,16 @@ TODO-IST:END -->
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/anishkumar127/University_Management_System/pull/24) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
-2. 💪 Opened PR [#24](https://github.com/anishkumar127/University_Management_System/pull/24) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
-3. 🎉 Merged PR [#23](https://github.com/anishkumar127/University_Management_System/pull/23) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
-4. 💪 Opened PR [#23](https://github.com/anishkumar127/University_Management_System/pull/23) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
-5. 🎉 Merged PR [#22](https://github.com/anishkumar127/University_Management_System/pull/22) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
-6. 💪 Opened PR [#22](https://github.com/anishkumar127/University_Management_System/pull/22) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
-7. 🎉 Merged PR [#180](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/180) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-8. 💪 Opened PR [#180](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/180) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-9. 🎉 Merged PR [#178](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/178) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-10. 💪 Opened PR [#178](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/178) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+1. 🎉 Merged PR [#12](https://github.com/anishkumar127/curd-mern/pull/12) in [anishkumar127/curd-mern](https://github.com/anishkumar127/curd-mern)
+2. 💪 Opened PR [#12](https://github.com/anishkumar127/curd-mern/pull/12) in [anishkumar127/curd-mern](https://github.com/anishkumar127/curd-mern)
+3. 🎉 Merged PR [#24](https://github.com/anishkumar127/University_Management_System/pull/24) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
+4. 💪 Opened PR [#24](https://github.com/anishkumar127/University_Management_System/pull/24) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
+5. 🎉 Merged PR [#23](https://github.com/anishkumar127/University_Management_System/pull/23) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
+6. 💪 Opened PR [#23](https://github.com/anishkumar127/University_Management_System/pull/23) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
+7. 🎉 Merged PR [#22](https://github.com/anishkumar127/University_Management_System/pull/22) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
+8. 💪 Opened PR [#22](https://github.com/anishkumar127/University_Management_System/pull/22) in [anishkumar127/University_Management_System](https://github.com/anishkumar127/University_Management_System)
+9. 🎉 Merged PR [#180](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/180) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+10. 💪 Opened PR [#180](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/180) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
 <!--END_SECTION:activity-->
 ## 🦋 Latest YouTube videos
 
