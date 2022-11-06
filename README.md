@@ -97,11 +97,11 @@ TODO-IST:END -->
 3. 🎉 Merged PR [#164](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/164) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
 4. 🎉 Merged PR [#179](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/179) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
 5. 🎉 Merged PR [#187](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/187) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-6. 💪 Opened PR [#185](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/185) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-7. 🎉 Merged PR [#184](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/184) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-8. 💪 Opened PR [#184](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/184) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-9. 🎉 Merged PR [#183](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/183) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-10. 💪 Opened PR [#183](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/183) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+6. 💪 Opened PR [#187](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/187) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+7. ❗️ Opened issue [#20](https://github.com/4074/leetcode-helper/issues/20) in [4074/leetcode-helper](https://github.com/4074/leetcode-helper)
+8. 🎉 Merged PR [#186](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/186) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+9. 💪 Opened PR [#186](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/186) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+10. ❗️ Opened issue [#9700](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/9700) in [LeetCode-Feedback/LeetCode-Feedback](https://github.com/LeetCode-Feedback/LeetCode-Feedback)
 <!--END_SECTION:activity-->
 ## 🦋 Latest YouTube videos
 
