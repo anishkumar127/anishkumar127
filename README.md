@@ -92,16 +92,16 @@ TODO-IST:END -->
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#192](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/192) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-2. 💪 Opened PR [#192](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/192) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-3. 🎉 Merged PR [#191](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/191) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-4. 💪 Opened PR [#191](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/191) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-5. 🎉 Merged PR [#10](https://github.com/anishkumar127/video-sharing-app/pull/10) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
-6. 💪 Opened PR [#10](https://github.com/anishkumar127/video-sharing-app/pull/10) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
-7. 🎉 Merged PR [#9](https://github.com/anishkumar127/video-sharing-app/pull/9) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
-8. 💪 Opened PR [#9](https://github.com/anishkumar127/video-sharing-app/pull/9) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
-9. 🎉 Merged PR [#8](https://github.com/anishkumar127/video-sharing-app/pull/8) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
-10. 💪 Opened PR [#8](https://github.com/anishkumar127/video-sharing-app/pull/8) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
+1. 🎉 Merged PR [#193](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/193) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+2. 💪 Opened PR [#193](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/193) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+3. 🎉 Merged PR [#192](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/192) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+4. 💪 Opened PR [#192](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/192) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+5. 🎉 Merged PR [#191](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/191) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+6. 💪 Opened PR [#191](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/191) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+7. 🎉 Merged PR [#10](https://github.com/anishkumar127/video-sharing-app/pull/10) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
+8. 💪 Opened PR [#10](https://github.com/anishkumar127/video-sharing-app/pull/10) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
+9. 🎉 Merged PR [#9](https://github.com/anishkumar127/video-sharing-app/pull/9) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
+10. 💪 Opened PR [#9](https://github.com/anishkumar127/video-sharing-app/pull/9) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
 <!--END_SECTION:activity-->
 ## 🦋 Latest YouTube videos
 
