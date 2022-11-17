@@ -92,16 +92,16 @@ TODO-IST:END -->
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/safak/youtube2022/issues/34) in [safak/youtube2022](https://github.com/safak/youtube2022)
-2. 🎉 Merged PR [#21](https://github.com/anishkumar127/video-sharing-app/pull/21) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
-3. 💪 Opened PR [#21](https://github.com/anishkumar127/video-sharing-app/pull/21) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
-4. 🎉 Merged PR [#20](https://github.com/anishkumar127/video-sharing-app/pull/20) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
-5. 💪 Opened PR [#20](https://github.com/anishkumar127/video-sharing-app/pull/20) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
-6. 🎉 Merged PR [#19](https://github.com/anishkumar127/video-sharing-app/pull/19) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
-7. 💪 Opened PR [#19](https://github.com/anishkumar127/video-sharing-app/pull/19) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
-8. 🎉 Merged PR [#18](https://github.com/anishkumar127/video-sharing-app/pull/18) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
-9. 💪 Opened PR [#18](https://github.com/anishkumar127/video-sharing-app/pull/18) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
-10. 🎉 Merged PR [#17](https://github.com/anishkumar127/video-sharing-app/pull/17) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
+1. 🎉 Merged PR [#22](https://github.com/anishkumar127/video-sharing-app/pull/22) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
+2. 💪 Opened PR [#22](https://github.com/anishkumar127/video-sharing-app/pull/22) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
+3. 🗣 Commented on [#34](https://github.com/safak/youtube2022/issues/34) in [safak/youtube2022](https://github.com/safak/youtube2022)
+4. 🎉 Merged PR [#21](https://github.com/anishkumar127/video-sharing-app/pull/21) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
+5. 💪 Opened PR [#21](https://github.com/anishkumar127/video-sharing-app/pull/21) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
+6. 🎉 Merged PR [#20](https://github.com/anishkumar127/video-sharing-app/pull/20) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
+7. 💪 Opened PR [#20](https://github.com/anishkumar127/video-sharing-app/pull/20) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
+8. 🎉 Merged PR [#19](https://github.com/anishkumar127/video-sharing-app/pull/19) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
+9. 💪 Opened PR [#19](https://github.com/anishkumar127/video-sharing-app/pull/19) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
+10. 🎉 Merged PR [#18](https://github.com/anishkumar127/video-sharing-app/pull/18) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
 <!--END_SECTION:activity-->
 ## 🦋 Latest YouTube videos
 
