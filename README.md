@@ -92,16 +92,16 @@ TODO-IST:END -->
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/anishkumar127/video-sharing-app/pull/28) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
-2. 💪 Opened PR [#28](https://github.com/anishkumar127/video-sharing-app/pull/28) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
-3. 🎉 Merged PR [#27](https://github.com/anishkumar127/video-sharing-app/pull/27) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
-4. 💪 Opened PR [#27](https://github.com/anishkumar127/video-sharing-app/pull/27) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
-5. 🎉 Merged PR [#26](https://github.com/anishkumar127/video-sharing-app/pull/26) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
-6. 💪 Opened PR [#26](https://github.com/anishkumar127/video-sharing-app/pull/26) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
-7. 🎉 Merged PR [#25](https://github.com/anishkumar127/video-sharing-app/pull/25) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
-8. 💪 Opened PR [#25](https://github.com/anishkumar127/video-sharing-app/pull/25) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
-9. 🎉 Merged PR [#24](https://github.com/anishkumar127/video-sharing-app/pull/24) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
-10. 💪 Opened PR [#24](https://github.com/anishkumar127/video-sharing-app/pull/24) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
+1. 🎉 Merged PR [#29](https://github.com/anishkumar127/video-sharing-app/pull/29) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
+2. 💪 Opened PR [#29](https://github.com/anishkumar127/video-sharing-app/pull/29) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
+3. 🎉 Merged PR [#28](https://github.com/anishkumar127/video-sharing-app/pull/28) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
+4. 💪 Opened PR [#28](https://github.com/anishkumar127/video-sharing-app/pull/28) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
+5. 🎉 Merged PR [#27](https://github.com/anishkumar127/video-sharing-app/pull/27) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
+6. 💪 Opened PR [#27](https://github.com/anishkumar127/video-sharing-app/pull/27) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
+7. 🎉 Merged PR [#26](https://github.com/anishkumar127/video-sharing-app/pull/26) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
+8. 💪 Opened PR [#26](https://github.com/anishkumar127/video-sharing-app/pull/26) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
+9. 🎉 Merged PR [#25](https://github.com/anishkumar127/video-sharing-app/pull/25) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
+10. 💪 Opened PR [#25](https://github.com/anishkumar127/video-sharing-app/pull/25) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
 <!--END_SECTION:activity-->
 ## 🦋 Latest YouTube videos
 
