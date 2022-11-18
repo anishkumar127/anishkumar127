@@ -97,11 +97,11 @@ TODO-IST:END -->
 3. 💪 Opened PR [#37](https://github.com/anishkumar127/video-sharing-app/pull/37) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
 4. 🎉 Merged PR [#36](https://github.com/anishkumar127/video-sharing-app/pull/36) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
 5. 💪 Opened PR [#36](https://github.com/anishkumar127/video-sharing-app/pull/36) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
-6. ❗️ Opened issue [#47](https://github.com/hustcc/timeago-react/issues/47) in [hustcc/timeago-react](https://github.com/hustcc/timeago-react)
-7. 🎉 Merged PR [#35](https://github.com/anishkumar127/video-sharing-app/pull/35) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
-8. 💪 Opened PR [#35](https://github.com/anishkumar127/video-sharing-app/pull/35) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
-9. 🎉 Merged PR [#34](https://github.com/anishkumar127/video-sharing-app/pull/34) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
-10. 💪 Opened PR [#34](https://github.com/anishkumar127/video-sharing-app/pull/34) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
+6. ❗️ Opened issue [#183](https://github.com/nmn/react-timeago/issues/183) in [nmn/react-timeago](https://github.com/nmn/react-timeago)
+7. ❗️ Opened issue [#47](https://github.com/hustcc/timeago-react/issues/47) in [hustcc/timeago-react](https://github.com/hustcc/timeago-react)
+8. 🎉 Merged PR [#35](https://github.com/anishkumar127/video-sharing-app/pull/35) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
+9. 💪 Opened PR [#35](https://github.com/anishkumar127/video-sharing-app/pull/35) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
+10. 🎉 Merged PR [#34](https://github.com/anishkumar127/video-sharing-app/pull/34) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
 <!--END_SECTION:activity-->
 ## 🦋 Latest YouTube videos
 
