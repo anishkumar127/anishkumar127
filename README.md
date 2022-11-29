@@ -92,16 +92,16 @@ TODO-IST:END -->
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#196](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/196) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-2. 💪 Opened PR [#196](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/196) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-3. 🎉 Merged PR [#195](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/195) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-4. 💪 Opened PR [#195](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/195) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-5. 💪 Opened PR [#38](https://github.com/anishkumar127/video-sharing-app/pull/38) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
-6. 🗣 Commented on [#20](https://github.com/4074/leetcode-helper/issues/20) in [4074/leetcode-helper](https://github.com/4074/leetcode-helper)
-7. 🗣 Commented on [#20](https://github.com/4074/leetcode-helper/issues/20) in [4074/leetcode-helper](https://github.com/4074/leetcode-helper)
-8. 🎉 Merged PR [#37](https://github.com/anishkumar127/video-sharing-app/pull/37) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
-9. 💪 Opened PR [#37](https://github.com/anishkumar127/video-sharing-app/pull/37) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
-10. 🎉 Merged PR [#36](https://github.com/anishkumar127/video-sharing-app/pull/36) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
+1. 🎉 Merged PR [#1](https://github.com/anishkumar127/brain-notes/pull/1) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+2. 💪 Opened PR [#1](https://github.com/anishkumar127/brain-notes/pull/1) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+3. 🎉 Merged PR [#196](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/196) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+4. 💪 Opened PR [#196](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/196) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+5. 🎉 Merged PR [#195](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/195) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+6. 💪 Opened PR [#195](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/195) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+7. 💪 Opened PR [#38](https://github.com/anishkumar127/video-sharing-app/pull/38) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
+8. 🗣 Commented on [#20](https://github.com/4074/leetcode-helper/issues/20) in [4074/leetcode-helper](https://github.com/4074/leetcode-helper)
+9. 🗣 Commented on [#20](https://github.com/4074/leetcode-helper/issues/20) in [4074/leetcode-helper](https://github.com/4074/leetcode-helper)
+10. 🎉 Merged PR [#37](https://github.com/anishkumar127/video-sharing-app/pull/37) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
 <!--END_SECTION:activity-->
 ## 🦋 Latest YouTube videos
 
