@@ -103,6 +103,13 @@ TODO-IST:END -->
 9. 🎉 Merged PR [#197](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/197) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
 10. 💪 Opened PR [#197](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/197) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
 <!--END_SECTION:activity-->
+
+
+<!-- <details>  -->
+ <!-- <summary>GitHub History</summary> -->
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anishkumar127&" alt="anishkumar127" /></p>
+<!-- </details> -->
+
 ## 🦋 Latest YouTube videos
 
 <!-- YOUTUBE:START -->
@@ -121,10 +128,7 @@ TODO-IST:END -->
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=anishbishnoixD&layout=wide)](https://twitter.com/anishbishnoixD)
  </details>
-<details> 
- <summary>GitHub History</summary>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anishkumar127&" alt="anishkumar127" /></p>
-</details>
+
 </div>
 
  <div>
@@ -192,3 +196,12 @@ No Activity Tracked This Week
 
 
 <!-- ![snake gif](https://github.com/anishkumar127/anishkumar127/blob/output/github-contribution-grid-snake.svg) -->
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+[![@anishkumar127's Holopin board](https://holopin.me/anishkumar127)](https://holopin.io/@anishkumar127)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
