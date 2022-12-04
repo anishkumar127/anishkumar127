@@ -106,16 +106,16 @@ TODO-IST:END -->
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/anishkumar127/anishkumar127/pull/31) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
-2. 💪 Opened PR [#31](https://github.com/anishkumar127/anishkumar127/pull/31) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
-3. 🎉 Merged PR [#30](https://github.com/anishkumar127/anishkumar127/pull/30) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
-4. 💪 Opened PR [#30](https://github.com/anishkumar127/anishkumar127/pull/30) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
-5. 🎉 Merged PR [#29](https://github.com/anishkumar127/anishkumar127/pull/29) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
-6. 💪 Opened PR [#29](https://github.com/anishkumar127/anishkumar127/pull/29) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
-7. 🎉 Merged PR [#28](https://github.com/anishkumar127/anishkumar127/pull/28) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
-8. 💪 Opened PR [#28](https://github.com/anishkumar127/anishkumar127/pull/28) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
-9. 🎉 Merged PR [#27](https://github.com/anishkumar127/anishkumar127/pull/27) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
-10. 💪 Opened PR [#27](https://github.com/anishkumar127/anishkumar127/pull/27) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
+1. 🎉 Merged PR [#38](https://github.com/anishkumar127/anishkumar127/pull/38) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
+2. 💪 Opened PR [#38](https://github.com/anishkumar127/anishkumar127/pull/38) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
+3. 🎉 Merged PR [#37](https://github.com/anishkumar127/anishkumar127/pull/37) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
+4. 💪 Opened PR [#37](https://github.com/anishkumar127/anishkumar127/pull/37) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
+5. 🎉 Merged PR [#36](https://github.com/anishkumar127/anishkumar127/pull/36) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
+6. 💪 Opened PR [#36](https://github.com/anishkumar127/anishkumar127/pull/36) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
+7. ❌ Closed PR [#35](https://github.com/anishkumar127/anishkumar127/pull/35) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
+8. 💪 Opened PR [#35](https://github.com/anishkumar127/anishkumar127/pull/35) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
+9. 🎉 Merged PR [#34](https://github.com/anishkumar127/anishkumar127/pull/34) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
+10. 💪 Opened PR [#34](https://github.com/anishkumar127/anishkumar127/pull/34) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
 <!--END_SECTION:activity-->
 
 
@@ -185,5 +185,3 @@ TODO-IST:END -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-<!-- NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub. -->
