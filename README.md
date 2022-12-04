@@ -184,11 +184,15 @@ TODO-IST:END -->
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-251-blue)
+
 **🐱 My GitHub Data** 
 
-> 🏆 5,260 Contributions in the Year 2022
+> 🏆 5,293 Contributions in the Year 2022
  > 
-> 📦 105.8 kB Used in GitHub's Storage 
+> 📦 105.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -209,7 +213,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/12/2022 15:00:58 UTC
+ Last Updated on 04/12/2022 15:27:32 UTC
 <!--END_SECTION:waka-->
 
 <!-- NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub. -->
