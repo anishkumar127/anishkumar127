@@ -97,15 +97,11 @@ TODO-IST:END -->
   <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anishkumar127&" alt="anishkumar127" /></p>
 <!-- </details> -->
 </div>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
+![Alt](https://repobeats.axiom.co/api/embed/5e1de6aea3a6842da8a5ca0d8027863490d1f287.svg "Repobeats analytics image")
+
+
+
 
 
 ### ⚡ Recent GitHub Activity
@@ -159,3 +155,5 @@ TODO-IST:END -->
 <!--END_SECTION:waka-->
 
 [![@anishkumar127's Holopin board](https://holopin.me/anishkumar127)](https://holopin.io/@anishkumar127)
+
+![Alt](https://repobeats.axiom.co/api/embed/5e1de6aea3a6842da8a5ca0d8027863490d1f287.svg "Repobeats analytics image")
