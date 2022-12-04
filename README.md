@@ -108,14 +108,14 @@ TODO-IST:END -->
 <br/>
 
 <div>
-<span style="width:400px; float:left;"  >
+<span style="width:300px; float:left;"  >
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 </span>
-<span  >
+<span  style="width:400px;">
 
 ## 🦋 Latest YouTube videos
 
