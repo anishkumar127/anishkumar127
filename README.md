@@ -184,6 +184,32 @@ TODO-IST:END -->
 
 
 <!--START_SECTION:waka-->
+**🐱 My GitHub Data** 
+
+> 🏆 5,260 Contributions in the Year 2022
+ > 
+> 📦 105.8 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 35 Public Repositories 
+ > 
+> 🔑 17 Private Repositories  
+ > 
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               26 repos            ███████████████░░░░░░░░░░   60.47% 
+HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.63% 
+Java                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.63% 
+CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.3% 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.65%
+
+```
+
+
+
+ Last Updated on 04/12/2022 15:00:58 UTC
 <!--END_SECTION:waka-->
 
 <!-- NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub. -->
