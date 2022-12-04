@@ -108,7 +108,7 @@ TODO-IST:END -->
 <br/>
 
 <div style="display: flex;
-    justify-content: center;">
+    justify-content: space-evenly;">
 <div  >
 ### ⚡ Recent GitHub Activity
 
