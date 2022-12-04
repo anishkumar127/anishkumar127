@@ -91,11 +91,24 @@ TODO-IST:END -->
 <img src="https://github.com/anishkumar127/github-stats-readme/blob/main/generated/languages.svg#gh-dark-mode-only" />
 </a>
 
+<div>
 <!-- <details>  -->
  <!-- <summary>GitHub History</summary> -->
   <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anishkumar127&" alt="anishkumar127" /></p>
 <!-- </details> -->
+</div>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
+<div>
+<span align="left">
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
@@ -111,13 +124,8 @@ TODO-IST:END -->
 10. 💪 Opened PR [#197](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/197) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
 <!--END_SECTION:activity-->
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+</span>
+<span  align="right">
 
 ## 🦋 Latest YouTube videos
 
@@ -130,6 +138,11 @@ TODO-IST:END -->
 <!-- YOUTUBE:END -->
 
 👉 [more videos...](https://www.youtube.com/channel/UCGfqR2ktkSE5xCvyzxkWhcw) 
+
+</span>
+</div>
+
+
 
  <div>
  <details> 
