@@ -93,6 +93,13 @@ TODO-IST:END -->
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+
+<details> 
+ <summary>GitHub History</summary>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anishkumar127&" alt="anishkumar127" /></p>
+</details>
+
 ## 🦋 Latest YouTube videos
 
 <!-- YOUTUBE:START -->
@@ -106,10 +113,7 @@ TODO-IST:END -->
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=anishbishnoixD&layout=wide)](https://twitter.com/anishbishnoixD)
  </details>
-<details> 
- <summary>GitHub History</summary>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anishkumar127&" alt="anishkumar127" /></p>
-</details>
+
 </div>
 
  <div>
