@@ -95,10 +95,10 @@ TODO-IST:END -->
 <!--END_SECTION:activity-->
 
 
-<details> 
- <summary>GitHub History</summary>
+<!-- <details>  -->
+ <!-- <summary>GitHub History</summary> -->
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anishkumar127&" alt="anishkumar127" /></p>
-</details>
+<!-- </details> -->
 
 ## 🦋 Latest YouTube videos
 
@@ -181,3 +181,12 @@ No Activity Tracked This Week
 
 
 <!-- ![snake gif](https://github.com/anishkumar127/anishkumar127/blob/output/github-contribution-grid-snake.svg) -->
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+[![@anishkumar127's Holopin board](https://holopin.me/anishkumar127)](https://holopin.io/@anishkumar127)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
