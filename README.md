@@ -156,38 +156,6 @@ TODO-IST:END -->
 <!-- ![snake gif](https://github.com/anishkumar127/anishkumar127/blob/output/github-contribution-grid-snake.svg) -->
 
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 5,260 Contributions in the Year 2022
- > 
-> 📦 105.8 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 34 Public Repositories 
- > 
-> 🔑 17 Private Repositories  
- > 
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               26 repos            ███████████████░░░░░░░░░░   60.47% 
-HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.63% 
-Java                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.63% 
-CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.3% 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.65%
-
-```
-
-
-
- Last Updated on 04/12/2022 14:01:02 UTC
-<!--END_SECTION:waka-->
 
 ### Holopin Badges
 
@@ -213,3 +181,8 @@ Python                   2 repos             █░░░░░░░░░░�
 ### GitHub Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=anishkumar127&theme=nord)](https://github.com/anishkumar127/github-profile-trophy)
+
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
