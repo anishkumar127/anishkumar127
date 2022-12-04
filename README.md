@@ -107,16 +107,12 @@ TODO-IST:END -->
 <br/>
 <br/>
 
-<div style="display: flex;
-    justify-content: space-evenly;">
-<span  >
+
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-</span>
-<span>
 
 ## 🦋 Latest YouTube videos
 
@@ -124,10 +120,6 @@ TODO-IST:END -->
 <!-- YOUTUBE:END -->
 
 👉 [more videos...](https://www.youtube.com/channel/UCGfqR2ktkSE5xCvyzxkWhcw) 
-
-</span>
-</div>
-
 
 
  <div>
