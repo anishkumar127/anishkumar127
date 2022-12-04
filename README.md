@@ -91,21 +91,16 @@ TODO-IST:END -->
 <img src="https://github.com/anishkumar127/github-stats-readme/blob/main/generated/languages.svg#gh-dark-mode-only" />
 </a>
 
-<div>
+<!-- <div> -->
 <!-- <details>  -->
  <!-- <summary>GitHub History</summary> -->
-  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anishkumar127&" alt="anishkumar127" /></p>
+  <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anishkumar127&" alt="anishkumar127" /></p> -->
 <!-- </details> -->
-</div>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=anishkumar127&theme=material-palenight)](https://git.io/streak-stats)
+<!-- </div> -->
+
+![Alt](https://repobeats.axiom.co/api/embed/5e1de6aea3a6842da8a5ca0d8027863490d1f287.svg "Repobeats analytics image")
 
 
 ### ⚡ Recent GitHub Activity
@@ -172,5 +167,7 @@ TODO-IST:END -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+### Open Source Contribute Badges
 
 [![@anishkumar127's Holopin board](https://holopin.me/anishkumar127)](https://holopin.io/@anishkumar127)
