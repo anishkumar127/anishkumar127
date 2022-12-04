@@ -126,16 +126,7 @@ TODO-IST:END -->
 
 </div>
 
- <div>
-<details> 
- <summary>Activity Graph</summary>
 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/anishkumar127/github-readme-activity-graph)
-<div align="center">
-    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=anishkumar127&theme=github"/>
-</div>
-</details>
-</div>
 
 ### Contribution Graph eat snake 🍁
 
@@ -156,3 +147,20 @@ TODO-IST:END -->
 ### Open Source Contribute Badges
 
 [![@anishkumar127's Holopin board](https://holopin.me/anishkumar127)](https://holopin.io/@anishkumar127)
+
+
+
+ <!-- <div>
+<details> 
+ <summary>Activity Graph</summary>
+
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/anishkumar127/github-readme-activity-graph)
+<div align="center">
+    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=anishkumar127&theme=github"/>
+</div>
+</details>
+</div> -->
+
+
+### Activity Graph
+[![Anish's github activity graph](https://activity-graph.herokuapp.com/graph?username=anishkumar127&theme=github)](https://github.com/anishkumar127/github-readme-activity-graph)
