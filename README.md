@@ -144,7 +144,7 @@ TODO-IST:END -->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-### Open Source Contribute Badges
+### Holopin Badges
 
 [![@anishkumar127's Holopin board](https://holopin.me/anishkumar127)](https://holopin.io/@anishkumar127)
 
@@ -164,3 +164,7 @@ TODO-IST:END -->
 
 ### Activity Graph
 [![Anish's github activity graph](https://activity-graph.herokuapp.com/graph?username=anishkumar127&theme=github)](https://github.com/anishkumar127/github-readme-activity-graph)
+
+### GitHub Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=anishkumar127&theme=nord)](https://github.com/anishkumar127/github-profile-trophy)
