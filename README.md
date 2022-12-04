@@ -184,9 +184,15 @@ TODO-IST:END -->
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-150-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
+
 **🐱 My GitHub Data** 
 
-> 🏆 5,260 Contributions in the Year 2022
+> 🏆 5,284 Contributions in the Year 2022
  > 
 > 📦 105.8 kB Used in GitHub's Storage 
  > 
@@ -209,5 +215,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/12/2022 14:13:44 UTC
+ Last Updated on 04/12/2022 14:23:21 UTC
 <!--END_SECTION:waka-->
