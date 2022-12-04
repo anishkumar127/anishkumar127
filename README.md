@@ -106,12 +106,27 @@ TODO-IST:END -->
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#31](https://github.com/anishkumar127/anishkumar127/pull/31) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
+2. 💪 Opened PR [#31](https://github.com/anishkumar127/anishkumar127/pull/31) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
+3. 🎉 Merged PR [#30](https://github.com/anishkumar127/anishkumar127/pull/30) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
+4. 💪 Opened PR [#30](https://github.com/anishkumar127/anishkumar127/pull/30) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
+5. 🎉 Merged PR [#29](https://github.com/anishkumar127/anishkumar127/pull/29) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
+6. 💪 Opened PR [#29](https://github.com/anishkumar127/anishkumar127/pull/29) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
+7. 🎉 Merged PR [#28](https://github.com/anishkumar127/anishkumar127/pull/28) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
+8. 💪 Opened PR [#28](https://github.com/anishkumar127/anishkumar127/pull/28) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
+9. 🎉 Merged PR [#27](https://github.com/anishkumar127/anishkumar127/pull/27) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
+10. 💪 Opened PR [#27](https://github.com/anishkumar127/anishkumar127/pull/27) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
 <!--END_SECTION:activity-->
 
 
 ## 🦋 Latest YouTube videos
 
 <!-- YOUTUBE:START -->
+- [MERN - API with  Token, Refresh Token, Login , SignUp , Custom Error Handler , Image Upload , Store](https://www.youtube.com/watch?v=mFfG4tEl3pw)
+- [MERN - Instagram clone using [ React Node MongoDB ]](https://www.youtube.com/watch?v=BMGVCjMiDyE)
+- [MERN - Instagram clone using [ React Node MongoDB ]](https://www.youtube.com/watch?v=jMnzBYsVcM8)
+- [React Js - Skeleton Loading Screen with using API](https://www.youtube.com/watch?v=oY0Kp86xx_s)
+- [React Js - Skeleton Loading Screen with using API](https://www.youtube.com/watch?v=BSDYiA2l3IE)
 <!-- YOUTUBE:END -->
 
 👉 [more videos...](https://www.youtube.com/channel/UCGfqR2ktkSE5xCvyzxkWhcw) 
