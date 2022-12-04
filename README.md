@@ -106,15 +106,9 @@ TODO-IST:END -->
 <br/>
 <br/>
 <br/>
-<style>
-.fix-align {
- /* background-color: tomato; */
- width:400px;
- float:left;
-}
-</style>
+
 <div>
-<span class="fix-align">
+<span style="width:400px; float:left;"  >
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
