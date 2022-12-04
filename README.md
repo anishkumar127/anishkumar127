@@ -153,6 +153,6 @@ TODO-IST:END -->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-[![@anishkumar127's Holopin board](https://holopin.me/anishkumar127)](https://holopin.io/@anishkumar127)
+### Open Source Contribute Badges
 
-![Alt](https://repobeats.axiom.co/api/embed/5e1de6aea3a6842da8a5ca0d8027863490d1f287.svg "Repobeats analytics image")
+[![@anishkumar127's Holopin board](https://holopin.me/anishkumar127)](https://holopin.io/@anishkumar127)
