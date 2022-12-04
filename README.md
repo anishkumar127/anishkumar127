@@ -107,8 +107,7 @@ TODO-IST:END -->
 <br/>
 <br/>
 
-<div>
-<span align="left">
+
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
@@ -124,8 +123,6 @@ TODO-IST:END -->
 10. 💪 Opened PR [#8](https://github.com/anishkumar127/brain-notes/pull/8) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
 <!--END_SECTION:activity-->
 
-</span>
-<span  align="right">
 
 ## 🦋 Latest YouTube videos
 
@@ -138,10 +135,6 @@ TODO-IST:END -->
 <!-- YOUTUBE:END -->
 
 👉 [more videos...](https://www.youtube.com/channel/UCGfqR2ktkSE5xCvyzxkWhcw) 
-
-</span>
-</div>
-
 
 
  <div>
