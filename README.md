@@ -111,11 +111,11 @@ TODO-IST:END -->
 3. 🎉 Merged PR [#29](https://github.com/anishkumar127/anishkumar127/pull/29) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
 4. 💪 Opened PR [#29](https://github.com/anishkumar127/anishkumar127/pull/29) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
 5. 🎉 Merged PR [#28](https://github.com/anishkumar127/anishkumar127/pull/28) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
-6. 💪 Opened PR [#26](https://github.com/anishkumar127/anishkumar127/pull/26) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
-7. 🎉 Merged PR [#198](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/198) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-8. 💪 Opened PR [#198](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/198) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-9. 🎉 Merged PR [#8](https://github.com/anishkumar127/brain-notes/pull/8) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
-10. 💪 Opened PR [#8](https://github.com/anishkumar127/brain-notes/pull/8) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+6. 💪 Opened PR [#28](https://github.com/anishkumar127/anishkumar127/pull/28) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
+7. 🎉 Merged PR [#27](https://github.com/anishkumar127/anishkumar127/pull/27) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
+8. 💪 Opened PR [#27](https://github.com/anishkumar127/anishkumar127/pull/27) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
+9. 🎉 Merged PR [#26](https://github.com/anishkumar127/anishkumar127/pull/26) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
+10. 💪 Opened PR [#26](https://github.com/anishkumar127/anishkumar127/pull/26) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
 <!--END_SECTION:activity-->
 
 
