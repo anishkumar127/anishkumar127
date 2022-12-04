@@ -157,6 +157,36 @@ TODO-IST:END -->
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-73-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 5,260 Contributions in the Year 2022
+ > 
+> 📦 105.8 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 35 Public Repositories 
+ > 
+> 🔑 17 Private Repositories  
+ > 
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               26 repos            ███████████████░░░░░░░░░░   60.47% 
+HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.63% 
+Java                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.63% 
+CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.3% 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.65%
+
+```
+
+
+
+ Last Updated on 04/12/2022 13:30:25 UTC
 <!--END_SECTION:waka-->
 
 ### Holopin Badges
