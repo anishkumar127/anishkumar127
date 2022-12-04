@@ -141,8 +141,6 @@ TODO-IST:END -->
 <!-- ![snake gif](https://github.com/anishkumar127/anishkumar127/blob/output/github-contribution-grid-snake.svg) -->
 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ### Holopin Badges
 
@@ -168,3 +166,7 @@ TODO-IST:END -->
 ### GitHub Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=anishkumar127&theme=nord)](https://github.com/anishkumar127/github-profile-trophy)
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
