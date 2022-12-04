@@ -115,7 +115,7 @@ TODO-IST:END -->
 <!--END_SECTION:activity-->
 
 </span>
-<span  align="right">
+<span  >
 
 ## 🦋 Latest YouTube videos
 
