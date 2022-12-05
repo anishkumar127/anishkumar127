@@ -184,6 +184,12 @@ TODO-IST:END -->
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-326-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
+
 **🐱 My GitHub Data** 
 
 > 🏆 5,309 Contributions in the Year 2022
@@ -232,9 +238,9 @@ Git Config               0 secs              ░░░░░░░░░░░�
 🔥 Editors: 
 VS Code                  3 hrs 35 mins       █████████████████████████   100.0%
 
-🐱‍💻 Projects: 
-anishkumar127            3 hrs 8 mins        ██████████████████████░░░   87.53% 
-TrySomething             26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.47%
+💻 Operating System: 
+Windows                  3 hrs 8 mins        ██████████████████████░░░   87.53% 
+Linux                    26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.47%
 
 ```
 
@@ -251,7 +257,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/12/2022 00:33:23 UTC
+ Last Updated on 05/12/2022 01:02:58 UTC
 <!--END_SECTION:waka-->
 
 <!-- NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub. -->
