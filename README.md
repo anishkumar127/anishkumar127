@@ -111,11 +111,11 @@ TODO-IST:END -->
 3. 🎉 Merged PR [#9](https://github.com/anishkumar127/brain-notes/pull/9) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
 4. 💪 Opened PR [#9](https://github.com/anishkumar127/brain-notes/pull/9) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
 5. 🎉 Merged PR [#42](https://github.com/anishkumar127/anishkumar127/pull/42) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
-6. 💪 Opened PR [#41](https://github.com/anishkumar127/anishkumar127/pull/41) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
-7. 🎉 Merged PR [#40](https://github.com/anishkumar127/anishkumar127/pull/40) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
-8. 💪 Opened PR [#40](https://github.com/anishkumar127/anishkumar127/pull/40) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
-9. 🎉 Merged PR [#39](https://github.com/anishkumar127/anishkumar127/pull/39) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
-10. 💪 Opened PR [#39](https://github.com/anishkumar127/anishkumar127/pull/39) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
+6. 💪 Opened PR [#42](https://github.com/anishkumar127/anishkumar127/pull/42) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
+7. 🎉 Merged PR [#41](https://github.com/anishkumar127/anishkumar127/pull/41) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
+8. 💪 Opened PR [#41](https://github.com/anishkumar127/anishkumar127/pull/41) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
+9. 🎉 Merged PR [#40](https://github.com/anishkumar127/anishkumar127/pull/40) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
+10. 💪 Opened PR [#40](https://github.com/anishkumar127/anishkumar127/pull/40) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
 <!--END_SECTION:activity-->
 
 
