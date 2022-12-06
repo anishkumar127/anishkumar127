@@ -106,11 +106,11 @@ TODO-IST:END -->
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/anishkumar127/brain-notes/pull/10) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
-2. 💪 Opened PR [#10](https://github.com/anishkumar127/brain-notes/pull/10) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
-3. 🎉 Merged PR [#39](https://github.com/anishkumar127/video-sharing-app/pull/39) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
-4. 💪 Opened PR [#39](https://github.com/anishkumar127/video-sharing-app/pull/39) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
-5. 🎉 Merged PR [#9](https://github.com/anishkumar127/brain-notes/pull/9) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+1. 🎉 Merged PR [#11](https://github.com/anishkumar127/brain-notes/pull/11) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+2. 💪 Opened PR [#11](https://github.com/anishkumar127/brain-notes/pull/11) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+3. 🎉 Merged PR [#10](https://github.com/anishkumar127/brain-notes/pull/10) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+4. 💪 Opened PR [#10](https://github.com/anishkumar127/brain-notes/pull/10) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+5. 🎉 Merged PR [#39](https://github.com/anishkumar127/video-sharing-app/pull/39) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
 6. 💪 Opened PR [#9](https://github.com/anishkumar127/brain-notes/pull/9) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
 7. 🎉 Merged PR [#42](https://github.com/anishkumar127/anishkumar127/pull/42) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
 8. 💪 Opened PR [#42](https://github.com/anishkumar127/anishkumar127/pull/42) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
