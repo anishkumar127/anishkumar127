@@ -111,11 +111,11 @@ TODO-IST:END -->
 3. 🎉 Merged PR [#2](https://github.com/anishkumar127/auth-mongodb-express/pull/2) in [anishkumar127/auth-mongodb-express](https://github.com/anishkumar127/auth-mongodb-express)
 4. 💪 Opened PR [#2](https://github.com/anishkumar127/auth-mongodb-express/pull/2) in [anishkumar127/auth-mongodb-express](https://github.com/anishkumar127/auth-mongodb-express)
 5. 🎉 Merged PR [#1](https://github.com/anishkumar127/auth-mongodb-express/pull/1) in [anishkumar127/auth-mongodb-express](https://github.com/anishkumar127/auth-mongodb-express)
-6. 💪 Opened PR [#11](https://github.com/anishkumar127/brain-notes/pull/11) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
-7. 🎉 Merged PR [#10](https://github.com/anishkumar127/brain-notes/pull/10) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
-8. 💪 Opened PR [#10](https://github.com/anishkumar127/brain-notes/pull/10) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
-9. 🎉 Merged PR [#39](https://github.com/anishkumar127/video-sharing-app/pull/39) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
-10. 💪 Opened PR [#39](https://github.com/anishkumar127/video-sharing-app/pull/39) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
+6. 💪 Opened PR [#1](https://github.com/anishkumar127/auth-mongodb-express/pull/1) in [anishkumar127/auth-mongodb-express](https://github.com/anishkumar127/auth-mongodb-express)
+7. 🎉 Merged PR [#11](https://github.com/anishkumar127/brain-notes/pull/11) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+8. 💪 Opened PR [#11](https://github.com/anishkumar127/brain-notes/pull/11) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+9. 🎉 Merged PR [#10](https://github.com/anishkumar127/brain-notes/pull/10) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+10. 💪 Opened PR [#10](https://github.com/anishkumar127/brain-notes/pull/10) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
 <!--END_SECTION:activity-->
 
 
