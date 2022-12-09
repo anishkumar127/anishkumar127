@@ -106,11 +106,11 @@ TODO-IST:END -->
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#41](https://github.com/anishkumar127/video-sharing-app/pull/41) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
-2. 💪 Opened PR [#41](https://github.com/anishkumar127/video-sharing-app/pull/41) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
-3. 🎉 Merged PR [#40](https://github.com/anishkumar127/video-sharing-app/pull/40) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
-4. 💪 Opened PR [#40](https://github.com/anishkumar127/video-sharing-app/pull/40) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
-5. 🎉 Merged PR [#4](https://github.com/anishkumar127/auth-mongodb-express/pull/4) in [anishkumar127/auth-mongodb-express](https://github.com/anishkumar127/auth-mongodb-express)
+1. 🎉 Merged PR [#42](https://github.com/anishkumar127/video-sharing-app/pull/42) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
+2. 💪 Opened PR [#42](https://github.com/anishkumar127/video-sharing-app/pull/42) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
+3. 🎉 Merged PR [#41](https://github.com/anishkumar127/video-sharing-app/pull/41) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
+4. 💪 Opened PR [#41](https://github.com/anishkumar127/video-sharing-app/pull/41) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
+5. 🎉 Merged PR [#40](https://github.com/anishkumar127/video-sharing-app/pull/40) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
 6. 💪 Opened PR [#4](https://github.com/anishkumar127/auth-mongodb-express/pull/4) in [anishkumar127/auth-mongodb-express](https://github.com/anishkumar127/auth-mongodb-express)
 7. 🎉 Merged PR [#3](https://github.com/anishkumar127/auth-mongodb-express/pull/3) in [anishkumar127/auth-mongodb-express](https://github.com/anishkumar127/auth-mongodb-express)
 8. 💪 Opened PR [#3](https://github.com/anishkumar127/auth-mongodb-express/pull/3) in [anishkumar127/auth-mongodb-express](https://github.com/anishkumar127/auth-mongodb-express)
