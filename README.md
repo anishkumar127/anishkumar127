@@ -106,11 +106,11 @@ TODO-IST:END -->
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/anishkumar127/brain-notes/pull/13) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
-2. 💪 Opened PR [#13](https://github.com/anishkumar127/brain-notes/pull/13) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
-3. 🎉 Merged PR [#12](https://github.com/anishkumar127/brain-notes/pull/12) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
-4. 💪 Opened PR [#12](https://github.com/anishkumar127/brain-notes/pull/12) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
-5. 🎉 Merged PR [#43](https://github.com/anishkumar127/video-sharing-app/pull/43) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
+1. 🎉 Merged PR [#14](https://github.com/anishkumar127/brain-notes/pull/14) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+2. 💪 Opened PR [#14](https://github.com/anishkumar127/brain-notes/pull/14) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+3. 🎉 Merged PR [#13](https://github.com/anishkumar127/brain-notes/pull/13) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+4. 💪 Opened PR [#13](https://github.com/anishkumar127/brain-notes/pull/13) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+5. 🎉 Merged PR [#12](https://github.com/anishkumar127/brain-notes/pull/12) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
 6. 💪 Opened PR [#43](https://github.com/anishkumar127/video-sharing-app/pull/43) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
 7. 🎉 Merged PR [#42](https://github.com/anishkumar127/video-sharing-app/pull/42) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
 8. 💪 Opened PR [#42](https://github.com/anishkumar127/video-sharing-app/pull/42) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
