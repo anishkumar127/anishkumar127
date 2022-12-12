@@ -106,16 +106,16 @@ TODO-IST:END -->
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/anishkumar127/E-commerce-Redux-Store/pull/3) in [anishkumar127/E-commerce-Redux-Store](https://github.com/anishkumar127/E-commerce-Redux-Store)
-2. 💪 Opened PR [#3](https://github.com/anishkumar127/E-commerce-Redux-Store/pull/3) in [anishkumar127/E-commerce-Redux-Store](https://github.com/anishkumar127/E-commerce-Redux-Store)
-3. 🎉 Merged PR [#2](https://github.com/anishkumar127/E-commerce-Redux-Store/pull/2) in [anishkumar127/E-commerce-Redux-Store](https://github.com/anishkumar127/E-commerce-Redux-Store)
-4. 💪 Opened PR [#2](https://github.com/anishkumar127/E-commerce-Redux-Store/pull/2) in [anishkumar127/E-commerce-Redux-Store](https://github.com/anishkumar127/E-commerce-Redux-Store)
-5. 🎉 Merged PR [#1](https://github.com/anishkumar127/E-commerce-Redux-Store/pull/1) in [anishkumar127/E-commerce-Redux-Store](https://github.com/anishkumar127/E-commerce-Redux-Store)
-6. 💪 Opened PR [#14](https://github.com/anishkumar127/brain-notes/pull/14) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
-7. 🎉 Merged PR [#13](https://github.com/anishkumar127/brain-notes/pull/13) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
-8. 💪 Opened PR [#13](https://github.com/anishkumar127/brain-notes/pull/13) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
-9. 🎉 Merged PR [#12](https://github.com/anishkumar127/brain-notes/pull/12) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
-10. 💪 Opened PR [#12](https://github.com/anishkumar127/brain-notes/pull/12) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+1. 🎉 Merged PR [#4](https://github.com/anishkumar127/E-commerce-Redux-Store/pull/4) in [anishkumar127/E-commerce-Redux-Store](https://github.com/anishkumar127/E-commerce-Redux-Store)
+2. 💪 Opened PR [#4](https://github.com/anishkumar127/E-commerce-Redux-Store/pull/4) in [anishkumar127/E-commerce-Redux-Store](https://github.com/anishkumar127/E-commerce-Redux-Store)
+3. 🎉 Merged PR [#3](https://github.com/anishkumar127/E-commerce-Redux-Store/pull/3) in [anishkumar127/E-commerce-Redux-Store](https://github.com/anishkumar127/E-commerce-Redux-Store)
+4. 💪 Opened PR [#3](https://github.com/anishkumar127/E-commerce-Redux-Store/pull/3) in [anishkumar127/E-commerce-Redux-Store](https://github.com/anishkumar127/E-commerce-Redux-Store)
+5. 🎉 Merged PR [#2](https://github.com/anishkumar127/E-commerce-Redux-Store/pull/2) in [anishkumar127/E-commerce-Redux-Store](https://github.com/anishkumar127/E-commerce-Redux-Store)
+6. 💪 Opened PR [#2](https://github.com/anishkumar127/E-commerce-Redux-Store/pull/2) in [anishkumar127/E-commerce-Redux-Store](https://github.com/anishkumar127/E-commerce-Redux-Store)
+7. 🎉 Merged PR [#1](https://github.com/anishkumar127/E-commerce-Redux-Store/pull/1) in [anishkumar127/E-commerce-Redux-Store](https://github.com/anishkumar127/E-commerce-Redux-Store)
+8. 💪 Opened PR [#1](https://github.com/anishkumar127/E-commerce-Redux-Store/pull/1) in [anishkumar127/E-commerce-Redux-Store](https://github.com/anishkumar127/E-commerce-Redux-Store)
+9. 🎉 Merged PR [#14](https://github.com/anishkumar127/brain-notes/pull/14) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+10. 💪 Opened PR [#14](https://github.com/anishkumar127/brain-notes/pull/14) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
 <!--END_SECTION:activity-->
 
 
