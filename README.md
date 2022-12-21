@@ -111,11 +111,11 @@ TODO-IST:END -->
 3. 🎉 Merged PR [#17](https://github.com/anishkumar127/brain-notes/pull/17) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
 4. 💪 Opened PR [#200](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/200) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
 5. 💪 Opened PR [#17](https://github.com/anishkumar127/brain-notes/pull/17) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
-6. 💪 Opened PR [#16](https://github.com/anishkumar127/brain-notes/pull/16) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
-7. 🎉 Merged PR [#199](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/199) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-8. 💪 Opened PR [#199](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/199) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-9. 💪 Opened PR [#2](https://github.com/Ruby123-creator/project-2/pull/2) in [Ruby123-creator/project-2](https://github.com/Ruby123-creator/project-2)
-10. 💪 Opened PR [#1](https://github.com/Ruby123-creator/project-2/pull/1) in [Ruby123-creator/project-2](https://github.com/Ruby123-creator/project-2)
+6. 🎉 Merged PR [#16](https://github.com/anishkumar127/brain-notes/pull/16) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+7. 💪 Opened PR [#16](https://github.com/anishkumar127/brain-notes/pull/16) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+8. 🎉 Merged PR [#199](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/199) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+9. 💪 Opened PR [#199](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/199) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+10. 💪 Opened PR [#2](https://github.com/Ruby123-creator/project-2/pull/2) in [Ruby123-creator/project-2](https://github.com/Ruby123-creator/project-2)
 <!--END_SECTION:activity-->
 
 
