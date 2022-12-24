@@ -106,16 +106,16 @@ TODO-IST:END -->
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com/anishkumar127/brain-notes/pull/18) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
-2. 🎉 Merged PR [#200](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/200) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-3. 🎉 Merged PR [#17](https://github.com/anishkumar127/brain-notes/pull/17) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
-4. 💪 Opened PR [#200](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/200) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-5. 💪 Opened PR [#17](https://github.com/anishkumar127/brain-notes/pull/17) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
-6. 🎉 Merged PR [#16](https://github.com/anishkumar127/brain-notes/pull/16) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
-7. 💪 Opened PR [#16](https://github.com/anishkumar127/brain-notes/pull/16) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
-8. 🎉 Merged PR [#199](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/199) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-9. 💪 Opened PR [#199](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/199) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
-10. 💪 Opened PR [#2](https://github.com/Ruby123-creator/project-2/pull/2) in [Ruby123-creator/project-2](https://github.com/Ruby123-creator/project-2)
+1. ❌ Closed PR [#1](https://github.com/pedrohw12/quiz-app-for-youtube/pull/1) in [pedrohw12/quiz-app-for-youtube](https://github.com/pedrohw12/quiz-app-for-youtube)
+2. 💪 Opened PR [#1](https://github.com/pedrohw12/quiz-app-for-youtube/pull/1) in [pedrohw12/quiz-app-for-youtube](https://github.com/pedrohw12/quiz-app-for-youtube)
+3. 🎉 Merged PR [#1](https://github.com/anishkumar127/quiz-app-for-youtube/pull/1) in [anishkumar127/quiz-app-for-youtube](https://github.com/anishkumar127/quiz-app-for-youtube)
+4. 💪 Opened PR [#1](https://github.com/anishkumar127/quiz-app-for-youtube/pull/1) in [anishkumar127/quiz-app-for-youtube](https://github.com/anishkumar127/quiz-app-for-youtube)
+5. 💪 Opened PR [#18](https://github.com/anishkumar127/brain-notes/pull/18) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+6. 🎉 Merged PR [#200](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/200) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+7. 🎉 Merged PR [#17](https://github.com/anishkumar127/brain-notes/pull/17) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+8. 💪 Opened PR [#200](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/200) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+9. 💪 Opened PR [#17](https://github.com/anishkumar127/brain-notes/pull/17) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+10. 🎉 Merged PR [#16](https://github.com/anishkumar127/brain-notes/pull/16) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
 <!--END_SECTION:activity-->
 
 
