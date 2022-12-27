@@ -184,6 +184,12 @@ TODO-IST:END -->
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%2028%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
+
 **🐱 My GitHub Data** 
 
 > 🏆 6,049 Contributions in the Year 2022
@@ -236,12 +242,8 @@ Browser                  52 hrs 32 mins      ███████████�
 VS Code                  1 hr 48 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.27% 
 IntelliJ                 51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.57%
 
-🐱‍💻 Projects: 
-DSA                      40 hrs 19 mins      ██████████████████░░░░░░░   73.02% 
-Java                     7 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.88% 
-CPP                      7 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.87% 
-quiz-app-for-youtube-mast6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19% 
-Data-Structures-and-Algor1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+💻 Operating System: 
+Windows                  55 hrs 13 mins      █████████████████████████   100.0%
 
 ```
 
@@ -258,7 +260,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/12/2022 00:33:48 UTC
+ Last Updated on 27/12/2022 00:59:56 UTC
 <!--END_SECTION:waka-->
 
 <!-- NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub. -->
