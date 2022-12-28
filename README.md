@@ -106,7 +106,7 @@ TODO-IST:END -->
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/pedrohw12/quiz-app-for-youtube/pull/1) in [pedrohw12/quiz-app-for-youtube](https://github.com/pedrohw12/quiz-app-for-youtube)
+1. 🎉 Merged PR [#18](https://github.com/anishkumar127/brain-notes/pull/18) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
 2. 💪 Opened PR [#1](https://github.com/pedrohw12/quiz-app-for-youtube/pull/1) in [pedrohw12/quiz-app-for-youtube](https://github.com/pedrohw12/quiz-app-for-youtube)
 3. 🎉 Merged PR [#1](https://github.com/anishkumar127/quiz-app-for-youtube/pull/1) in [anishkumar127/quiz-app-for-youtube](https://github.com/anishkumar127/quiz-app-for-youtube)
 4. 💪 Opened PR [#1](https://github.com/anishkumar127/quiz-app-for-youtube/pull/1) in [anishkumar127/quiz-app-for-youtube](https://github.com/anishkumar127/quiz-app-for-youtube)
