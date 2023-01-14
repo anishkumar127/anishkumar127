@@ -186,13 +186,11 @@ TODO-IST:END -->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-207%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 368 Contributions in the Year 2023
+> 🏆 386 Contributions in the Year 2023
  > 
 > 📦 107.2 kB Used in GitHub's Storage 
  > 
@@ -206,20 +204,20 @@ TODO-IST:END -->
 
 ```text
 🌞 Morning    44 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.2% 
-🌆 Daytime    414 commits    ██████████░░░░░░░░░░░░░░░   39.5% 
-🌃 Evening    430 commits    ██████████░░░░░░░░░░░░░░░   41.03% 
-🌙 Night      160 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.27%
+🌆 Daytime    415 commits    ██████████░░░░░░░░░░░░░░░   39.6% 
+🌃 Evening    434 commits    ██████████░░░░░░░░░░░░░░░   41.41% 
+🌙 Night      155 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.79%
 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       87 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.3% 
-Tuesday      194 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.51% 
+Monday       84 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.02% 
+Tuesday      179 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.08% 
 Wednesday    175 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.7% 
 Thursday     223 commits    █████░░░░░░░░░░░░░░░░░░░░   21.28% 
 Friday       97 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.26% 
-Saturday     103 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.83% 
+Saturday     121 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.55% 
 Sunday       169 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.13%
 
 ```
@@ -235,6 +233,9 @@ Other                    4 hrs 52 mins       ███████████�
 
 🔥 Editors: 
 Browser                  4 hrs 52 mins       █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+DSA                      4 hrs 52 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
 Windows                  4 hrs 52 mins       █████████████████████████   100.0%
@@ -253,8 +254,12 @@ Python                   2 repos             █░░░░░░░░░░�
 ```
 
 
+**Timeline**
 
- Last Updated on 14/01/2023 01:02:01 UTC
+![Chart not found](https://raw.githubusercontent.com/anishkumar127/anishkumar127/master/charts/bar_graph.png) 
+
+
+ Last Updated on 14/01/2023 18:36:26 UTC
 <!--END_SECTION:waka-->
 
 <!-- NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub. -->
