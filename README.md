@@ -184,15 +184,9 @@ TODO-IST:END -->
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-207%20hrs%2043%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
-
 **🐱 My GitHub Data** 
 
-> 🏆 440 Contributions in the Year 2023
+> 🏆 463 Contributions in the Year 2023
  > 
 > 📦 107.2 kB Used in GitHub's Storage 
  > 
@@ -215,10 +209,10 @@ TODO-IST:END -->
 
 ```text
 Monday       107 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.21% 
-Tuesday      173 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.51% 
-Wednesday    152 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.5% 
-Thursday     203 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.37% 
-Friday       97 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.26% 
+Tuesday      191 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.23% 
+Wednesday    157 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.98% 
+Thursday     200 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.08% 
+Friday       77 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.35% 
 Saturday     121 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.55% 
 Sunday       195 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.61%
 
@@ -231,13 +225,13 @@ Sunday       195 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    48 mins             █████████████████████████   100.0%
+Other                    3 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-Browser                  48 mins             █████████████████████████   100.0%
+Browser                  3 mins              █████████████████████████   100.0%
 
-💻 Operating System: 
-Windows                  48 mins             █████████████████████████   100.0%
+🐱‍💻 Projects: 
+DSA                      3 mins              █████████████████████████   100.0%
 
 ```
 
@@ -254,7 +248,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/01/2023 01:02:35 UTC
+ Last Updated on 18/01/2023 00:36:33 UTC
 <!--END_SECTION:waka-->
 
 <!-- NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub. -->
