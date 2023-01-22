@@ -188,11 +188,9 @@ TODO-IST:END -->
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
-
 **🐱 My GitHub Data** 
 
-> 🏆 555 Contributions in the Year 2023
+> 🏆 573 Contributions in the Year 2023
  > 
 > 📦 107.3 kB Used in GitHub's Storage 
  > 
@@ -206,21 +204,21 @@ TODO-IST:END -->
 
 ```text
 🌞 Morning    44 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.2% 
-🌆 Daytime    417 commits    ██████████░░░░░░░░░░░░░░░   39.79% 
-🌃 Evening    427 commits    ██████████░░░░░░░░░░░░░░░   40.74% 
-🌙 Night      160 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.27%
+🌆 Daytime    418 commits    ██████████░░░░░░░░░░░░░░░   39.89% 
+🌃 Evening    431 commits    ██████████░░░░░░░░░░░░░░░   41.13% 
+🌙 Night      155 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.79%
 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday       84 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.02% 
-Tuesday      171 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.32% 
-Wednesday    175 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.7% 
+Tuesday      168 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.03% 
+Wednesday    160 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.27% 
 Thursday     223 commits    █████░░░░░░░░░░░░░░░░░░░░   21.28% 
 Friday       97 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.26% 
 Saturday     121 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.55% 
-Sunday       177 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.89%
+Sunday       195 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.61%
 
 ```
 
@@ -235,6 +233,9 @@ Other                    3 mins              ███████████�
 
 🔥 Editors: 
 Browser                  3 mins              █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+DSA                      3 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
 Windows                  3 mins              █████████████████████████   100.0%
@@ -253,8 +254,12 @@ Python                   2 repos             █░░░░░░░░░░�
 ```
 
 
+**Timeline**
 
- Last Updated on 22/01/2023 01:05:17 UTC
+![Chart not found](https://raw.githubusercontent.com/anishkumar127/anishkumar127/master/charts/bar_graph.png) 
+
+
+ Last Updated on 22/01/2023 18:38:23 UTC
 <!--END_SECTION:waka-->
 
 <!-- NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub. -->
