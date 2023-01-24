@@ -184,15 +184,9 @@ TODO-IST:END -->
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-207%20hrs%2043%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
-
 **🐱 My GitHub Data** 
 
-> 🏆 578 Contributions in the Year 2023
+> 🏆 601 Contributions in the Year 2023
  > 
 > 📦 107.3 kB Used in GitHub's Storage 
  > 
@@ -214,10 +208,10 @@ TODO-IST:END -->
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       89 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.49% 
-Tuesday      168 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.03% 
-Wednesday    155 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.79% 
-Thursday     223 commits    █████░░░░░░░░░░░░░░░░░░░░   21.28% 
+Monday       107 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.21% 
+Tuesday      173 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.51% 
+Wednesday    152 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.5% 
+Thursday     203 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.37% 
 Friday       97 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.26% 
 Saturday     121 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.55% 
 Sunday       195 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.61%
@@ -236,7 +230,7 @@ No Activity Tracked This Week
 🔥 Editors: 
 No Activity Tracked This Week
 
-💻 Operating System: 
+🐱‍💻 Projects: 
 No Activity Tracked This Week
 
 ```
@@ -254,7 +248,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/01/2023 01:02:52 UTC
+ Last Updated on 24/01/2023 00:36:46 UTC
 <!--END_SECTION:waka-->
 
 <!-- NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub. -->
