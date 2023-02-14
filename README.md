@@ -111,7 +111,7 @@ TODO-IST:END -->
 3. 🎉 Merged PR [#202](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/202) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
 4. 💪 Opened PR [#202](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/202) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
 5. 🎉 Merged PR [#22](https://github.com/anishkumar127/brain-notes/pull/22) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
-6. 💪 Opened PR [#21](https://github.com/anishkumar127/brain-notes/pull/21) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+6. 💪 Opened PR [#22](https://github.com/anishkumar127/brain-notes/pull/22) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
 7. 🎉 Merged PR [#17](https://github.com/anishkumar127/brain-notes/pull/17) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
 8. 💪 Opened PR [#200](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/200) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
 9. 💪 Opened PR [#17](https://github.com/anishkumar127/brain-notes/pull/17) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
