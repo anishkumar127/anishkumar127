@@ -184,6 +184,12 @@ TODO-IST:END -->
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-241%20hrs%2028%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
+
 **🐱 My GitHub Data** 
 
 > 🏆 1,275 Contributions in the Year 2023
@@ -237,12 +243,9 @@ Chrome                   3 hrs 52 mins       ███░░░░░░░░�
 VS Code                  1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
 IntelliJ                 1 hr 5 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
 
-🐱‍💻 Projects: 
-DSA                      14 hrs 29 mins      ███████████░░░░░░░░░░░░░░   44.34 % 
-Data-Structures-and-Algor8 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   26.15 % 
-Unknown Project          3 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-master challenge         3 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-mernProjectEcommerce     1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+💻 Operating System: 
+Windows                  28 hrs 42 mins      ██████████████████████░░░   87.85 % 
+Linux                    3 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
 
 ```
 
@@ -259,7 +262,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/02/2023 00:36:39 UTC
+ Last Updated on 16/02/2023 01:05:19 UTC
 <!--END_SECTION:waka-->
 
 <!-- NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub. -->
