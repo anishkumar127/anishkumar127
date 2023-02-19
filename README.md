@@ -106,11 +106,11 @@ TODO-IST:END -->
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/anishkumar127/brain-notes/pull/25) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
-2. 💪 Opened PR [#25](https://github.com/anishkumar127/brain-notes/pull/25) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
-3. 🎉 Merged PR [#24](https://github.com/anishkumar127/brain-notes/pull/24) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
-4. 💪 Opened PR [#24](https://github.com/anishkumar127/brain-notes/pull/24) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
-5. 🎉 Merged PR [#22](https://github.com/anishkumar127/brain-notes/pull/22) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+1. 🎉 Merged PR [#26](https://github.com/anishkumar127/brain-notes/pull/26) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+2. 💪 Opened PR [#26](https://github.com/anishkumar127/brain-notes/pull/26) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+3. 🎉 Merged PR [#25](https://github.com/anishkumar127/brain-notes/pull/25) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+4. 💪 Opened PR [#25](https://github.com/anishkumar127/brain-notes/pull/25) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+5. 🎉 Merged PR [#24](https://github.com/anishkumar127/brain-notes/pull/24) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
 6. 💪 Opened PR [#22](https://github.com/anishkumar127/brain-notes/pull/22) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
 7. 🎉 Merged PR [#17](https://github.com/anishkumar127/brain-notes/pull/17) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
 8. 💪 Opened PR [#200](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/200) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
