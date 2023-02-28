@@ -111,11 +111,11 @@ TODO-IST:END -->
 3. 🎉 Merged PR [#30](https://github.com/anishkumar127/brain-notes/pull/30) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
 4. 💪 Opened PR [#30](https://github.com/anishkumar127/brain-notes/pull/30) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
 5. 🎉 Merged PR [#29](https://github.com/anishkumar127/brain-notes/pull/29) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
-6. 💪 Opened PR [#28](https://github.com/anishkumar127/brain-notes/pull/28) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
-7. 🎉 Merged PR [#27](https://github.com/anishkumar127/brain-notes/pull/27) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
-8. 💪 Opened PR [#27](https://github.com/anishkumar127/brain-notes/pull/27) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
-9. 🎉 Merged PR [#25](https://github.com/anishkumar127/brain-notes/pull/25) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
-10. 💪 Opened PR [#25](https://github.com/anishkumar127/brain-notes/pull/25) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+6. 💪 Opened PR [#29](https://github.com/anishkumar127/brain-notes/pull/29) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+7. 🎉 Merged PR [#28](https://github.com/anishkumar127/brain-notes/pull/28) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+8. 💪 Opened PR [#28](https://github.com/anishkumar127/brain-notes/pull/28) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+9. 🎉 Merged PR [#27](https://github.com/anishkumar127/brain-notes/pull/27) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+10. 💪 Opened PR [#27](https://github.com/anishkumar127/brain-notes/pull/27) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
 <!--END_SECTION:activity-->
 
 
