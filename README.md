@@ -106,11 +106,11 @@ TODO-IST:END -->
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/anishkumar127/brain-notes/pull/31) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
-2. 💪 Opened PR [#31](https://github.com/anishkumar127/brain-notes/pull/31) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
-3. 🎉 Merged PR [#30](https://github.com/anishkumar127/brain-notes/pull/30) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
-4. 💪 Opened PR [#30](https://github.com/anishkumar127/brain-notes/pull/30) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
-5. 🎉 Merged PR [#29](https://github.com/anishkumar127/brain-notes/pull/29) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+1. 🎉 Merged PR [#1](https://github.com/anishkumar127/Blogs/pull/1) in [anishkumar127/Blogs](https://github.com/anishkumar127/Blogs)
+2. 💪 Opened PR [#1](https://github.com/anishkumar127/Blogs/pull/1) in [anishkumar127/Blogs](https://github.com/anishkumar127/Blogs)
+3. 🎉 Merged PR [#31](https://github.com/anishkumar127/brain-notes/pull/31) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+4. 💪 Opened PR [#31](https://github.com/anishkumar127/brain-notes/pull/31) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+5. 🎉 Merged PR [#30](https://github.com/anishkumar127/brain-notes/pull/30) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
 6. 💪 Opened PR [#29](https://github.com/anishkumar127/brain-notes/pull/29) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
 7. 🎉 Merged PR [#28](https://github.com/anishkumar127/brain-notes/pull/28) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
 8. 💪 Opened PR [#28](https://github.com/anishkumar127/brain-notes/pull/28) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
