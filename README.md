@@ -106,11 +106,11 @@ TODO-IST:END -->
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/anishkumar127/Blogs/pull/2) in [anishkumar127/Blogs](https://github.com/anishkumar127/Blogs)
-2. 💪 Opened PR [#2](https://github.com/anishkumar127/Blogs/pull/2) in [anishkumar127/Blogs](https://github.com/anishkumar127/Blogs)
-3. 🎉 Merged PR [#1](https://github.com/anishkumar127/Blogs/pull/1) in [anishkumar127/Blogs](https://github.com/anishkumar127/Blogs)
-4. 💪 Opened PR [#1](https://github.com/anishkumar127/Blogs/pull/1) in [anishkumar127/Blogs](https://github.com/anishkumar127/Blogs)
-5. 🎉 Merged PR [#31](https://github.com/anishkumar127/brain-notes/pull/31) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+1. 🎉 Merged PR [#3](https://github.com/anishkumar127/Blogs/pull/3) in [anishkumar127/Blogs](https://github.com/anishkumar127/Blogs)
+2. 💪 Opened PR [#3](https://github.com/anishkumar127/Blogs/pull/3) in [anishkumar127/Blogs](https://github.com/anishkumar127/Blogs)
+3. 🎉 Merged PR [#2](https://github.com/anishkumar127/Blogs/pull/2) in [anishkumar127/Blogs](https://github.com/anishkumar127/Blogs)
+4. 💪 Opened PR [#2](https://github.com/anishkumar127/Blogs/pull/2) in [anishkumar127/Blogs](https://github.com/anishkumar127/Blogs)
+5. 🎉 Merged PR [#1](https://github.com/anishkumar127/Blogs/pull/1) in [anishkumar127/Blogs](https://github.com/anishkumar127/Blogs)
 6. 💪 Opened PR [#31](https://github.com/anishkumar127/brain-notes/pull/31) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
 7. 🎉 Merged PR [#30](https://github.com/anishkumar127/brain-notes/pull/30) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
 8. 💪 Opened PR [#30](https://github.com/anishkumar127/brain-notes/pull/30) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
