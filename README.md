@@ -184,6 +184,12 @@ TODO-IST:END -->
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-330%20hrs%209%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.8%20million%20lines%20of%20code-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 115.6 kB Used in GitHub's Storage 
@@ -234,12 +240,9 @@ Chrome                   25 hrs 55 mins      ███████████�
 VS Code                  9 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   26.24 % 
 IntelliJ                 40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 
-🐱‍💻 Projects: 
-Unknown Project          24 hrs 53 mins      █████████████████░░░░░░░░   69.04 % 
-react-app                2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-NODE MASTER              2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-master challenge         1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-CRUD                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+💻 Operating System: 
+Linux                    25 hrs 55 mins      ██████████████████░░░░░░░   71.89 % 
+Windows                  10 hrs 8 mins       ███████░░░░░░░░░░░░░░░░░░   28.11 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -255,7 +258,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/03/2023 02:29:49 UTC
+ Last Updated on 03/03/2023 02:53:06 UTC
 <!--END_SECTION:waka-->
 
 <!-- NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub. -->
