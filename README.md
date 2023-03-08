@@ -106,11 +106,11 @@ TODO-IST:END -->
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/anishkumar127/brain-notes/pull/33) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
-2. 💪 Opened PR [#33](https://github.com/anishkumar127/brain-notes/pull/33) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
-3. 🎉 Merged PR [#32](https://github.com/anishkumar127/brain-notes/pull/32) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
-4. 💪 Opened PR [#32](https://github.com/anishkumar127/brain-notes/pull/32) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
-5. ❗️ Opened issue [#1](https://github.com/sachinsaini4278/React-Todo-App/issues/1) in [sachinsaini4278/React-Todo-App](https://github.com/sachinsaini4278/React-Todo-App)
+1. 🎉 Merged PR [#34](https://github.com/anishkumar127/brain-notes/pull/34) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+2. 💪 Opened PR [#34](https://github.com/anishkumar127/brain-notes/pull/34) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+3. 🎉 Merged PR [#33](https://github.com/anishkumar127/brain-notes/pull/33) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+4. 💪 Opened PR [#33](https://github.com/anishkumar127/brain-notes/pull/33) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+5. 🎉 Merged PR [#32](https://github.com/anishkumar127/brain-notes/pull/32) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
 6. 🎉 Merged PR [#3](https://github.com/anishkumar127/Blogs/pull/3) in [anishkumar127/Blogs](https://github.com/anishkumar127/Blogs)
 7. 💪 Opened PR [#3](https://github.com/anishkumar127/Blogs/pull/3) in [anishkumar127/Blogs](https://github.com/anishkumar127/Blogs)
 8. 🎉 Merged PR [#2](https://github.com/anishkumar127/Blogs/pull/2) in [anishkumar127/Blogs](https://github.com/anishkumar127/Blogs)
