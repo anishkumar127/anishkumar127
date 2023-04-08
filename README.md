@@ -184,6 +184,12 @@ TODO-IST:END -->
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-391%20hrs%205%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.1%20million%20lines%20of%20code-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 118.9 kB Used in GitHub's Storage 
@@ -228,11 +234,8 @@ Other                    1 hr 18 mins        ███████████�
 🔥 Editors: 
 Chrome                   1 hr 18 mins        █████████████████████████   100.00 % 
 
-🐱‍💻 Projects: 
-Unknown Project          1 hr 17 mins        █████████████████████████   98.40 % 
-TODO_Advanced            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-MovieSearchApp           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-ManageYourMoney          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+💻 Operating System: 
+Linux                    1 hr 18 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -248,7 +251,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/04/2023 00:35:15 UTC
+ Last Updated on 08/04/2023 00:55:20 UTC
 <!--END_SECTION:waka-->
 
 <!-- NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub. -->
