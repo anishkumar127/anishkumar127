@@ -106,8 +106,8 @@ TODO-IST:END -->
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/anishkumar127/brain-notes/pull/36) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
-2. 💪 Opened PR [#36](https://github.com/anishkumar127/brain-notes/pull/36) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+1. 🎉 Merged PR [#44](https://github.com/anishkumar127/video-sharing-app/pull/44) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
+2. 💪 Opened PR [#44](https://github.com/anishkumar127/video-sharing-app/pull/44) in [anishkumar127/video-sharing-app](https://github.com/anishkumar127/video-sharing-app)
 3. 🎉 Merged PR [#34](https://github.com/anishkumar127/brain-notes/pull/34) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
 4. 💪 Opened PR [#34](https://github.com/anishkumar127/brain-notes/pull/34) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
 5. 🎉 Merged PR [#32](https://github.com/anishkumar127/brain-notes/pull/32) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
