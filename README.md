@@ -106,11 +106,11 @@ TODO-IST:END -->
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/anishkumar127/brain-notes/pull/42) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
-2. 💪 Opened PR [#42](https://github.com/anishkumar127/brain-notes/pull/42) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
-3. 🎉 Merged PR [#41](https://github.com/anishkumar127/brain-notes/pull/41) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
-4. 💪 Opened PR [#41](https://github.com/anishkumar127/brain-notes/pull/41) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
-5. 🎉 Merged PR [#40](https://github.com/anishkumar127/brain-notes/pull/40) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+1. 🎉 Merged PR [#43](https://github.com/anishkumar127/brain-notes/pull/43) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+2. 💪 Opened PR [#43](https://github.com/anishkumar127/brain-notes/pull/43) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+3. 🎉 Merged PR [#42](https://github.com/anishkumar127/brain-notes/pull/42) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+4. 💪 Opened PR [#42](https://github.com/anishkumar127/brain-notes/pull/42) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+5. 🎉 Merged PR [#41](https://github.com/anishkumar127/brain-notes/pull/41) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
 6. 💪 Opened PR [#40](https://github.com/anishkumar127/brain-notes/pull/40) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
 7. 🎉 Merged PR [#39](https://github.com/anishkumar127/brain-notes/pull/39) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
 8. 💪 Opened PR [#39](https://github.com/anishkumar127/brain-notes/pull/39) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
