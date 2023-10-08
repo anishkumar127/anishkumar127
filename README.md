@@ -106,8 +106,8 @@ TODO-IST:END -->
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/anishkumar127/Redux-Experiments/pull/1) in [anishkumar127/Redux-Experiments](https://github.com/anishkumar127/Redux-Experiments)
-2. 💪 Opened PR [#1](https://github.com/anishkumar127/Redux-Experiments/pull/1) in [anishkumar127/Redux-Experiments](https://github.com/anishkumar127/Redux-Experiments)
+1. 🎉 Merged PR [#1](https://github.com/anishkumar127/RTK/pull/1) in [anishkumar127/RTK](https://github.com/anishkumar127/RTK)
+2. 💪 Opened PR [#1](https://github.com/anishkumar127/RTK/pull/1) in [anishkumar127/RTK](https://github.com/anishkumar127/RTK)
 3. 🎉 Merged PR [#1](https://github.com/anishkumar127/ProjectVault/pull/1) in [anishkumar127/ProjectVault](https://github.com/anishkumar127/ProjectVault)
 4. 💪 Opened PR [#1](https://github.com/anishkumar127/ProjectVault/pull/1) in [anishkumar127/ProjectVault](https://github.com/anishkumar127/ProjectVault)
 5. 🎉 Merged PR [#44](https://github.com/anishkumar127/brain-notes/pull/44) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
