@@ -111,7 +111,7 @@ TODO-IST:END -->
 3. 🎉 Merged PR [#2](https://github.com/anishkumar127/RTK/pull/2) in [anishkumar127/RTK](https://github.com/anishkumar127/RTK)
 4. 💪 Opened PR [#2](https://github.com/anishkumar127/RTK/pull/2) in [anishkumar127/RTK](https://github.com/anishkumar127/RTK)
 5. 🎉 Merged PR [#1](https://github.com/anishkumar127/RTK/pull/1) in [anishkumar127/RTK](https://github.com/anishkumar127/RTK)
-6. 💪 Opened PR [#44](https://github.com/anishkumar127/brain-notes/pull/44) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+6. 💪 Opened PR [#1](https://github.com/anishkumar127/RTK/pull/1) in [anishkumar127/RTK](https://github.com/anishkumar127/RTK)
 7. 🎉 Merged PR [#40](https://github.com/anishkumar127/brain-notes/pull/40) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
 8. 💪 Opened PR [#40](https://github.com/anishkumar127/brain-notes/pull/40) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
 9. 🎉 Merged PR [#39](https://github.com/anishkumar127/brain-notes/pull/39) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
