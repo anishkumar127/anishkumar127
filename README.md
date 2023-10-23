@@ -106,16 +106,16 @@ TODO-IST:END -->
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/anishkumar127/Job-Listing/pull/3) in [anishkumar127/Job-Listing](https://github.com/anishkumar127/Job-Listing)
-2. 🎉 Merged PR [#2](https://github.com/anishkumar127/Job-Listing/pull/2) in [anishkumar127/Job-Listing](https://github.com/anishkumar127/Job-Listing)
-3. 💪 Opened PR [#2](https://github.com/anishkumar127/Job-Listing/pull/2) in [anishkumar127/Job-Listing](https://github.com/anishkumar127/Job-Listing)
-4. 🎉 Merged PR [#1](https://github.com/anishkumar127/Job-Listing/pull/1) in [anishkumar127/Job-Listing](https://github.com/anishkumar127/Job-Listing)
-5. 💪 Opened PR [#1](https://github.com/anishkumar127/Job-Listing/pull/1) in [anishkumar127/Job-Listing](https://github.com/anishkumar127/Job-Listing)
-6. 🎉 Merged PR [#2](https://github.com/anishkumar127/RTK/pull/2) in [anishkumar127/RTK](https://github.com/anishkumar127/RTK)
-7. 💪 Opened PR [#2](https://github.com/anishkumar127/RTK/pull/2) in [anishkumar127/RTK](https://github.com/anishkumar127/RTK)
-8. 🎉 Merged PR [#1](https://github.com/anishkumar127/RTK/pull/1) in [anishkumar127/RTK](https://github.com/anishkumar127/RTK)
-9. 💪 Opened PR [#1](https://github.com/anishkumar127/RTK/pull/1) in [anishkumar127/RTK](https://github.com/anishkumar127/RTK)
-10. 💪 Opened PR [#39](https://github.com/anishkumar127/brain-notes/pull/39) in [anishkumar127/brain-notes](https://github.com/anishkumar127/brain-notes)
+1. 🎉 Merged PR [#8](https://github.com/anishkumar127/Job-Listing/pull/8) in [anishkumar127/Job-Listing](https://github.com/anishkumar127/Job-Listing)
+2. 💪 Opened PR [#8](https://github.com/anishkumar127/Job-Listing/pull/8) in [anishkumar127/Job-Listing](https://github.com/anishkumar127/Job-Listing)
+3. 🎉 Merged PR [#7](https://github.com/anishkumar127/Job-Listing/pull/7) in [anishkumar127/Job-Listing](https://github.com/anishkumar127/Job-Listing)
+4. 💪 Opened PR [#7](https://github.com/anishkumar127/Job-Listing/pull/7) in [anishkumar127/Job-Listing](https://github.com/anishkumar127/Job-Listing)
+5. 🎉 Merged PR [#6](https://github.com/anishkumar127/Job-Listing/pull/6) in [anishkumar127/Job-Listing](https://github.com/anishkumar127/Job-Listing)
+6. 💪 Opened PR [#6](https://github.com/anishkumar127/Job-Listing/pull/6) in [anishkumar127/Job-Listing](https://github.com/anishkumar127/Job-Listing)
+7. 🎉 Merged PR [#5](https://github.com/anishkumar127/Job-Listing/pull/5) in [anishkumar127/Job-Listing](https://github.com/anishkumar127/Job-Listing)
+8. 💪 Opened PR [#5](https://github.com/anishkumar127/Job-Listing/pull/5) in [anishkumar127/Job-Listing](https://github.com/anishkumar127/Job-Listing)
+9. 🎉 Merged PR [#3](https://github.com/anishkumar127/Job-Listing/pull/3) in [anishkumar127/Job-Listing](https://github.com/anishkumar127/Job-Listing)
+10. 🎉 Merged PR [#2](https://github.com/anishkumar127/Job-Listing/pull/2) in [anishkumar127/Job-Listing](https://github.com/anishkumar127/Job-Listing)
 <!--END_SECTION:activity-->
 
 
