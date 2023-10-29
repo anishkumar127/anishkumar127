@@ -110,12 +110,12 @@ TODO-IST:END -->
 2. 💪 Opened PR [#2](https://github.com/anishkumar127/drawpulse/pull/2) in [anishkumar127/drawpulse](https://github.com/anishkumar127/drawpulse)
 3. 🎉 Merged PR [#1](https://github.com/anishkumar127/drawpulse/pull/1) in [anishkumar127/drawpulse](https://github.com/anishkumar127/drawpulse)
 4. 💪 Opened PR [#1](https://github.com/anishkumar127/drawpulse/pull/1) in [anishkumar127/drawpulse](https://github.com/anishkumar127/drawpulse)
-5. 🎉 Merged PR [#4](https://github.com/anishkumar127/Job-Listing/pull/4) in [anishkumar127/Job-Listing](https://github.com/anishkumar127/Job-Listing)
-6. 💪 Opened PR [#9](https://github.com/anishkumar127/Job-Listing/pull/9) in [anishkumar127/Job-Listing](https://github.com/anishkumar127/Job-Listing)
-7. 🎉 Merged PR [#8](https://github.com/anishkumar127/Job-Listing/pull/8) in [anishkumar127/Job-Listing](https://github.com/anishkumar127/Job-Listing)
-8. 💪 Opened PR [#8](https://github.com/anishkumar127/Job-Listing/pull/8) in [anishkumar127/Job-Listing](https://github.com/anishkumar127/Job-Listing)
-9. 🎉 Merged PR [#7](https://github.com/anishkumar127/Job-Listing/pull/7) in [anishkumar127/Job-Listing](https://github.com/anishkumar127/Job-Listing)
-10. 💪 Opened PR [#7](https://github.com/anishkumar127/Job-Listing/pull/7) in [anishkumar127/Job-Listing](https://github.com/anishkumar127/Job-Listing)
+5. 🚀 Published release [Job Listing App](https://github.com/anishkumar127/Job-Listing/releases/tag/v1.0) in [anishkumar127/Job-Listing](https://github.com/anishkumar127/Job-Listing)
+6. 🎉 Merged PR [#4](https://github.com/anishkumar127/Job-Listing/pull/4) in [anishkumar127/Job-Listing](https://github.com/anishkumar127/Job-Listing)
+7. 🎉 Merged PR [#10](https://github.com/anishkumar127/Job-Listing/pull/10) in [anishkumar127/Job-Listing](https://github.com/anishkumar127/Job-Listing)
+8. 💪 Opened PR [#10](https://github.com/anishkumar127/Job-Listing/pull/10) in [anishkumar127/Job-Listing](https://github.com/anishkumar127/Job-Listing)
+9. 🎉 Merged PR [#9](https://github.com/anishkumar127/Job-Listing/pull/9) in [anishkumar127/Job-Listing](https://github.com/anishkumar127/Job-Listing)
+10. 💪 Opened PR [#9](https://github.com/anishkumar127/Job-Listing/pull/9) in [anishkumar127/Job-Listing](https://github.com/anishkumar127/Job-Listing)
 <!--END_SECTION:activity-->
 
 
