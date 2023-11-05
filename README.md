@@ -106,11 +106,11 @@ TODO-IST:END -->
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/anishkumar127/drawpulse/pull/2) in [anishkumar127/drawpulse](https://github.com/anishkumar127/drawpulse)
-2. 💪 Opened PR [#2](https://github.com/anishkumar127/drawpulse/pull/2) in [anishkumar127/drawpulse](https://github.com/anishkumar127/drawpulse)
-3. 🎉 Merged PR [#1](https://github.com/anishkumar127/drawpulse/pull/1) in [anishkumar127/drawpulse](https://github.com/anishkumar127/drawpulse)
-4. 💪 Opened PR [#1](https://github.com/anishkumar127/drawpulse/pull/1) in [anishkumar127/drawpulse](https://github.com/anishkumar127/drawpulse)
-5. 🚀 Published release [Job Listing App](https://github.com/anishkumar127/Job-Listing/releases/tag/v1.0) in [anishkumar127/Job-Listing](https://github.com/anishkumar127/Job-Listing)
+1. 🎉 Merged PR [#8](https://github.com/anishkumar127/drawpulse/pull/8) in [anishkumar127/drawpulse](https://github.com/anishkumar127/drawpulse)
+2. 💪 Opened PR [#8](https://github.com/anishkumar127/drawpulse/pull/8) in [anishkumar127/drawpulse](https://github.com/anishkumar127/drawpulse)
+3. 🎉 Merged PR [#7](https://github.com/anishkumar127/drawpulse/pull/7) in [anishkumar127/drawpulse](https://github.com/anishkumar127/drawpulse)
+4. 💪 Opened PR [#7](https://github.com/anishkumar127/drawpulse/pull/7) in [anishkumar127/drawpulse](https://github.com/anishkumar127/drawpulse)
+5. 🎉 Merged PR [#6](https://github.com/anishkumar127/drawpulse/pull/6) in [anishkumar127/drawpulse](https://github.com/anishkumar127/drawpulse)
 6. 🎉 Merged PR [#4](https://github.com/anishkumar127/Job-Listing/pull/4) in [anishkumar127/Job-Listing](https://github.com/anishkumar127/Job-Listing)
 7. 🎉 Merged PR [#10](https://github.com/anishkumar127/Job-Listing/pull/10) in [anishkumar127/Job-Listing](https://github.com/anishkumar127/Job-Listing)
 8. 💪 Opened PR [#10](https://github.com/anishkumar127/Job-Listing/pull/10) in [anishkumar127/Job-Listing](https://github.com/anishkumar127/Job-Listing)
