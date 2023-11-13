@@ -184,6 +184,12 @@ TODO-IST:END -->
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C698%20hrs%2027%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.9%20million%20lines%20of%20code-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 242.9 kB Used in GitHub's Storage 
@@ -233,12 +239,8 @@ TSConfig                 22 mins             ░░░░░░░░░░░�
 VS Code                  28 hrs 17 mins      █████████████░░░░░░░░░░░░   53.86 % 
 Chrome                   24 hrs 14 mins      ████████████░░░░░░░░░░░░░   46.14 % 
 
-🐱‍💻 Projects: 
-multi                    22 hrs 45 mins      ███████████░░░░░░░░░░░░░░   43.32 % 
-extract                  15 hrs 5 mins       ███████░░░░░░░░░░░░░░░░░░   28.73 % 
-v54                      7 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-solution                 1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-v53                      1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+💻 Operating System: 
+Windows                  52 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -254,7 +256,7 @@ Java                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/11/2023 00:37:35 UTC
+ Last Updated on 13/11/2023 00:56:02 UTC
 <!--END_SECTION:waka-->
 
 <!-- NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub. -->
