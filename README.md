@@ -111,11 +111,11 @@ TODO-IST:END -->
 3. 🎉 Merged PR [#27](https://github.com/anishkumar127/Vendor-Reconciliation/pull/27) in [anishkumar127/Vendor-Reconciliation](https://github.com/anishkumar127/Vendor-Reconciliation)
 4. 💪 Opened PR [#27](https://github.com/anishkumar127/Vendor-Reconciliation/pull/27) in [anishkumar127/Vendor-Reconciliation](https://github.com/anishkumar127/Vendor-Reconciliation)
 5. 🎉 Merged PR [#26](https://github.com/anishkumar127/Vendor-Reconciliation/pull/26) in [anishkumar127/Vendor-Reconciliation](https://github.com/anishkumar127/Vendor-Reconciliation)
-6. 💪 Opened PR [#23](https://github.com/anishkumar127/Vendor-Reconciliation/pull/23) in [anishkumar127/Vendor-Reconciliation](https://github.com/anishkumar127/Vendor-Reconciliation)
-7. 🎉 Merged PR [#22](https://github.com/anishkumar127/Vendor-Reconciliation/pull/22) in [anishkumar127/Vendor-Reconciliation](https://github.com/anishkumar127/Vendor-Reconciliation)
-8. 💪 Opened PR [#22](https://github.com/anishkumar127/Vendor-Reconciliation/pull/22) in [anishkumar127/Vendor-Reconciliation](https://github.com/anishkumar127/Vendor-Reconciliation)
-9. 🎉 Merged PR [#21](https://github.com/anishkumar127/Vendor-Reconciliation/pull/21) in [anishkumar127/Vendor-Reconciliation](https://github.com/anishkumar127/Vendor-Reconciliation)
-10. 💪 Opened PR [#21](https://github.com/anishkumar127/Vendor-Reconciliation/pull/21) in [anishkumar127/Vendor-Reconciliation](https://github.com/anishkumar127/Vendor-Reconciliation)
+6. 💪 Opened PR [#26](https://github.com/anishkumar127/Vendor-Reconciliation/pull/26) in [anishkumar127/Vendor-Reconciliation](https://github.com/anishkumar127/Vendor-Reconciliation)
+7. 🎉 Merged PR [#25](https://github.com/anishkumar127/Vendor-Reconciliation/pull/25) in [anishkumar127/Vendor-Reconciliation](https://github.com/anishkumar127/Vendor-Reconciliation)
+8. 💪 Opened PR [#25](https://github.com/anishkumar127/Vendor-Reconciliation/pull/25) in [anishkumar127/Vendor-Reconciliation](https://github.com/anishkumar127/Vendor-Reconciliation)
+9. 🎉 Merged PR [#24](https://github.com/anishkumar127/Vendor-Reconciliation/pull/24) in [anishkumar127/Vendor-Reconciliation](https://github.com/anishkumar127/Vendor-Reconciliation)
+10. 💪 Opened PR [#24](https://github.com/anishkumar127/Vendor-Reconciliation/pull/24) in [anishkumar127/Vendor-Reconciliation](https://github.com/anishkumar127/Vendor-Reconciliation)
 <!--END_SECTION:activity-->
 
 
