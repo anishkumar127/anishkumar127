@@ -184,17 +184,15 @@ TODO-IST:END -->
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C537%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C537%20hrs%209%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.6%20million%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 269.4 kB Used in GitHub's Storage 
+> 📦 269.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,967 Contributions in the Year 2024
+> 🏆 1,987 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -205,10 +203,10 @@ TODO-IST:END -->
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4649 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-🌆 Daytime                16081 commits       ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
-🌃 Evening                31733 commits       █████████████░░░░░░░░░░░░   50.81 % 
-🌙 Night                  9997 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+🌞 Morning                4655 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+🌆 Daytime                16087 commits       ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
+🌃 Evening                31740 commits       █████████████░░░░░░░░░░░░   50.80 % 
+🌙 Night                  9997 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
@@ -217,9 +215,9 @@ Monday                   10546 commits       ████░░░░░░░�
 Tuesday                  9946 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
 Wednesday                8246 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
 Thursday                 7082 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-Friday                   6403 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+Friday                   6422 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
 Saturday                 7059 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-Sunday                   13178 commits       █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
+Sunday                   13178 commits       █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
 ```
 
 
@@ -240,6 +238,13 @@ Chrome                   43 hrs 5 mins       ███████████�
 VS Code                  24 hrs              █████████░░░░░░░░░░░░░░░░   35.78 % 
 IntelliJ                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
+🐱‍💻 Projects: 
+Multitenant App          20 hrs 54 mins      ████████░░░░░░░░░░░░░░░░░   31.16 % 
+Statutory-Reporting-Tool-18 hrs 19 mins      ███████░░░░░░░░░░░░░░░░░░   27.30 % 
+HD365SPFX                13 hrs 14 mins      █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
+apple-auth-example       3 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+test                     1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+
 💻 Operating System: 
 Windows                  67 hrs 6 mins       █████████████████████████   100.00 % 
 ```
@@ -256,8 +261,12 @@ Java                     5 repos             █░░░░░░░░░░�
 
 
 
+**Timeline**
 
- Last Updated on 08/03/2024 00:56:25 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/anishkumar127/anishkumar127/master/assets/bar_graph.png)
+
+
+ Last Updated on 08/03/2024 18:42:33 UTC
 <!--END_SECTION:waka-->
 
 <!-- NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub. -->
