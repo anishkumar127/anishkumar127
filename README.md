@@ -111,11 +111,11 @@ TODO-IST:END -->
 3. 🎉 Merged PR [#20](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd/pull/20) in [anishkumar127/Statutory-Reporting-Tool-FrontEnd](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd)
 4. 💪 Opened PR [#20](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd/pull/20) in [anishkumar127/Statutory-Reporting-Tool-FrontEnd](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd)
 5. 🎉 Merged PR [#19](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd/pull/19) in [anishkumar127/Statutory-Reporting-Tool-FrontEnd](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd)
-6. 🎉 Merged PR [#17](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd/pull/17) in [anishkumar127/Statutory-Reporting-Tool-FrontEnd](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd)
-7. 💪 Opened PR [#17](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd/pull/17) in [anishkumar127/Statutory-Reporting-Tool-FrontEnd](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd)
-8. 🎉 Merged PR [#16](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd/pull/16) in [anishkumar127/Statutory-Reporting-Tool-FrontEnd](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd)
-9. 💪 Opened PR [#16](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd/pull/16) in [anishkumar127/Statutory-Reporting-Tool-FrontEnd](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd)
-10. 🎉 Merged PR [#15](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd/pull/15) in [anishkumar127/Statutory-Reporting-Tool-FrontEnd](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd)
+6. 💪 Opened PR [#19](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd/pull/19) in [anishkumar127/Statutory-Reporting-Tool-FrontEnd](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd)
+7. 💪 Opened PR [#18](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd/pull/18) in [anishkumar127/Statutory-Reporting-Tool-FrontEnd](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd)
+8. 🎉 Merged PR [#17](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd/pull/17) in [anishkumar127/Statutory-Reporting-Tool-FrontEnd](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd)
+9. 💪 Opened PR [#17](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd/pull/17) in [anishkumar127/Statutory-Reporting-Tool-FrontEnd](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd)
+10. 🎉 Merged PR [#16](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd/pull/16) in [anishkumar127/Statutory-Reporting-Tool-FrontEnd](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd)
 <!--END_SECTION:activity-->
 
 
