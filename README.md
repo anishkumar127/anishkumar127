@@ -106,8 +106,8 @@ TODO-IST:END -->
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd/pull/21) in [anishkumar127/Statutory-Reporting-Tool-FrontEnd](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd)
-2. 💪 Opened PR [#21](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd/pull/21) in [anishkumar127/Statutory-Reporting-Tool-FrontEnd](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd)
+1. 🗣 Commented on [#3690](https://github.com/rsuite/rsuite/issues/3690) in [rsuite/rsuite](https://github.com/rsuite/rsuite)
+2. ❗️ Opened issue [#3690](https://github.com/rsuite/rsuite/issues/3690) in [rsuite/rsuite](https://github.com/rsuite/rsuite)
 3. 🎉 Merged PR [#20](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd/pull/20) in [anishkumar127/Statutory-Reporting-Tool-FrontEnd](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd)
 4. 💪 Opened PR [#20](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd/pull/20) in [anishkumar127/Statutory-Reporting-Tool-FrontEnd](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd)
 5. 🎉 Merged PR [#19](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd/pull/19) in [anishkumar127/Statutory-Reporting-Tool-FrontEnd](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd)
