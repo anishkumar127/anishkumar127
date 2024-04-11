@@ -184,13 +184,11 @@ TODO-IST:END -->
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C795%20hrs%2012%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-95-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-94-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 279.7 kB Used in GitHub's Storage 
+> 📦 279.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -198,54 +196,6 @@ TODO-IST:END -->
  > 
 > 🔑 52 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                4961 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-🌆 Daytime                17207 commits       ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
-🌃 Evening                37632 commits       █████████████░░░░░░░░░░░░   52.61 % 
-🌙 Night                  11730 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   12151 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-Tuesday                  11989 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-Wednesday                9097 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Thursday                 7786 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-Friday                   7094 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Saturday                 8580 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-Sunday                   14833 commits       █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Other                    36 hrs 57 mins      ███████████████████░░░░░░   76.15 % 
-TypeScript               11 hrs 8 mins       ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
-JavaScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-SCSS                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-
-🔥 Editors: 
-Chrome                   36 hrs 56 mins      ███████████████████░░░░░░   76.13 % 
-VS Code                  11 hrs 35 mins      ██████░░░░░░░░░░░░░░░░░░░   23.87 % 
-
-🐱‍💻 Projects: 
-Multitenant App          19 hrs 11 mins      ██████████░░░░░░░░░░░░░░░   39.56 % 
-Statutory-Reporting-Tool-10 hrs 33 mins      █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
-Statutory-Reporting-Tool-5 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-v4-new                   4 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-HD365SPFX                2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-
-💻 Operating System: 
-Windows                  48 hrs 31 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -263,7 +213,7 @@ Java                     5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/anishkumar127/anishkumar127/master/assets/bar_graph.png)
 
 
- Last Updated on 10/04/2024 19:07:24 UTC
+ Last Updated on 11/04/2024 18:42:46 UTC
 <!--END_SECTION:waka-->
 
 <!-- NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub. -->
