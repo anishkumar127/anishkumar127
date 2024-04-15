@@ -184,8 +184,6 @@ TODO-IST:END -->
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-79-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 279.9 kB Used in GitHub's Storage 
@@ -201,13 +199,13 @@ TODO-IST:END -->
 ```text
 🌞 Morning                4985 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
 🌆 Daytime                17257 commits       ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-🌃 Evening                37863 commits       █████████████░░░░░░░░░░░░   52.66 % 
-🌙 Night                  11802 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+🌃 Evening                37863 commits       █████████████░░░░░░░░░░░░   52.65 % 
+🌙 Night                  11803 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   12196 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Monday                   12197 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
 Tuesday                  12067 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
 Wednesday                9126 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
 Thursday                 7830 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
@@ -239,9 +237,6 @@ HD365SPFX                11 hrs 24 mins      ██████░░░░░�
 Statutory-Reporting-Tool-8 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
 v4-new                   1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 Next.js                  1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-
-💻 Operating System: 
-Windows                  48 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -256,12 +251,8 @@ Java                     5 repos             █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/anishkumar127/anishkumar127/master/assets/bar_graph.png)
-
-
- Last Updated on 14/04/2024 23:07:10 UTC
+ Last Updated on 15/04/2024 03:11:55 UTC
 <!--END_SECTION:waka-->
 
 <!-- NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub. -->
