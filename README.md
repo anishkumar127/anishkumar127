@@ -106,12 +106,12 @@ TODO-IST:END -->
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/anishkumar127/Fixed-Assets-Tool/pull/1) in [anishkumar127/Fixed-Assets-Tool](https://github.com/anishkumar127/Fixed-Assets-Tool)
-2. 💪 Opened PR [#1](https://github.com/anishkumar127/Fixed-Assets-Tool/pull/1) in [anishkumar127/Fixed-Assets-Tool](https://github.com/anishkumar127/Fixed-Assets-Tool)
-3. 🗣 Commented on [#3690](https://github.com/rsuite/rsuite/issues/3690#issuecomment-2009306458) in [rsuite/rsuite](https://github.com/rsuite/rsuite)
-4. ❗ Opened issue [#3690](https://github.com/rsuite/rsuite/issues/3690) in [rsuite/rsuite](https://github.com/rsuite/rsuite)
-5. 🎉 Merged PR [#19](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd/pull/19) in [anishkumar127/Statutory-Reporting-Tool-FrontEnd](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd)
-6. 💪 Opened PR [#19](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd/pull/19) in [anishkumar127/Statutory-Reporting-Tool-FrontEnd](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd)
+1. 🎉 Merged PR [#2](https://github.com/anishkumar127/Fixed-Assets-Tool/pull/2) in [anishkumar127/Fixed-Assets-Tool](https://github.com/anishkumar127/Fixed-Assets-Tool)
+2. 💪 Opened PR [#2](https://github.com/anishkumar127/Fixed-Assets-Tool/pull/2) in [anishkumar127/Fixed-Assets-Tool](https://github.com/anishkumar127/Fixed-Assets-Tool)
+3. 🎉 Merged PR [#1](https://github.com/anishkumar127/Fixed-Assets-Tool/pull/1) in [anishkumar127/Fixed-Assets-Tool](https://github.com/anishkumar127/Fixed-Assets-Tool)
+4. 💪 Opened PR [#1](https://github.com/anishkumar127/Fixed-Assets-Tool/pull/1) in [anishkumar127/Fixed-Assets-Tool](https://github.com/anishkumar127/Fixed-Assets-Tool)
+5. 🗣 Commented on [#3690](https://github.com/rsuite/rsuite/issues/3690#issuecomment-2009306458) in [rsuite/rsuite](https://github.com/rsuite/rsuite)
+6. ❗ Opened issue [#3690](https://github.com/rsuite/rsuite/issues/3690) in [rsuite/rsuite](https://github.com/rsuite/rsuite)
 7. 💪 Opened PR [#18](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd/pull/18) in [anishkumar127/Statutory-Reporting-Tool-FrontEnd](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd)
 8. 🎉 Merged PR [#17](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd/pull/17) in [anishkumar127/Statutory-Reporting-Tool-FrontEnd](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd)
 9. 💪 Opened PR [#17](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd/pull/17) in [anishkumar127/Statutory-Reporting-Tool-FrontEnd](https://github.com/anishkumar127/Statutory-Reporting-Tool-FrontEnd)
