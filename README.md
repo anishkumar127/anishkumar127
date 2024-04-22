@@ -109,7 +109,7 @@ TODO-IST:END -->
 1. 🎉 Merged PR [#1](https://github.com/anishkumar127/Fixed-Assets-Tool-Frontend/pull/1) in [anishkumar127/Fixed-Assets-Tool-Frontend](https://github.com/anishkumar127/Fixed-Assets-Tool-Frontend)
 2. 🎉 Merged PR [#9](https://github.com/anishkumar127/Fixed-Assets-Tool/pull/9) in [anishkumar127/Fixed-Assets-Tool](https://github.com/anishkumar127/Fixed-Assets-Tool)
 3. 💪 Opened PR [#9](https://github.com/anishkumar127/Fixed-Assets-Tool/pull/9) in [anishkumar127/Fixed-Assets-Tool](https://github.com/anishkumar127/Fixed-Assets-Tool)
-4. 🗣 Commented on [#23](https://github.com/hehuapei/visitor-badge/issues/23) in [hehuapei/visitor-badge](https://github.com/hehuapei/visitor-badge)
+4. 🗣 Commented on [#23](https://github.com/hehuapei/visitor-badge/issues/23#issuecomment-2070180464) in [hehuapei/visitor-badge](https://github.com/hehuapei/visitor-badge)
 5. 🎉 Merged PR [#4](https://github.com/anishbishnoi127/repo-test/pull/4) in [anishbishnoi127/repo-test](https://github.com/anishbishnoi127/repo-test)
 6. 💪 Opened PR [#4](https://github.com/anishbishnoi127/repo-test/pull/4) in [anishbishnoi127/repo-test](https://github.com/anishbishnoi127/repo-test)
 7. 🎉 Merged PR [#6](https://github.com/anishkumar127/Fixed-Assets-Tool/pull/6) in [anishkumar127/Fixed-Assets-Tool](https://github.com/anishkumar127/Fixed-Assets-Tool)
