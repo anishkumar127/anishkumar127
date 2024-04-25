@@ -111,11 +111,11 @@ TODO-IST:END -->
 3. 🎉 Merged PR [#13](https://github.com/anishkumar127/Fixed-Assets-Tool/pull/13) in [anishkumar127/Fixed-Assets-Tool](https://github.com/anishkumar127/Fixed-Assets-Tool)
 4. 💪 Opened PR [#13](https://github.com/anishkumar127/Fixed-Assets-Tool/pull/13) in [anishkumar127/Fixed-Assets-Tool](https://github.com/anishkumar127/Fixed-Assets-Tool)
 5. 🎉 Merged PR [#4](https://github.com/anishkumar127/Fixed-Assets-Tool-Frontend/pull/4) in [anishkumar127/Fixed-Assets-Tool-Frontend](https://github.com/anishkumar127/Fixed-Assets-Tool-Frontend)
-6. 💪 Opened PR [#3](https://github.com/anishkumar127/Fixed-Assets-Tool-Frontend/pull/3) in [anishkumar127/Fixed-Assets-Tool-Frontend](https://github.com/anishkumar127/Fixed-Assets-Tool-Frontend)
-7. 🎉 Merged PR [#12](https://github.com/anishkumar127/Fixed-Assets-Tool/pull/12) in [anishkumar127/Fixed-Assets-Tool](https://github.com/anishkumar127/Fixed-Assets-Tool)
-8. 💪 Opened PR [#12](https://github.com/anishkumar127/Fixed-Assets-Tool/pull/12) in [anishkumar127/Fixed-Assets-Tool](https://github.com/anishkumar127/Fixed-Assets-Tool)
-9. 🎉 Merged PR [#11](https://github.com/anishkumar127/Fixed-Assets-Tool/pull/11) in [anishkumar127/Fixed-Assets-Tool](https://github.com/anishkumar127/Fixed-Assets-Tool)
-10. 💪 Opened PR [#11](https://github.com/anishkumar127/Fixed-Assets-Tool/pull/11) in [anishkumar127/Fixed-Assets-Tool](https://github.com/anishkumar127/Fixed-Assets-Tool)
+6. 💪 Opened PR [#4](https://github.com/anishkumar127/Fixed-Assets-Tool-Frontend/pull/4) in [anishkumar127/Fixed-Assets-Tool-Frontend](https://github.com/anishkumar127/Fixed-Assets-Tool-Frontend)
+7. 🎉 Merged PR [#3](https://github.com/anishkumar127/Fixed-Assets-Tool-Frontend/pull/3) in [anishkumar127/Fixed-Assets-Tool-Frontend](https://github.com/anishkumar127/Fixed-Assets-Tool-Frontend)
+8. 💪 Opened PR [#3](https://github.com/anishkumar127/Fixed-Assets-Tool-Frontend/pull/3) in [anishkumar127/Fixed-Assets-Tool-Frontend](https://github.com/anishkumar127/Fixed-Assets-Tool-Frontend)
+9. 🎉 Merged PR [#12](https://github.com/anishkumar127/Fixed-Assets-Tool/pull/12) in [anishkumar127/Fixed-Assets-Tool](https://github.com/anishkumar127/Fixed-Assets-Tool)
+10. 💪 Opened PR [#12](https://github.com/anishkumar127/Fixed-Assets-Tool/pull/12) in [anishkumar127/Fixed-Assets-Tool](https://github.com/anishkumar127/Fixed-Assets-Tool)
 <!--END_SECTION:activity-->
 
 
