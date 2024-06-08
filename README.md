@@ -16,32 +16,12 @@
 <a href="https://www.instagram.com/anishbishnoi29">
 <img align="left" alt="anish | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a> -->
-<p align="left">
-  <a href="https://www.linkedin.com/in/anishkumar29/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="24px" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/anishbishnoixD" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="26px" alt="Twitter" />
-  </a>
-  <a href="mailto:anishbishnoi127@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="26px" alt="Gmail" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCWy3HY8xhhCU37FS8t9m9kA" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" width="26px" alt="YouTube" />
-  </a>
-  <a href="https://www.instagram.com/anishbishnoi29" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="26px" alt="Instagram" />
-  </a>
-</p>
-
-<!-- Add custom CSS to handle dark mode -->
-<style>
-  @media (prefers-color-scheme: dark) {
-    img {
-      filter: invert(100%);
-    }
-  }
-</style>
+<!-- Social Media Links -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anishkumar29/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anishbishnoixD)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishbishnoi127@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCWy3HY8xhhCU37FS8t9m9kA)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anishbishnoi29)
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=anishkumar127.anishkumar127)
