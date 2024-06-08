@@ -21,11 +21,38 @@
 <br/>
 
 
-### About Me 🚀
+### About Me ✨
 
-Hi, i'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+<!-- Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a MERN stack developer from Abohar, Punjab, India. I specialize in both frontend and backend technologies. Proficient in JavaScript, TypeScript, React, Next.js, Redux, Node.js, Express, and database technologies including SharePoint and MongoDB. Coding for survival with a spark of passion on the side.<br><br>Technical Expertise<br>Languages: JavaScript, TypeScript, Java, Python<br>Frontend: React.js, Next.js, Redux, SPFx, HTML, CSS, Tailwind CSS, Fluent UI<br>Backend: Node.js, Express.js<br>Databases: MongoDB, SharePoint<br>Tools & Platforms: Git, GitHub, Docker, AWS -->
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. [ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>](https://github.com/anishkumar127)
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.justify-text {
+    text-align: justify;
+     margin: 0;
+}
+</style>
+</head>
+<body>
+
+<div class="justify-text">
+<p>Hi, I'm <a href="https://www.linkedin.com/in/anishkumar29/">Anish Kumar</a>, I work as a MERN stack developer from Abohar, Punjab, India. I specialize in both frontend and backend technologies. Proficient in JavaScript, TypeScript, React, Next.js, Redux, Node.js, Express, and database technologies including SharePoint and MongoDB. Coding for survival with a spark of passion on the side.</p>
+
+<p><b>Technical Expertise</b></p>
+<b>Languages:</b> JavaScript, TypeScript, Java, Python</p>
+<p><b>Frontend:</b> React.js, Next.js, Redux, SPFx, HTML, CSS, Tailwind CSS, Fluent UI</p>
+<p><b>Backend:</b> Node.js, Express.js</p>
+<p><b>Databases:</b> MongoDB, SharePoint</p>
+<p><b>Tools & Platforms:</b> Git, GitHub, Docker, AWS</p>
+
+</div>
+
+</body>
+</html>
+
+ [ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>](https://github.com/anishkumar127)
 
 <!-- Here are some ideas to get you started: -->
 
@@ -132,20 +159,20 @@ TODO-IST:END -->
 👉 [more videos...](https://www.youtube.com/channel/UCGfqR2ktkSE5xCvyzxkWhcw) 
 
 
- <div>
+ <!-- <div>
  <details> 
  <summary>Latest Tweets</summary>
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=anishbishnoixD&layout=wide)](https://twitter.com/anishbishnoixD)
  </details>
 
-</div>
+</div> -->
 
 
 
-### Contribution Graph eat snake 🍁
+<!-- ### Contribution Graph eat snake 🍁
 
-![snake gif](https://github.com/anishkumar127/anishkumar127/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/anishkumar127/anishkumar127/blob/output/github-contribution-grid-snake.gif) -->
 
 <!--  // this is stats and language. 
 ![](https://raw.githubusercontent.com/anishkumar127/github-stats/master/generated/overview.svg#gh-dark-mode-only)
@@ -175,8 +202,8 @@ TODO-IST:END -->
 </div> -->
 
 
-### Activity Graph
-[![Anish's github activity graph](https://activity-graph.herokuapp.com/graph?username=anishkumar127&theme=github)](https://github.com/anishkumar127/github-readme-activity-graph)
+<!-- ### Activity Graph
+[![Anish's github activity graph](https://activity-graph.herokuapp.com/graph?username=anishkumar127&theme=github)](https://github.com/anishkumar127/github-readme-activity-graph) -->
 
 ### GitHub Profile Trophy
 
@@ -184,79 +211,11 @@ TODO-IST:END -->
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C948%20hrs%2026%20mins-blue)
+<!-- ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C948%20hrs%2026%20mins-blue) -->
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue)
+<!-- ![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.0%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 280.6 kB Used in GitHub's Storage 
- > 
-> 🏆 3,538 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 66 Public Repositories 
- > 
-> 🔑 53 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                5094 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-🌆 Daytime                17434 commits       ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
-🌃 Evening                38461 commits       █████████████░░░░░░░░░░░░   52.69 % 
-🌙 Night                  12006 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   12369 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Tuesday                  12300 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-Wednesday                9260 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-Thursday                 7957 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-Friday                   7239 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Saturday                 8815 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-Sunday                   15055 commits       █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Other                    27 hrs 51 mins      ████████████████░░░░░░░░░   64.10 % 
-TypeScript               14 hrs 42 mins      ████████░░░░░░░░░░░░░░░░░   33.84 % 
-SCSS                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-JSON                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-
-🔥 Editors: 
-Chrome                   27 hrs 51 mins      ████████████████░░░░░░░░░   64.10 % 
-VS Code                  15 hrs 36 mins      █████████░░░░░░░░░░░░░░░░   35.90 % 
-
-💻 Operating System: 
-Windows                  43 hrs 28 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               46 repos            ██████████░░░░░░░░░░░░░░░   38.33 % 
-TypeScript               43 repos            █████████░░░░░░░░░░░░░░░░   35.83 % 
-HTML                     15 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-CSS                      7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-Java                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-```
-
-
-
-
- Last Updated on 03/05/2024 01:04:25 UTC
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.0%20million%20lines%20of%20code-blue) -->
 <!--END_SECTION:waka-->
 
 <!-- NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub. -->
