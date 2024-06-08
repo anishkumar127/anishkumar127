@@ -35,7 +35,7 @@ Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a ME
 
 - 🦋 Don't be a programmer, Be a problem solver.
 
-- 🔭 I’m currently working on [finsensorai startup](https://anishkumar127.github.io/me/projects)
+<!-- - 🔭 I’m currently working on [startup](https://anishkumar127.github.io/me/projects) -->
 
 - 🌱 I’m currently learning **System Design**
 
