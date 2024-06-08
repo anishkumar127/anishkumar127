@@ -1,7 +1,7 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="25px">, I'm [Anish!](https://github.com/anishkumar127) 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/anishkumar29/">
+<!-- <a href="https://www.linkedin.com/in/anishkumar29/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="https://twitter.com/anishbishnoixD">
@@ -15,7 +15,34 @@
 </a>
 <a href="https://www.instagram.com/anishbishnoi29">
 <img align="left" alt="anish | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+</a> -->
+<p align="left">
+  <a href="https://www.linkedin.com/in/anishkumar29/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="24px" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/anishbishnoixD" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="26px" alt="Twitter" />
+  </a>
+  <a href="mailto:anishbishnoi127@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="26px" alt="Gmail" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCWy3HY8xhhCU37FS8t9m9kA" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" width="26px" alt="YouTube" />
+  </a>
+  <a href="https://www.instagram.com/anishbishnoi29" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="26px" alt="Instagram" />
+  </a>
+</p>
+
+<!-- Add custom CSS to handle dark mode -->
+<style>
+  @media (prefers-color-scheme: dark) {
+    img {
+      filter: invert(100%);
+    }
+  }
+</style>
+
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=anishkumar127.anishkumar127)
 <br/>
