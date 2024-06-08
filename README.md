@@ -76,15 +76,6 @@ Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a ME
 ![Alt](https://repobeats.axiom.co/api/embed/5e1de6aea3a6842da8a5ca0d8027863490d1f287.svg "Repobeats analytics image")
 
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; background-color: var(--color-bg-primary); color: var(--color-text-primary); border-radius: 6px; gap: 10px;">
-
-  <p style="flex: 1;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anishkumar127&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" /></p>
-
-  <p style="flex: 1;"><img src="https://github-readme-stats.vercel.app/api?username=anishkumar127&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" /></p>
-
-</div>
-
-
 
 ### ⚡ Recent GitHub Activity
 
