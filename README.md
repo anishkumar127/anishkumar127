@@ -1,21 +1,6 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="25px">, I'm [Anish!](https://github.com/anishkumar127) 
 ### Connect with me:
 
-<!-- <a href="https://www.linkedin.com/in/anishkumar29/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="https://twitter.com/anishbishnoixD">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:anishbishnoi127@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCWy3HY8xhhCU37FS8t9m9kA">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-<a href="https://www.instagram.com/anishbishnoi29">
-<img align="left" alt="anish | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a> -->
 <!-- Social Media Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anishkumar29/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anishbishnoixD)
@@ -49,15 +34,10 @@ Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a ME
  [ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>](https://github.com/anishkumar127)
 
 - 🦋 Don't be a programmer, Be a problem solver.
-
 - 🔭 I’m currently working on [finsensorai startup](https://anishkumar127.github.io/me/projects)
-
 - 🌱 I’m currently learning **System Design**
-
 - 👨‍💻 All of my projects are available at [https://anishkumar127.github.io/me/projects](https://anishkumar127.github.io/me/projects)
-
 - 📝 I regularly write articles on [https://anishkumar127.github.io/me/](https://anishkumar127.github.io/me/)
-
 - 💬 Ask me about **React,Next,Node,Express,MongoDB,Sharepoint,SPFx**
 
 - 📫 How to reach me **anishbishnoi127@gmail.com**
