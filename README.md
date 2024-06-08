@@ -35,21 +35,27 @@ Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a ME
 
 ### Technical Expertise
 
-**Languages:**  
-JavaScript, TypeScript, Java, Python
+**Languages:** JavaScript, TypeScript, Java, Python  
+**Frontend:** React.js, Next.js, Redux, SPFx, HTML, CSS, Tailwind CSS, Fluent UI  
+**Backend:** Node.js, Express.js  
+**Databases:** MongoDB, SharePoint  
+**Tools & Platforms:** Git, GitHub, Docker, AWS
 
-**Frontend:**  
-React.js, Next.js, Redux, SPFx, HTML, CSS, Tailwind CSS, Fluent UI
 
-**Backend:**  
-Node.js, Express.js
 
-**Databases:**  
-MongoDB, SharePoint
+<div align="justify">
 
-**Tools & Platforms:**  
-Git, GitHub, Docker, AWS
+Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a MERN stack developer from Abohar, Punjab, India. I specialize in both frontend and backend technologies. Proficient in JavaScript, TypeScript, React, Next.js, Redux, Node.js, Express, and database technologies including SharePoint and MongoDB. Coding for survival with a spark of passion on the side.
 
+### Technical Expertise
+
+**Languages:** JavaScript, TypeScript, Java, Python  
+**Frontend:** React.js, Next.js, Redux, SPFx, HTML, CSS, Tailwind CSS, Fluent UI  
+**Backend:** Node.js, Express.js  
+**Databases:** MongoDB, SharePoint  
+**Tools & Platforms:** Git, GitHub, Docker, AWS
+
+</div>
 
 
  [ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>](https://github.com/anishkumar127)
