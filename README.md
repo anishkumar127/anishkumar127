@@ -19,7 +19,7 @@
 
 Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a MERN stack developer from Abohar, Punjab, India. I specialize in both frontend and backend technologies. Proficient in JavaScript, TypeScript, React, Next.js, Redux, Node.js, Express, and database technologies including SharePoint and MongoDB. Coding for survival with a spark of passion on the side.
 
-### Technical Expertise
+### Technical Expertise 👨‍💻
 
 **Languages:** JavaScript, TypeScript, Java, Python  
 **Frontend:** React.js, Next.js, Redux, SPFx, HTML, CSS, Tailwind CSS, Fluent UI  
