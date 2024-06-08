@@ -31,33 +31,26 @@
 ### About Me ✨
 
 <!-- Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a MERN stack developer from Abohar, Punjab, India. I specialize in both frontend and backend technologies. Proficient in JavaScript, TypeScript, React, Next.js, Redux, Node.js, Express, and database technologies including SharePoint and MongoDB. Coding for survival with a spark of passion on the side.<br><br>Technical Expertise<br>Languages: JavaScript, TypeScript, Java, Python<br>Frontend: React.js, Next.js, Redux, SPFx, HTML, CSS, Tailwind CSS, Fluent UI<br>Backend: Node.js, Express.js<br>Databases: MongoDB, SharePoint<br>Tools & Platforms: Git, GitHub, Docker, AWS -->
+Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a MERN stack developer from Abohar, Punjab, India. I specialize in both frontend and backend technologies. Proficient in JavaScript, TypeScript, React, Next.js, Redux, Node.js, Express, and database technologies including SharePoint and MongoDB. Coding for survival with a spark of passion on the side.
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-.justify-text {
-    text-align: justify;
-     margin: 0;
-}
-</style>
-</head>
-<body>
+### Technical Expertise
 
-<div class="justify-text">
-<p>Hi, I'm <a href="https://www.linkedin.com/in/anishkumar29/">Anish Kumar</a>, I work as a MERN stack developer from Abohar, Punjab, India. I specialize in both frontend and backend technologies. Proficient in JavaScript, TypeScript, React, Next.js, Redux, Node.js, Express, and database technologies including SharePoint and MongoDB. Coding for survival with a spark of passion on the side.</p>
+**Languages:**  
+JavaScript, TypeScript, Java, Python
 
-<p><b>Technical Expertise</b></p>
-<b>Languages:</b> JavaScript, TypeScript, Java, Python</p>
-<p><b>Frontend:</b> React.js, Next.js, Redux, SPFx, HTML, CSS, Tailwind CSS, Fluent UI</p>
-<p><b>Backend:</b> Node.js, Express.js</p>
-<p><b>Databases:</b> MongoDB, SharePoint</p>
-<p><b>Tools & Platforms:</b> Git, GitHub, Docker, AWS</p>
+**Frontend:**  
+React.js, Next.js, Redux, SPFx, HTML, CSS, Tailwind CSS, Fluent UI
 
-</div>
+**Backend:**  
+Node.js, Express.js
 
-</body>
-</html>
+**Databases:**  
+MongoDB, SharePoint
+
+**Tools & Platforms:**  
+Git, GitHub, Docker, AWS
+
+
 
  [ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>](https://github.com/anishkumar127)
 
