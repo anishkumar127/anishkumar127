@@ -63,7 +63,7 @@ Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a ME
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-<br/>
+
 ### Languages and Tools:
 <!-- 
 
