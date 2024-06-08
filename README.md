@@ -81,7 +81,7 @@ Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a ME
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#43](https://github.com/anishkumar127/anishkumar127/pull/43) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
 2. 💪 Opened PR [#43](https://github.com/anishkumar127/anishkumar127/pull/43) in [anishkumar127/anishkumar127](https://github.com/anishkumar127/anishkumar127)
-3. 🗣 Commented on [#23](https://github.com/hehuapei/visitor-badge/issues/23#issuecomment-2070180464) in [hehuapei/visitor-badge](https://github.com/hehuapei/visitor-badge)
+3. 🗣 Commented on [#23](https://github.com/hehuapei/visitor-badge/issues/23) in [hehuapei/visitor-badge](https://github.com/hehuapei/visitor-badge)
 4. 🎉 Merged PR [#4](https://github.com/anishbishnoi127/repo-test/pull/4) in [anishbishnoi127/repo-test](https://github.com/anishbishnoi127/repo-test)
 5. 💪 Opened PR [#4](https://github.com/anishbishnoi127/repo-test/pull/4) in [anishbishnoi127/repo-test](https://github.com/anishbishnoi127/repo-test)
 6. 💪 Opened PR [#25](https://github.com/anishkumar127/Fixed-Assets-Tool/pull/25) in [anishkumar127/Fixed-Assets-Tool](https://github.com/anishkumar127/Fixed-Assets-Tool)
