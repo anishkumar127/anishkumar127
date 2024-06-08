@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishbishnoi127@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCWy3HY8xhhCU37FS8t9m9kA)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anishbishnoi29)
-
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/anishkumar127)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=anishkumar127.anishkumar127)
 <br/>
@@ -74,6 +74,16 @@ Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a ME
 <!-- </div> -->
 
 ![Alt](https://repobeats.axiom.co/api/embed/5e1de6aea3a6842da8a5ca0d8027863490d1f287.svg "Repobeats analytics image")
+
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; background-color: var(--color-bg-primary); color: var(--color-text-primary); border-radius: 6px; gap: 10px;">
+
+  <p style="flex: 1;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anishkumar127&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" /></p>
+
+  <p style="flex: 1;"><img src="https://github-readme-stats.vercel.app/api?username=anishkumar127&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" /></p>
+
+</div>
+
 
 
 ### ⚡ Recent GitHub Activity
