@@ -34,11 +34,16 @@ Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a ME
  [ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>](https://github.com/anishkumar127)
 
 - 🦋 Don't be a programmer, Be a problem solver.
+
 - 🔭 I’m currently working on [finsensorai startup](https://anishkumar127.github.io/me/projects)
+
 - 🌱 I’m currently learning **System Design**
+
 - 👨‍💻 All of my projects are available at [https://anishkumar127.github.io/me/projects](https://anishkumar127.github.io/me/projects)
+
 - 📝 I regularly write articles on [https://anishkumar127.github.io/me/](https://anishkumar127.github.io/me/)
-- 💬 Ask me about **React,Next,Node,Express,MongoDB,Sharepoint,SPFx**
+
+- 💬 Ask me about **React, Next, Node, Express, MongoDB, Sharepoint, SPFx**
 
 - 📫 How to reach me **anishbishnoi127@gmail.com**
 
