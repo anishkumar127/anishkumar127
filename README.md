@@ -80,11 +80,11 @@ Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a ME
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2654](https://github.com/drizzle-team/drizzle-orm/issues/2654#issuecomment-2367361683) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
-2. ❗ Opened issue [#2984](https://github.com/drizzle-team/drizzle-orm/issues/2984) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
-3. 🗣 Commented on [#360](https://github.com/seppevs/migrate-mongo/issues/360#issuecomment-2351625725) in [seppevs/migrate-mongo](https://github.com/seppevs/migrate-mongo)
-4. 🗣 Commented on [#2940](https://github.com/drizzle-team/drizzle-orm/issues/2940#issuecomment-2351347072) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
-5. 🗣 Commented on [#2654](https://github.com/drizzle-team/drizzle-orm/issues/2654#issuecomment-2339976924) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+1. 🗣 Commented on [#2654](https://github.com/drizzle-team/drizzle-orm/issues/2654) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+2. ❗️ Opened issue [#2984](https://github.com/drizzle-team/drizzle-orm/issues/2984) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+3. 🗣 Commented on [#360](https://github.com/seppevs/migrate-mongo/issues/360) in [seppevs/migrate-mongo](https://github.com/seppevs/migrate-mongo)
+4. 🗣 Commented on [#2940](https://github.com/drizzle-team/drizzle-orm/issues/2940) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+5. 🗣 Commented on [#2654](https://github.com/drizzle-team/drizzle-orm/issues/2654) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
 6. ❗ Opened issue [#2940](https://github.com/drizzle-team/drizzle-orm/issues/2940) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
 7. ❗ Opened issue [#23174](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/23174) in [LeetCode-Feedback/LeetCode-Feedback](https://github.com/LeetCode-Feedback/LeetCode-Feedback)
 8. 🗣 Commented on [#23134](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/23134#issuecomment-2228244888) in [LeetCode-Feedback/LeetCode-Feedback](https://github.com/LeetCode-Feedback/LeetCode-Feedback)
