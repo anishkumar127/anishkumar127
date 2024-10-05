@@ -80,16 +80,16 @@ Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a ME
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2654](https://github.com/drizzle-team/drizzle-orm/issues/2654) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
-2. ❗️ Opened issue [#2984](https://github.com/drizzle-team/drizzle-orm/issues/2984) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
-3. 🗣 Commented on [#360](https://github.com/seppevs/migrate-mongo/issues/360) in [seppevs/migrate-mongo](https://github.com/seppevs/migrate-mongo)
-4. 🗣 Commented on [#2940](https://github.com/drizzle-team/drizzle-orm/issues/2940) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
-5. 🗣 Commented on [#2654](https://github.com/drizzle-team/drizzle-orm/issues/2654) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
-6. ❗ Opened issue [#2940](https://github.com/drizzle-team/drizzle-orm/issues/2940) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
-7. ❗ Opened issue [#23174](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/23174) in [LeetCode-Feedback/LeetCode-Feedback](https://github.com/LeetCode-Feedback/LeetCode-Feedback)
-8. 🗣 Commented on [#23134](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/23134#issuecomment-2228244888) in [LeetCode-Feedback/LeetCode-Feedback](https://github.com/LeetCode-Feedback/LeetCode-Feedback)
-9. 🗣 Commented on [#23134](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/23134#issuecomment-2228230537) in [LeetCode-Feedback/LeetCode-Feedback](https://github.com/LeetCode-Feedback/LeetCode-Feedback)
-10. ❗ Opened issue [#23134](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/23134) in [LeetCode-Feedback/LeetCode-Feedback](https://github.com/LeetCode-Feedback/LeetCode-Feedback)
+1. 🚀 Published release [v1.4.4](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql/releases/tag/v1.4.4) in [anishkumar127/email-tracking-system-fastify-postgresql](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql)
+2. 🎉 Merged PR [#5](https://github.com/anishkumar127/mail-tracking/pull/5) in [anishkumar127/mail-tracking](https://github.com/anishkumar127/mail-tracking)
+3. 💪 Opened PR [#5](https://github.com/anishkumar127/mail-tracking/pull/5) in [anishkumar127/mail-tracking](https://github.com/anishkumar127/mail-tracking)
+4. 🎉 Merged PR [#4](https://github.com/anishkumar127/mail-tracking/pull/4) in [anishkumar127/mail-tracking](https://github.com/anishkumar127/mail-tracking)
+5. 💪 Opened PR [#4](https://github.com/anishkumar127/mail-tracking/pull/4) in [anishkumar127/mail-tracking](https://github.com/anishkumar127/mail-tracking)
+6. 🚀 Published release [v1.4.0](https://github.com/anishkumar127/mail-tracking/releases/tag/v1.4.0) in [anishkumar127/mail-tracking](https://github.com/anishkumar127/mail-tracking)
+7. 🎉 Merged PR [#3](https://github.com/anishkumar127/mail-tracking/pull/3) in [anishkumar127/mail-tracking](https://github.com/anishkumar127/mail-tracking)
+8. 💪 Opened PR [#3](https://github.com/anishkumar127/mail-tracking/pull/3) in [anishkumar127/mail-tracking](https://github.com/anishkumar127/mail-tracking)
+9. 🎉 Merged PR [#2](https://github.com/anishkumar127/mail-tracking/pull/2) in [anishkumar127/mail-tracking](https://github.com/anishkumar127/mail-tracking)
+10. 💪 Opened PR [#2](https://github.com/anishkumar127/mail-tracking/pull/2) in [anishkumar127/mail-tracking](https://github.com/anishkumar127/mail-tracking)
 <!--END_SECTION:activity-->
 
 
