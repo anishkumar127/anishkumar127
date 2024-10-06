@@ -80,11 +80,11 @@ Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a ME
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.4.4](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql/releases/tag/v1.4.4) in [anishkumar127/email-tracking-system-fastify-postgresql](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql)
-2. 🎉 Merged PR [#5](https://github.com/anishkumar127/mail-tracking/pull/5) in [anishkumar127/mail-tracking](https://github.com/anishkumar127/mail-tracking)
-3. 💪 Opened PR [#5](https://github.com/anishkumar127/mail-tracking/pull/5) in [anishkumar127/mail-tracking](https://github.com/anishkumar127/mail-tracking)
-4. 🎉 Merged PR [#4](https://github.com/anishkumar127/mail-tracking/pull/4) in [anishkumar127/mail-tracking](https://github.com/anishkumar127/mail-tracking)
-5. 💪 Opened PR [#4](https://github.com/anishkumar127/mail-tracking/pull/4) in [anishkumar127/mail-tracking](https://github.com/anishkumar127/mail-tracking)
+1. 🎉 Merged PR [#5](https://github.com/anishkumar127/mail-tracking/pull/5) in [anishkumar127/mail-tracking](https://github.com/anishkumar127/mail-tracking)
+2. 💪 Opened PR [#5](https://github.com/anishkumar127/mail-tracking/pull/5) in [anishkumar127/mail-tracking](https://github.com/anishkumar127/mail-tracking)
+3. 🎉 Merged PR [#4](https://github.com/anishkumar127/mail-tracking/pull/4) in [anishkumar127/mail-tracking](https://github.com/anishkumar127/mail-tracking)
+4. 💪 Opened PR [#4](https://github.com/anishkumar127/mail-tracking/pull/4) in [anishkumar127/mail-tracking](https://github.com/anishkumar127/mail-tracking)
+5. 🎉 Merged PR [#3](https://github.com/anishkumar127/mail-tracking/pull/3) in [anishkumar127/mail-tracking](https://github.com/anishkumar127/mail-tracking)
 6. 🚀 Published release [v1.4.0](https://github.com/anishkumar127/mail-tracking/releases/tag/v1.4.0) in [anishkumar127/mail-tracking](https://github.com/anishkumar127/mail-tracking)
 7. 🎉 Merged PR [#3](https://github.com/anishkumar127/mail-tracking/pull/3) in [anishkumar127/mail-tracking](https://github.com/anishkumar127/mail-tracking)
 8. 💪 Opened PR [#3](https://github.com/anishkumar127/mail-tracking/pull/3) in [anishkumar127/mail-tracking](https://github.com/anishkumar127/mail-tracking)
