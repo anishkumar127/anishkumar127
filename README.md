@@ -80,11 +80,11 @@ Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a ME
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.4.5](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql/releases/tag/v1.4.5) in [anishkumar127/email-tracking-system-fastify-postgresql](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql)
-2. 🎉 Merged PR [#8](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql/pull/8) in [anishkumar127/email-tracking-system-fastify-postgresql](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql)
-3. 💪 Opened PR [#8](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql/pull/8) in [anishkumar127/email-tracking-system-fastify-postgresql](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql)
-4. 🎉 Merged PR [#7](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql/pull/7) in [anishkumar127/email-tracking-system-fastify-postgresql](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql)
-5. 💪 Opened PR [#7](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql/pull/7) in [anishkumar127/email-tracking-system-fastify-postgresql](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql)
+1. 🎉 Merged PR [#8](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql/pull/8) in [anishkumar127/email-tracking-system-fastify-postgresql](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql)
+2. 💪 Opened PR [#8](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql/pull/8) in [anishkumar127/email-tracking-system-fastify-postgresql](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql)
+3. 🎉 Merged PR [#7](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql/pull/7) in [anishkumar127/email-tracking-system-fastify-postgresql](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql)
+4. 💪 Opened PR [#7](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql/pull/7) in [anishkumar127/email-tracking-system-fastify-postgresql](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql)
+5. 🎉 Merged PR [#6](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql/pull/6) in [anishkumar127/email-tracking-system-fastify-postgresql](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql)
 6. 🎉 Merged PR [#6](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql/pull/6) in [anishkumar127/email-tracking-system-fastify-postgresql](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql)
 7. 💪 Opened PR [#6](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql/pull/6) in [anishkumar127/email-tracking-system-fastify-postgresql](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql)
 8. 🚀 Published release [v1.4.4](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql/releases/tag/v1.4.4) in [anishkumar127/email-tracking-system-fastify-postgresql](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql)
