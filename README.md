@@ -80,16 +80,16 @@ Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a ME
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql/pull/9) in [anishkumar127/email-tracking-system-fastify-postgresql](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql)
-2. 🗣 Commented on [#24674](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/24674) in [LeetCode-Feedback/LeetCode-Feedback](https://github.com/LeetCode-Feedback/LeetCode-Feedback)
-3. ❗️ Closed issue [#24674](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/24674) in [LeetCode-Feedback/LeetCode-Feedback](https://github.com/LeetCode-Feedback/LeetCode-Feedback)
-4. ❗️ Opened issue [#24674](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/24674) in [LeetCode-Feedback/LeetCode-Feedback](https://github.com/LeetCode-Feedback/LeetCode-Feedback)
-5. 💪 Opened PR [#9](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql/pull/9) in [anishkumar127/email-tracking-system-fastify-postgresql](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql)
-6. 💪 Opened PR [#9](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql/pull/9) in [anishkumar127/email-tracking-system-fastify-postgresql](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql)
-7. 🗣 Commented on [#6019](https://github.com/expressjs/express/issues/6019#issuecomment-2398796644) in [expressjs/express](https://github.com/expressjs/express)
-8. 🚀 Published release [v1.4.5](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql/releases/tag/v1.4.5) in [anishkumar127/email-tracking-system-fastify-postgresql](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql)
-9. 🎉 Merged PR [#8](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql/pull/8) in [anishkumar127/email-tracking-system-fastify-postgresql](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql)
-10. 💪 Opened PR [#8](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql/pull/8) in [anishkumar127/email-tracking-system-fastify-postgresql](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql)
+1. 🚀 Published release [v1.1.0](https://github.com/anishkumar127/Deploy-Zip-to-SharePoint-Library/releases/tag/v1.1.0) in [anishkumar127/Deploy-Zip-to-SharePoint-Library](https://github.com/anishkumar127/Deploy-Zip-to-SharePoint-Library)
+2. 🎉 Merged PR [#11](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql/pull/11) in [anishkumar127/email-tracking-system-fastify-postgresql](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql)
+3. 💪 Opened PR [#11](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql/pull/11) in [anishkumar127/email-tracking-system-fastify-postgresql](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql)
+4. 🎉 Merged PR [#10](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql/pull/10) in [anishkumar127/email-tracking-system-fastify-postgresql](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql)
+5. 💪 Opened PR [#10](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql/pull/10) in [anishkumar127/email-tracking-system-fastify-postgresql](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql)
+6. 🚀 Published release [v1.5.2](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql/releases/tag/v1.5.2) in [anishkumar127/email-tracking-system-fastify-postgresql](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql)
+7. 🎉 Merged PR [#9](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql/pull/9) in [anishkumar127/email-tracking-system-fastify-postgresql](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql)
+8. 🗣 Commented on [#24674](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/24674#issuecomment-2398983433) in [LeetCode-Feedback/LeetCode-Feedback](https://github.com/LeetCode-Feedback/LeetCode-Feedback)
+9. 🔒 Closed issue [#24674](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/24674) in [LeetCode-Feedback/LeetCode-Feedback](https://github.com/LeetCode-Feedback/LeetCode-Feedback)
+10. ❗ Opened issue [#24674](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/24674) in [LeetCode-Feedback/LeetCode-Feedback](https://github.com/LeetCode-Feedback/LeetCode-Feedback)
 <!--END_SECTION:activity-->
 
 
