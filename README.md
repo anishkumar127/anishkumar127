@@ -80,11 +80,11 @@ Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a ME
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5804](https://github.com/fastify/fastify/issues/5804) in [fastify/fastify](https://github.com/fastify/fastify)
-2. 🗣 Commented on [#636](https://github.com/fastify/help/issues/636) in [fastify/help](https://github.com/fastify/help)
-3. 🗣 Commented on [#2107](https://github.com/drizzle-team/drizzle-orm/issues/2107) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
-4. 💪 Opened PR [#1](https://github.com/anishkumar127/Multi-tenant-civic-v1/pull/1) in [anishkumar127/Multi-tenant-civic-v1](https://github.com/anishkumar127/Multi-tenant-civic-v1)
-5. 🎉 Merged PR [#13](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql/pull/13) in [anishkumar127/email-tracking-system-fastify-postgresql](https://github.com/anishkumar127/email-tracking-system-fastify-postgresql)
+1. 🚀 Published release [v1.10.0](https://github.com/anishkumar127/Email-tracking-system-fastify-postgresql/releases/tag/v1.10.0) in [anishkumar127/Email-tracking-system-fastify-postgresql](https://github.com/anishkumar127/Email-tracking-system-fastify-postgresql)
+2. 🚀 Published release [v1.9.1](https://github.com/anishkumar127/Email-tracking-system-fastify-postgresql/releases/tag/v1.9.1) in [anishkumar127/Email-tracking-system-fastify-postgresql](https://github.com/anishkumar127/Email-tracking-system-fastify-postgresql)
+3. 🚀 Published release [v1.9.0](https://github.com/anishkumar127/Email-tracking-system-fastify-postgresql/releases/tag/v1.9.0) in [anishkumar127/Email-tracking-system-fastify-postgresql](https://github.com/anishkumar127/Email-tracking-system-fastify-postgresql)
+4. ❗ Opened issue [#5804](https://github.com/fastify/fastify/issues/5804) in [fastify/fastify](https://github.com/fastify/fastify)
+5. 🗣 Commented on [#636](https://github.com/fastify/help/issues/636#issuecomment-2445171874) in [fastify/help](https://github.com/fastify/help)
 6. 🚀 Published release [v1.8.0](https://github.com/anishkumar127/Email-tracking-system-fastify-postgresql/releases/tag/v1.8.0) in [anishkumar127/Email-tracking-system-fastify-postgresql](https://github.com/anishkumar127/Email-tracking-system-fastify-postgresql)
 7. 🗣 Commented on [#2107](https://github.com/drizzle-team/drizzle-orm/issues/2107#issuecomment-2427273790) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
 8. 💪 Opened PR [#1](https://github.com/anishkumar127/Multi-tenant-civic-v1/pull/1) in [anishkumar127/Multi-tenant-civic-v1](https://github.com/anishkumar127/Multi-tenant-civic-v1)
