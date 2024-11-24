@@ -80,11 +80,11 @@ Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a ME
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19134](https://github.com/eslint/eslint/issues/19134) in [eslint/eslint](https://github.com/eslint/eslint)
-2. 🗣 Commented on [#5](https://github.com/sopranopillow/fluentui-nextjs-appdir-plugin/issues/5) in [sopranopillow/fluentui-nextjs-appdir-plugin](https://github.com/sopranopillow/fluentui-nextjs-appdir-plugin)
-3. ❗️ Opened issue [#3518](https://github.com/drizzle-team/drizzle-orm/issues/3518) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
-4. ❗️ Opened issue [#5804](https://github.com/fastify/fastify/issues/5804) in [fastify/fastify](https://github.com/fastify/fastify)
-5. 🗣 Commented on [#636](https://github.com/fastify/help/issues/636) in [fastify/help](https://github.com/fastify/help)
+1. 🗣 Commented on [#19134](https://github.com/eslint/eslint/issues/19134#issuecomment-2483687490) in [eslint/eslint](https://github.com/eslint/eslint)
+2. 🗣 Commented on [#5](https://github.com/sopranopillow/fluentui-nextjs-appdir-plugin/issues/5#issuecomment-2473035785) in [sopranopillow/fluentui-nextjs-appdir-plugin](https://github.com/sopranopillow/fluentui-nextjs-appdir-plugin)
+3. ❗ Opened issue [#3518](https://github.com/drizzle-team/drizzle-orm/issues/3518) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+4. 🚀 Published release [v1.11.0](https://github.com/anishkumar127/Email-tracking-system-fastify-postgresql/releases/tag/v1.11.0) in [anishkumar127/Email-tracking-system-fastify-postgresql](https://github.com/anishkumar127/Email-tracking-system-fastify-postgresql)
+5. 🚀 Published release [v1.10.0](https://github.com/anishkumar127/Email-tracking-system-fastify-postgresql/releases/tag/v1.10.0) in [anishkumar127/Email-tracking-system-fastify-postgresql](https://github.com/anishkumar127/Email-tracking-system-fastify-postgresql)
 6. 🚀 Published release [v1.9.1](https://github.com/anishkumar127/Email-tracking-system-fastify-postgresql/releases/tag/v1.9.1) in [anishkumar127/Email-tracking-system-fastify-postgresql](https://github.com/anishkumar127/Email-tracking-system-fastify-postgresql)
 7. 🚀 Published release [v1.9.0](https://github.com/anishkumar127/Email-tracking-system-fastify-postgresql/releases/tag/v1.9.0) in [anishkumar127/Email-tracking-system-fastify-postgresql](https://github.com/anishkumar127/Email-tracking-system-fastify-postgresql)
 8. ❗ Opened issue [#5804](https://github.com/fastify/fastify/issues/5804) in [fastify/fastify](https://github.com/fastify/fastify)
