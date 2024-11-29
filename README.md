@@ -80,11 +80,11 @@ Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a ME
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/partnerhero/gapi-script/issues/32#issuecomment-2503562050) in [partnerhero/gapi-script](https://github.com/partnerhero/gapi-script)
-2. 🗣 Commented on [#3625](https://github.com/drizzle-team/drizzle-orm/issues/3625#issuecomment-2501729370) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
-3. 🔒 Closed issue [#3625](https://github.com/drizzle-team/drizzle-orm/issues/3625) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
-4. ❗ Opened issue [#3625](https://github.com/drizzle-team/drizzle-orm/issues/3625) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
-5. 🗣 Commented on [#19134](https://github.com/eslint/eslint/issues/19134#issuecomment-2483687490) in [eslint/eslint](https://github.com/eslint/eslint)
+1. 🗣 Commented on [#32](https://github.com/partnerhero/gapi-script/issues/32) in [partnerhero/gapi-script](https://github.com/partnerhero/gapi-script)
+2. 🗣 Commented on [#3625](https://github.com/drizzle-team/drizzle-orm/issues/3625) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+3. ❗️ Closed issue [#3625](https://github.com/drizzle-team/drizzle-orm/issues/3625) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+4. ❗️ Opened issue [#3625](https://github.com/drizzle-team/drizzle-orm/issues/3625) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+5. 🗣 Commented on [#19134](https://github.com/eslint/eslint/issues/19134) in [eslint/eslint](https://github.com/eslint/eslint)
 6. 🗣 Commented on [#5](https://github.com/sopranopillow/fluentui-nextjs-appdir-plugin/issues/5#issuecomment-2473035785) in [sopranopillow/fluentui-nextjs-appdir-plugin](https://github.com/sopranopillow/fluentui-nextjs-appdir-plugin)
 7. ❗ Opened issue [#3518](https://github.com/drizzle-team/drizzle-orm/issues/3518) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
 8. ❗ Opened issue [#5804](https://github.com/fastify/fastify/issues/5804) in [fastify/fastify](https://github.com/fastify/fastify)
