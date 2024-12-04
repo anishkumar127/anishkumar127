@@ -80,16 +80,16 @@ Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a ME
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/partnerhero/gapi-script/issues/32) in [partnerhero/gapi-script](https://github.com/partnerhero/gapi-script)
-2. 🗣 Commented on [#3625](https://github.com/drizzle-team/drizzle-orm/issues/3625) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
-3. ❗️ Closed issue [#3625](https://github.com/drizzle-team/drizzle-orm/issues/3625) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
-4. ❗️ Opened issue [#3625](https://github.com/drizzle-team/drizzle-orm/issues/3625) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
-5. 🗣 Commented on [#19134](https://github.com/eslint/eslint/issues/19134) in [eslint/eslint](https://github.com/eslint/eslint)
-6. 🗣 Commented on [#5](https://github.com/sopranopillow/fluentui-nextjs-appdir-plugin/issues/5#issuecomment-2473035785) in [sopranopillow/fluentui-nextjs-appdir-plugin](https://github.com/sopranopillow/fluentui-nextjs-appdir-plugin)
-7. ❗ Opened issue [#3518](https://github.com/drizzle-team/drizzle-orm/issues/3518) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
-8. ❗ Opened issue [#5804](https://github.com/fastify/fastify/issues/5804) in [fastify/fastify](https://github.com/fastify/fastify)
-9. 🗣 Commented on [#636](https://github.com/fastify/help/issues/636#issuecomment-2445171874) in [fastify/help](https://github.com/fastify/help)
-10. 🗣 Commented on [#2107](https://github.com/drizzle-team/drizzle-orm/issues/2107#issuecomment-2427273790) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+1. ❗ Opened issue [#33388](https://github.com/microsoft/fluentui/issues/33388) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
+2. ❗ Opened issue [#4747](https://github.com/reduxjs/redux-toolkit/issues/4747) in [reduxjs/redux-toolkit](https://github.com/reduxjs/redux-toolkit)
+3. ❗ Opened issue [#2212](https://github.com/reduxjs/react-redux/issues/2212) in [reduxjs/react-redux](https://github.com/reduxjs/react-redux)
+4. 🗣 Commented on [#32](https://github.com/partnerhero/gapi-script/issues/32#issuecomment-2503562050) in [partnerhero/gapi-script](https://github.com/partnerhero/gapi-script)
+5. 🗣 Commented on [#3625](https://github.com/drizzle-team/drizzle-orm/issues/3625#issuecomment-2501729370) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+6. 🔒 Closed issue [#3625](https://github.com/drizzle-team/drizzle-orm/issues/3625) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+7. ❗ Opened issue [#3625](https://github.com/drizzle-team/drizzle-orm/issues/3625) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+8. 🗣 Commented on [#19134](https://github.com/eslint/eslint/issues/19134#issuecomment-2483687490) in [eslint/eslint](https://github.com/eslint/eslint)
+9. 🗣 Commented on [#5](https://github.com/sopranopillow/fluentui-nextjs-appdir-plugin/issues/5#issuecomment-2473035785) in [sopranopillow/fluentui-nextjs-appdir-plugin](https://github.com/sopranopillow/fluentui-nextjs-appdir-plugin)
+10. ❗ Opened issue [#3518](https://github.com/drizzle-team/drizzle-orm/issues/3518) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
 <!--END_SECTION:activity-->
 
 
