@@ -80,11 +80,11 @@ Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a ME
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33404](https://github.com/microsoft/fluentui/issues/33404#issuecomment-2519080534) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
-2. 🗣 Commented on [#33388](https://github.com/microsoft/fluentui/issues/33388#issuecomment-2519075430) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
-3. ❗ Opened issue [#33404](https://github.com/microsoft/fluentui/issues/33404) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
-4. 🗣 Commented on [#28713](https://github.com/microsoft/fluentui/issues/28713#issuecomment-2516198323) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
-5. 🗣 Commented on [#30094](https://github.com/microsoft/fluentui/issues/30094#issuecomment-2516195686) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
+1. 🗣 Commented on [#33404](https://github.com/microsoft/fluentui/issues/33404) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
+2. 🗣 Commented on [#33388](https://github.com/microsoft/fluentui/issues/33388) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
+3. ❗️ Opened issue [#33404](https://github.com/microsoft/fluentui/issues/33404) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
+4. 🗣 Commented on [#28713](https://github.com/microsoft/fluentui/issues/28713) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
+5. 🗣 Commented on [#30094](https://github.com/microsoft/fluentui/issues/30094) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
 6. 🗣 Commented on [#33388](https://github.com/microsoft/fluentui/issues/33388#issuecomment-2516189244) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
 7. ❗ Opened issue [#33388](https://github.com/microsoft/fluentui/issues/33388) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
 8. ❗ Opened issue [#4747](https://github.com/reduxjs/redux-toolkit/issues/4747) in [reduxjs/redux-toolkit](https://github.com/reduxjs/redux-toolkit)
