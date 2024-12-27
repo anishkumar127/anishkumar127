@@ -80,15 +80,15 @@ Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a ME
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/anishkumar127/weavify/pull/1) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
-2. 💪 Opened PR [#1](https://github.com/anishkumar127/weavify/pull/1) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
-3. 🗣 Commented on [#3754](https://github.com/honojs/hono/issues/3754) in [honojs/hono](https://github.com/honojs/hono)
-4. ❗️ Closed issue [#3754](https://github.com/honojs/hono/issues/3754) in [honojs/hono](https://github.com/honojs/hono)
-5. 🗣 Commented on [#3754](https://github.com/honojs/hono/issues/3754) in [honojs/hono](https://github.com/honojs/hono)
-6. 🗣 Commented on [#2212](https://github.com/reduxjs/react-redux/issues/2212#issuecomment-2533692489) in [reduxjs/react-redux](https://github.com/reduxjs/react-redux)
-7. 🗣 Commented on [#2460](https://github.com/honojs/hono/issues/2460#issuecomment-2527442144) in [honojs/hono](https://github.com/honojs/hono)
-8. 🗣 Commented on [#33404](https://github.com/microsoft/fluentui/issues/33404#issuecomment-2519080534) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
-9. 🗣 Commented on [#33388](https://github.com/microsoft/fluentui/issues/33388#issuecomment-2519075430) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
+1. 🚀 Published release [v1.5.0](https://github.com/anishkumar127/weavify/releases/tag/v1.5.0) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
+2. 🎉 Merged PR [#1](https://github.com/anishkumar127/weavify/pull/1) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
+3. 💪 Opened PR [#1](https://github.com/anishkumar127/weavify/pull/1) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
+4. 🗣 Commented on [#3754](https://github.com/honojs/hono/issues/3754#issuecomment-2559308131) in [honojs/hono](https://github.com/honojs/hono)
+5. 🔒 Closed issue [#3754](https://github.com/honojs/hono/issues/3754) in [honojs/hono](https://github.com/honojs/hono)
+6. 🗣 Commented on [#3754](https://github.com/honojs/hono/issues/3754#issuecomment-2547697558) in [honojs/hono](https://github.com/honojs/hono)
+7. ❗ Opened issue [#3754](https://github.com/honojs/hono/issues/3754) in [honojs/hono](https://github.com/honojs/hono)
+8. 🗣 Commented on [#4747](https://github.com/reduxjs/redux-toolkit/issues/4747#issuecomment-2533692878) in [reduxjs/redux-toolkit](https://github.com/reduxjs/redux-toolkit)
+9. 🗣 Commented on [#2212](https://github.com/reduxjs/react-redux/issues/2212#issuecomment-2533692489) in [reduxjs/react-redux](https://github.com/reduxjs/react-redux)
 10. ❗ Opened issue [#33404](https://github.com/microsoft/fluentui/issues/33404) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
 <!--END_SECTION:activity-->
 
