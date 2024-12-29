@@ -80,11 +80,11 @@ Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a ME
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.5.0](https://github.com/anishkumar127/weavify/releases/tag/v1.5.0) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
-2. 🎉 Merged PR [#1](https://github.com/anishkumar127/weavify/pull/1) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
-3. 💪 Opened PR [#1](https://github.com/anishkumar127/weavify/pull/1) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
-4. 🗣 Commented on [#3754](https://github.com/honojs/hono/issues/3754#issuecomment-2559308131) in [honojs/hono](https://github.com/honojs/hono)
-5. 🔒 Closed issue [#3754](https://github.com/honojs/hono/issues/3754) in [honojs/hono](https://github.com/honojs/hono)
+1. 🎉 Merged PR [#1](https://github.com/anishkumar127/weavify/pull/1) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
+2. 💪 Opened PR [#1](https://github.com/anishkumar127/weavify/pull/1) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
+3. 🗣 Commented on [#3754](https://github.com/honojs/hono/issues/3754) in [honojs/hono](https://github.com/honojs/hono)
+4. ❗️ Closed issue [#3754](https://github.com/honojs/hono/issues/3754) in [honojs/hono](https://github.com/honojs/hono)
+5. 🗣 Commented on [#3754](https://github.com/honojs/hono/issues/3754) in [honojs/hono](https://github.com/honojs/hono)
 6. 🗣 Commented on [#3754](https://github.com/honojs/hono/issues/3754#issuecomment-2547697558) in [honojs/hono](https://github.com/honojs/hono)
 7. ❗ Opened issue [#3754](https://github.com/honojs/hono/issues/3754) in [honojs/hono](https://github.com/honojs/hono)
 8. 🗣 Commented on [#4747](https://github.com/reduxjs/redux-toolkit/issues/4747#issuecomment-2533692878) in [reduxjs/redux-toolkit](https://github.com/reduxjs/redux-toolkit)
