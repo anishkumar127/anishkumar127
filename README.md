@@ -15,7 +15,7 @@
 <br/>
 
 ### About Me ✨
-<div align="justify">
+<div align="justify" id="anishkumar127">
 
 Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a MERN stack developer from Abohar, Punjab, India. I specialize in both frontend and backend technologies. Proficient in JavaScript, TypeScript, React, Next.js, Redux, Node.js, Express, Fastify.js and database technologies including SharePoint and MongoDB, PostgreSQL. Coding for survival with a spark of passion on the side.
 
@@ -28,7 +28,6 @@ Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a ME
 
 </div>
 
-<!-- [<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>](https://github.com/anishkumar127) -->
 
 👨‍💻 All of my projects are available at [https://anishkumar127.github.io/me/projects](https://anishkumar127.github.io/me/projects)
 
@@ -48,15 +47,6 @@ Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a ME
 9. 🗣 Commented on [#3754](https://github.com/honojs/hono/issues/3754#issuecomment-2559308131) in [honojs/hono](https://github.com/honojs/hono)
 10. 🔒 Closed issue [#3754](https://github.com/honojs/hono/issues/3754) in [honojs/hono](https://github.com/honojs/hono)
 <!--END_SECTION:activity-->
-
- <!-- <div>
- <details> 
- <summary>Latest Tweets</summary>
-
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=anishbishnoixD&layout=wide)](https://twitter.com/anishbishnoixD)
- </details>
-
-</div> -->
 
 ### Holopin Badges
 
