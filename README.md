@@ -1,9 +1,7 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="25px">, I'm [Anish!](https://github.com/anishkumar127) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=anishkumar127.anishkumar127)
 
 ### Connect with me
-
 <!-- Social Media Links -->
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anishkumar29/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anishbishnoixD)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishbishnoi127@gmail.com)
@@ -13,8 +11,7 @@
 
 
 ### About Me ✨
-<div align="justify" id="anishkumar127">
-
+<div style="display:'span'" align="justify" id="anishkumar127">
 Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a MERN stack developer from Abohar, Punjab, India. I specialize in both frontend and backend technologies. Proficient in JavaScript, TypeScript, React, Next.js, Redux, Node.js, Express, Fastify.js and database technologies including SharePoint and MongoDB, PostgreSQL. Coding for survival with a spark of passion on the side.
 
 ### Technical Expertise 👨‍💻
