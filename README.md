@@ -26,11 +26,11 @@ Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a ME
 **Frontend:** React.js, Next.js, Redux, SPFx, HTML, CSS, Tailwind CSS, Fluent UI  
 **Backend:** Node.js, Express.js, Fastify.js  
 **Databases:** MongoDB, SharePoint, PostgreSQL  
-**Tools & Platforms:** Git, GitHub, Docker, Azure, AzureDevOps, AWS
+**Tools & Platforms:** Git, GitHub, Docker, Azure, DevOps, AWS
 
 </div>
 
-[<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>](https://github.com/anishkumar127)
+<!-- [<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>](https://github.com/anishkumar127) -->
 
 - 👨‍💻 All of my projects are available at [https://anishkumar127.github.io/me/projects](https://anishkumar127.github.io/me/projects)
 
