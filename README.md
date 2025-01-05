@@ -44,6 +44,6 @@ Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a ME
 10. 🔒 Closed issue [#3754](https://github.com/honojs/hono/issues/3754) in [honojs/hono](https://github.com/honojs/hono)
 <!--END_SECTION:activity-->
 
-### Holopin Badges
+<!-- ### Holopin Badges
 
-[![@anishkumar127's Holopin board](https://holopin.me/anishkumar127)](https://holopin.io/@anishkumar127)
+[![@anishkumar127's Holopin board](https://holopin.me/anishkumar127)](https://holopin.io/@anishkumar127) -->
