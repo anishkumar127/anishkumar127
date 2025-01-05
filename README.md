@@ -15,13 +15,10 @@
 <br/>
 
 ### About Me ✨
-
 <div align="justify">
-
 Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a MERN stack developer from Abohar, Punjab, India. I specialize in both frontend and backend technologies. Proficient in JavaScript, TypeScript, React, Next.js, Redux, Node.js, Express, Fastify.js and database technologies including SharePoint and MongoDB, PostgreSQL. Coding for survival with a spark of passion on the side.
 
 ### Technical Expertise 👨‍💻
-
 **Languages:** JavaScript, TypeScript, Java, Python  
 **Frontend:** React.js, Next.js, Redux, SPFx, HTML, CSS, Tailwind CSS, Fluent UI  
 **Backend:** Node.js, Express.js, Fastify.js  
@@ -32,12 +29,11 @@ Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a ME
 
 <!-- [<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>](https://github.com/anishkumar127) -->
 
-- 👨‍💻 All of my projects are available at [https://anishkumar127.github.io/me/projects](https://anishkumar127.github.io/me/projects)
+👨‍💻 All of my projects are available at [https://anishkumar127.github.io/me/projects](https://anishkumar127.github.io/me/projects)
 
-- 📝 I regularly write articles on [https://anishkumar127.github.io/me/](https://anishkumar127.github.io/me/)
+📝 I regularly write articles on [https://anishkumar127.github.io/me/](https://anishkumar127.github.io/me/)
 
 ### ⚡ Recent GitHub Activity
-
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#6275](https://github.com/nvim-treesitter/nvim-treesitter/issues/6275#issuecomment-2566423653) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
