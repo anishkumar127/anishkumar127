@@ -32,11 +32,11 @@ Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a ME
 ## 🌟 Contributions & Activity 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#6275](https://github.com/nvim-treesitter/nvim-treesitter/issues/6275#issuecomment-2566423653) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
-2. 🗣 Commented on [#6275](https://github.com/nvim-treesitter/nvim-treesitter/issues/6275#issuecomment-2566194615) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
-3. 🗣 Commented on [#7453](https://github.com/nvim-treesitter/nvim-treesitter/issues/7453#issuecomment-2566179625) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
-4. 🗣 Commented on [#7486](https://github.com/nvim-treesitter/nvim-treesitter/issues/7486#issuecomment-2566179241) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
-5. 🗣 Commented on [#2533](https://github.com/AstroNvim/AstroNvim/issues/2533#issuecomment-2564653288) in [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+1. ❗️ Opened issue [#1](https://github.com/planetsLightningArrester/run-commands/issues/1) in [planetsLightningArrester/run-commands](https://github.com/planetsLightningArrester/run-commands)
+2. 🗣 Commented on [#6275](https://github.com/nvim-treesitter/nvim-treesitter/issues/6275) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+3. 🗣 Commented on [#6275](https://github.com/nvim-treesitter/nvim-treesitter/issues/6275) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+4. 🗣 Commented on [#7453](https://github.com/nvim-treesitter/nvim-treesitter/issues/7453) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+5. 🗣 Commented on [#7486](https://github.com/nvim-treesitter/nvim-treesitter/issues/7486) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 6. 🚀 Published release [v1.5.0](https://github.com/anishkumar127/weavify/releases/tag/v1.5.0) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
 7. 🎉 Merged PR [#1](https://github.com/anishkumar127/weavify/pull/1) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
 8. 💪 Opened PR [#1](https://github.com/anishkumar127/weavify/pull/1) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
