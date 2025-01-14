@@ -32,11 +32,11 @@ Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a ME
 ## 🌟 Contributions & Activity 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3815](https://github.com/honojs/hono/issues/3815#issuecomment-2579205778) in [honojs/hono](https://github.com/honojs/hono)
-2. 🔒 Closed issue [#3815](https://github.com/honojs/hono/issues/3815) in [honojs/hono](https://github.com/honojs/hono)
-3. 🗣 Commented on [#3815](https://github.com/honojs/hono/issues/3815#issuecomment-2579198337) in [honojs/hono](https://github.com/honojs/hono)
-4. ❗ Opened issue [#3815](https://github.com/honojs/hono/issues/3815) in [honojs/hono](https://github.com/honojs/hono)
-5. 💪 Opened PR [#1](https://github.com/anishkumar127/dotfiles-v2/pull/1) in [anishkumar127/dotfiles-v2](https://github.com/anishkumar127/dotfiles-v2)
+1. 🎉 Merged PR [#1](https://github.com/anishkumar127/dotfiles-v2/pull/1) in [anishkumar127/dotfiles-v2](https://github.com/anishkumar127/dotfiles-v2)
+2. 🎉 Merged PR [#2](https://github.com/anishkumar127/dotfiles-v2/pull/2) in [anishkumar127/dotfiles-v2](https://github.com/anishkumar127/dotfiles-v2)
+3. 💪 Opened PR [#2](https://github.com/anishkumar127/dotfiles-v2/pull/2) in [anishkumar127/dotfiles-v2](https://github.com/anishkumar127/dotfiles-v2)
+4. 🗣 Commented on [#3815](https://github.com/honojs/hono/issues/3815) in [honojs/hono](https://github.com/honojs/hono)
+5. ❗️ Closed issue [#3815](https://github.com/honojs/hono/issues/3815) in [honojs/hono](https://github.com/honojs/hono)
 6. 🗣 Commented on [#3595](https://github.com/drizzle-team/drizzle-orm/issues/3595#issuecomment-2572344701) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
 7. ❗ Opened issue [#1](https://github.com/planetsLightningArrester/run-commands/issues/1) in [planetsLightningArrester/run-commands](https://github.com/planetsLightningArrester/run-commands)
 8. 🗣 Commented on [#6275](https://github.com/nvim-treesitter/nvim-treesitter/issues/6275#issuecomment-2566423653) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
