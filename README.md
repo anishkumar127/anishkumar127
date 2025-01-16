@@ -32,16 +32,16 @@ Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a ME
 ## 🌟 Contributions & Activity 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#2](https://github.com/anishkumar127/weavify/issues/2) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
-2. 🗣 Commented on [#2](https://github.com/anishkumar127/weavify/issues/2) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
-3. ❗️ Opened issue [#2](https://github.com/anishkumar127/weavify/issues/2) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
+1. 🔒 Closed issue [#2](https://github.com/anishkumar127/weavify/issues/2) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
+2. 🗣 Commented on [#2](https://github.com/anishkumar127/weavify/issues/2#issuecomment-2592372380) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
+3. ❗ Opened issue [#2](https://github.com/anishkumar127/weavify/issues/2) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
 4. 🎉 Merged PR [#1](https://github.com/anishkumar127/dotfiles-v2/pull/1) in [anishkumar127/dotfiles-v2](https://github.com/anishkumar127/dotfiles-v2)
 5. 🎉 Merged PR [#2](https://github.com/anishkumar127/dotfiles-v2/pull/2) in [anishkumar127/dotfiles-v2](https://github.com/anishkumar127/dotfiles-v2)
-6. 🗣 Commented on [#3815](https://github.com/honojs/hono/issues/3815#issuecomment-2579198337) in [honojs/hono](https://github.com/honojs/hono)
-7. ❗ Opened issue [#3815](https://github.com/honojs/hono/issues/3815) in [honojs/hono](https://github.com/honojs/hono)
-8. 💪 Opened PR [#1](https://github.com/anishkumar127/dotfiles-v2/pull/1) in [anishkumar127/dotfiles-v2](https://github.com/anishkumar127/dotfiles-v2)
-9. 🗣 Commented on [#3595](https://github.com/drizzle-team/drizzle-orm/issues/3595#issuecomment-2572344701) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
-10. ❗ Opened issue [#1](https://github.com/planetsLightningArrester/run-commands/issues/1) in [planetsLightningArrester/run-commands](https://github.com/planetsLightningArrester/run-commands)
+6. 💪 Opened PR [#2](https://github.com/anishkumar127/dotfiles-v2/pull/2) in [anishkumar127/dotfiles-v2](https://github.com/anishkumar127/dotfiles-v2)
+7. 🗣 Commented on [#3815](https://github.com/honojs/hono/issues/3815#issuecomment-2579205778) in [honojs/hono](https://github.com/honojs/hono)
+8. 🔒 Closed issue [#3815](https://github.com/honojs/hono/issues/3815) in [honojs/hono](https://github.com/honojs/hono)
+9. 🗣 Commented on [#3815](https://github.com/honojs/hono/issues/3815#issuecomment-2579198337) in [honojs/hono](https://github.com/honojs/hono)
+10. ❗ Opened issue [#3815](https://github.com/honojs/hono/issues/3815) in [honojs/hono](https://github.com/honojs/hono)
 <!--END_SECTION:activity-->
 
 <!-- ### Holopin Badges
