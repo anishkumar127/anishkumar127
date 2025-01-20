@@ -32,9 +32,9 @@ Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a ME
 ## 🌟 Contributions & Activity 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#2](https://github.com/anishkumar127/weavify/issues/2) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
-2. 🗣 Commented on [#2](https://github.com/anishkumar127/weavify/issues/2) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
-3. ❗️ Opened issue [#2](https://github.com/anishkumar127/weavify/issues/2) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
+1. 🔒 Closed issue [#2](https://github.com/anishkumar127/weavify/issues/2) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
+2. 🗣 Commented on [#2](https://github.com/anishkumar127/weavify/issues/2#issuecomment-2592372380) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
+3. ❗ Opened issue [#2](https://github.com/anishkumar127/weavify/issues/2) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
 4. 🎉 Merged PR [#1](https://github.com/anishkumar127/dotfiles-v2/pull/1) in [anishkumar127/dotfiles-v2](https://github.com/anishkumar127/dotfiles-v2)
 5. 🎉 Merged PR [#2](https://github.com/anishkumar127/dotfiles-v2/pull/2) in [anishkumar127/dotfiles-v2](https://github.com/anishkumar127/dotfiles-v2)
 6. 💪 Opened PR [#2](https://github.com/anishkumar127/dotfiles-v2/pull/2) in [anishkumar127/dotfiles-v2](https://github.com/anishkumar127/dotfiles-v2)
