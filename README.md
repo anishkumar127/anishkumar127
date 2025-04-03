@@ -32,9 +32,9 @@ Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a ME
 ## 🌟 Contributions & Activity 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v1.17.10](https://github.com/anishkumar127/weavify/releases/tag/v1.17.10) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
-2. 🚀 Published release [v1.17.9](https://github.com/anishkumar127/weavify/releases/tag/v1.17.9) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
-3. 🎉 Merged PR [#4](https://github.com/anishkumar127/weavify/pull/4) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
+1. 🚀 Published release [v1.23.0](https://github.com/anishkumar127/weavify/releases/tag/v1.23.0) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
+2. 🚀 Published release [v1.17.10](https://github.com/anishkumar127/weavify/releases/tag/v1.17.10) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
+3. 🚀 Published release [v1.17.9](https://github.com/anishkumar127/weavify/releases/tag/v1.17.9) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
 4. 💪 Opened PR [#4](https://github.com/anishkumar127/weavify/pull/4) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
 5. ❗ Opened issue [#3](https://github.com/anishkumar127/weavify/issues/3) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
 6. 🔒 Closed issue [#2](https://github.com/anishkumar127/weavify/issues/2) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
