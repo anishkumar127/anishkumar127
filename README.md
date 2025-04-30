@@ -32,14 +32,14 @@ Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a ME
 ## 🌟 Contributions & Activity 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v1.27.1](https://github.com/anishkumar127/weavify/releases/tag/v1.27.1) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
-2. 🚀 Published release [v1.27.0](https://github.com/anishkumar127/weavify/releases/tag/v1.27.0) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
-3. 🚀 Published release [v1.26.0](https://github.com/anishkumar127/weavify/releases/tag/v1.26.0) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
-4. 🚀 Published release [v1.25.0](https://github.com/anishkumar127/weavify/releases/tag/v1.25.0) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
-5. 🚀 Published release [v1.24.1](https://github.com/anishkumar127/weavify/releases/tag/v1.24.1) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
-6. 🚀 Published release [v1.24.0](https://github.com/anishkumar127/weavify/releases/tag/v1.24.0) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
-7. 🚀 Published release [v1.23.0](https://github.com/anishkumar127/weavify/releases/tag/v1.23.0) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
-8. ❗ Opened issue [#2](https://github.com/anishkumar127/weavify/issues/2) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
+1. 🚀 Published release [v1.28.0](https://github.com/anishkumar127/weavify/releases/tag/v1.28.0) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
+2. 🚀 Published release [v1.27.1](https://github.com/anishkumar127/weavify/releases/tag/v1.27.1) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
+3. 🚀 Published release [v1.27.0](https://github.com/anishkumar127/weavify/releases/tag/v1.27.0) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
+4. 🚀 Published release [v1.26.0](https://github.com/anishkumar127/weavify/releases/tag/v1.26.0) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
+5. 🚀 Published release [v1.25.0](https://github.com/anishkumar127/weavify/releases/tag/v1.25.0) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
+6. 🚀 Published release [v1.24.1](https://github.com/anishkumar127/weavify/releases/tag/v1.24.1) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
+7. 🚀 Published release [v1.24.0](https://github.com/anishkumar127/weavify/releases/tag/v1.24.0) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
+8. 🚀 Published release [v1.23.0](https://github.com/anishkumar127/weavify/releases/tag/v1.23.0) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
 9. 🎉 Merged PR [#1](https://github.com/anishkumar127/dotfiles-v2/pull/1) in [anishkumar127/dotfiles-v2](https://github.com/anishkumar127/dotfiles-v2)
 10. 🎉 Merged PR [#2](https://github.com/anishkumar127/dotfiles-v2/pull/2) in [anishkumar127/dotfiles-v2](https://github.com/anishkumar127/dotfiles-v2)
 <!--END_SECTION:activity-->
