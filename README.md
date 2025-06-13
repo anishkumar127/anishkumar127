@@ -32,9 +32,9 @@ Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a ME
 ## 🌟 Contributions & Activity 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#43](https://github.com/rachartier/tiny-code-action.nvim/issues/43#issuecomment-2948042471) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
-2. 🗣 Commented on [#43](https://github.com/rachartier/tiny-code-action.nvim/issues/43#issuecomment-2943104339) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
-3. ❗ Opened issue [#43](https://github.com/rachartier/tiny-code-action.nvim/issues/43) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
+1. 🗣 Commented on [#43](https://github.com/rachartier/tiny-code-action.nvim/issues/43) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
+2. 🗣 Commented on [#43](https://github.com/rachartier/tiny-code-action.nvim/issues/43) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
+3. ❗️ Opened issue [#43](https://github.com/rachartier/tiny-code-action.nvim/issues/43) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
 4. 🚀 Published release [v1.27.0](https://github.com/anishkumar127/weavify/releases/tag/v1.27.0) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
 5. 🚀 Published release [v1.26.0](https://github.com/anishkumar127/weavify/releases/tag/v1.26.0) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
 6. 🚀 Published release [v1.25.0](https://github.com/anishkumar127/weavify/releases/tag/v1.25.0) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
