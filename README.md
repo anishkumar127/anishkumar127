@@ -32,10 +32,10 @@ Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a ME
 ## 🌟 Contributions & Activity 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#43](https://github.com/rachartier/tiny-code-action.nvim/issues/43#issuecomment-2948042471) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
-2. 🗣 Commented on [#43](https://github.com/rachartier/tiny-code-action.nvim/issues/43#issuecomment-2943104339) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
-3. ❗ Opened issue [#43](https://github.com/rachartier/tiny-code-action.nvim/issues/43) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
-4. 🚀 Published release [v1.27.0](https://github.com/anishkumar127/weavify/releases/tag/v1.27.0) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
+1. ❗️ Opened issue [#184](https://github.com/m4xshen/hardtime.nvim/issues/184) in [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim)
+2. 🗣 Commented on [#43](https://github.com/rachartier/tiny-code-action.nvim/issues/43) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
+3. 🗣 Commented on [#43](https://github.com/rachartier/tiny-code-action.nvim/issues/43) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
+4. ❗️ Opened issue [#43](https://github.com/rachartier/tiny-code-action.nvim/issues/43) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
 5. 🚀 Published release [v1.26.0](https://github.com/anishkumar127/weavify/releases/tag/v1.26.0) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
 6. 🚀 Published release [v1.25.0](https://github.com/anishkumar127/weavify/releases/tag/v1.25.0) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
 7. 🚀 Published release [v1.24.1](https://github.com/anishkumar127/weavify/releases/tag/v1.24.1) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
