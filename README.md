@@ -32,7 +32,7 @@ Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a ME
 ## 🌟 Contributions & Activity 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#184](https://github.com/m4xshen/hardtime.nvim/issues/184) in [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim)
+1. ❗️ Opened issue [#184](https://github.com/m4xshen/hardtime.nvim/issues/184) in [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim)
 2. 🗣 Commented on [#43](https://github.com/rachartier/tiny-code-action.nvim/issues/43#issuecomment-2948042471) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
 3. 🗣 Commented on [#43](https://github.com/rachartier/tiny-code-action.nvim/issues/43#issuecomment-2943104339) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
 4. ❗ Opened issue [#43](https://github.com/rachartier/tiny-code-action.nvim/issues/43) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
