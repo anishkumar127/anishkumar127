@@ -32,8 +32,8 @@ Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a ME
 ## 🌟 Contributions & Activity 
 <!--START_SECTION:activity-->
 
-1.  Labeled issue [#35202](https://github.com/microsoft/fluentui/issues/35202) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
-2.  Labeled issue [#35202](https://github.com/microsoft/fluentui/issues/35202) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
+1. ❌ Merged PR [#3](https://github.com/anishkumar127/nvim/pull/3) in [anishkumar127/nvim](https://github.com/anishkumar127/nvim)
+2. 💪 Opened PR [#3](https://github.com/anishkumar127/nvim/pull/3) in [anishkumar127/nvim](https://github.com/anishkumar127/nvim)
 3. ❗ Opened issue [#35202](https://github.com/microsoft/fluentui/issues/35202) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
 4. ❗ Opened issue [#43](https://github.com/rachartier/tiny-code-action.nvim/issues/43) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
 5. 🚀 Published release [v1.26.0](https://github.com/anishkumar127/weavify/releases/tag/v1.26.0) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
