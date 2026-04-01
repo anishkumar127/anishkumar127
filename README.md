@@ -32,11 +32,11 @@ Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a ME
 ## 🌟 Contributions & Activity 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3](https://github.com/anishkumar127/nvim/pull/3) in [anishkumar127/nvim](https://github.com/anishkumar127/nvim)
-2. 💪 Opened PR [#3](https://github.com/anishkumar127/nvim/pull/3) in [anishkumar127/nvim](https://github.com/anishkumar127/nvim)
-3. ❗ Opened issue [#35202](https://github.com/microsoft/fluentui/issues/35202) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
-4. ❗ Opened issue [#43](https://github.com/rachartier/tiny-code-action.nvim/issues/43) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
-5. 🚀 Published release [v1.26.0](https://github.com/anishkumar127/weavify/releases/tag/v1.26.0) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
+1. 💪 Opened PR [#236](https://github.com/hirebarend/lnkbrd/pull/236) in [hirebarend/lnkbrd](https://github.com/hirebarend/lnkbrd)
+2. 💪 Opened PR [#339](https://github.com/xprc/tp-uptime-2.0/pull/339) in [xprc/tp-uptime-2.0](https://github.com/xprc/tp-uptime-2.0)
+3. 🗣 Commented on [#481](https://github.com/vinsdragonis/Project-Dimension/issues/481) in [vinsdragonis/Project-Dimension](https://github.com/vinsdragonis/Project-Dimension)
+4. 💪 Opened PR [#607](https://github.com/smartive/zitadel-node/pull/607) in [smartive/zitadel-node](https://github.com/smartive/zitadel-node)
+5. 🗣 Commented on [#58](https://github.com/credfeto/recommendations-defi-dashboard/issues/58) in [credfeto/recommendations-defi-dashboard](https://github.com/credfeto/recommendations-defi-dashboard)
 6. 🚀 Published release [v1.25.0](https://github.com/anishkumar127/weavify/releases/tag/v1.25.0) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
 7. 🚀 Published release [v1.24.1](https://github.com/anishkumar127/weavify/releases/tag/v1.24.1) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
 8. 🚀 Published release [v1.24.0](https://github.com/anishkumar127/weavify/releases/tag/v1.24.0) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
