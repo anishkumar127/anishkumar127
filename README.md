@@ -34,9 +34,9 @@ Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a ME
 
 1. 💪 Opened PR [#236](https://github.com/hirebarend/lnkbrd/pull/236) in [hirebarend/lnkbrd](https://github.com/hirebarend/lnkbrd)
 2. 💪 Opened PR [#339](https://github.com/xprc/tp-uptime-2.0/pull/339) in [xprc/tp-uptime-2.0](https://github.com/xprc/tp-uptime-2.0)
-3. 🗣 Commented on [#481](https://github.com/vinsdragonis/Project-Dimension/pull/481#issuecomment-4161020776) in [vinsdragonis/Project-Dimension](https://github.com/vinsdragonis/Project-Dimension)
+3. 🗣 Commented on [#481](https://github.com/vinsdragonis/Project-Dimension/issues/481) in [vinsdragonis/Project-Dimension](https://github.com/vinsdragonis/Project-Dimension)
 4. 💪 Opened PR [#607](https://github.com/smartive/zitadel-node/pull/607) in [smartive/zitadel-node](https://github.com/smartive/zitadel-node)
-5. 🗣 Commented on [#58](https://github.com/credfeto/recommendations-defi-dashboard/pull/58#issuecomment-4161002165) in [credfeto/recommendations-defi-dashboard](https://github.com/credfeto/recommendations-defi-dashboard)
+5. 🗣 Commented on [#58](https://github.com/credfeto/recommendations-defi-dashboard/issues/58) in [credfeto/recommendations-defi-dashboard](https://github.com/credfeto/recommendations-defi-dashboard)
 6. 🗣 Commented on [#181](https://github.com/iobroker-bot-orga/check-tasks/pull/181#issuecomment-4160993997) in [iobroker-bot-orga/check-tasks](https://github.com/iobroker-bot-orga/check-tasks)
 7. 🗣 Commented on [#57](https://github.com/SilverKnightKMA/clash-api-proxy/pull/57#issuecomment-4160979824) in [SilverKnightKMA/clash-api-proxy](https://github.com/SilverKnightKMA/clash-api-proxy)
 8. 🗣 Commented on [#3](https://github.com/Yizakl/blog/pull/3#issuecomment-4160977552) in [Yizakl/blog](https://github.com/Yizakl/blog)
