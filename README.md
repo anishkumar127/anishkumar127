@@ -32,7 +32,7 @@ Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a ME
 ## 🌟 Contributions & Activity 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#192](https://github.com/anishkumar127/Data-Structures-and-Algorithms/issues/192) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
+1. 🗣 Commented on [#192](https://github.com/anishkumar127/Data-Structures-and-Algorithms/pull/192#issuecomment-4365389259) in [anishkumar127/Data-Structures-and-Algorithms](https://github.com/anishkumar127/Data-Structures-and-Algorithms)
 2. 💪 Opened PR [#339](https://github.com/xprc/tp-uptime-2.0/pull/339) in [xprc/tp-uptime-2.0](https://github.com/xprc/tp-uptime-2.0)
 3. 🗣 Commented on [#481](https://github.com/vinsdragonis/Project-Dimension/pull/481#issuecomment-4161020776) in [vinsdragonis/Project-Dimension](https://github.com/vinsdragonis/Project-Dimension)
 4. 💪 Opened PR [#607](https://github.com/smartive/zitadel-node/pull/607) in [smartive/zitadel-node](https://github.com/smartive/zitadel-node)
