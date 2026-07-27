@@ -32,8 +32,8 @@ Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a ME
 ## 🌟 Contributions & Activity 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v1.9.1](https://github.com/anishkumar127/weavify/releases/tag/v1.9.1) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
-2. 🚀 Published release [v1.9.0](https://github.com/anishkumar127/weavify/releases/tag/v1.9.0) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
+1. 🗣 Commented on [#200](https://github.com/fiznool/express-mongo-sanitize/issues/200) in [fiznool/express-mongo-sanitize](https://github.com/fiznool/express-mongo-sanitize)
+2. 🗣 Commented on [#202](https://github.com/fiznool/express-mongo-sanitize/issues/202) in [fiznool/express-mongo-sanitize](https://github.com/fiznool/express-mongo-sanitize)
 3. 🎉 Merged PR [#4](https://github.com/anishkumar127/weavify/pull/4) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
 4. 💪 Opened PR [#4](https://github.com/anishkumar127/weavify/pull/4) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
 5. ❗ Opened issue [#3](https://github.com/anishkumar127/weavify/issues/3) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
