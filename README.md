@@ -32,11 +32,11 @@ Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a ME
 ## 🌟 Contributions & Activity 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#200](https://github.com/fiznool/express-mongo-sanitize/issues/200) in [fiznool/express-mongo-sanitize](https://github.com/fiznool/express-mongo-sanitize)
-2. 🗣 Commented on [#202](https://github.com/fiznool/express-mongo-sanitize/issues/202) in [fiznool/express-mongo-sanitize](https://github.com/fiznool/express-mongo-sanitize)
-3. 🎉 Merged PR [#4](https://github.com/anishkumar127/weavify/pull/4) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
-4. 💪 Opened PR [#4](https://github.com/anishkumar127/weavify/pull/4) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
-5. ❗ Opened issue [#3](https://github.com/anishkumar127/weavify/issues/3) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
+1. ❌ Merged PR [#8](https://github.com/anishkumar127/me/pull/8) in [anishkumar127/me](https://github.com/anishkumar127/me)
+2. 💪 Opened PR [#8](https://github.com/anishkumar127/me/pull/8) in [anishkumar127/me](https://github.com/anishkumar127/me)
+3. ❌ Merged PR [#7](https://github.com/anishkumar127/me/pull/7) in [anishkumar127/me](https://github.com/anishkumar127/me)
+4. 💪 Opened PR [#7](https://github.com/anishkumar127/me/pull/7) in [anishkumar127/me](https://github.com/anishkumar127/me)
+5. ❌ Merged PR [#6](https://github.com/anishkumar127/me/pull/6) in [anishkumar127/me](https://github.com/anishkumar127/me)
 6. 🔒 Closed issue [#2](https://github.com/anishkumar127/weavify/issues/2) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
 7. 🗣 Commented on [#2](https://github.com/anishkumar127/weavify/issues/2#issuecomment-2592372380) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
 8. ❗ Opened issue [#2](https://github.com/anishkumar127/weavify/issues/2) in [anishkumar127/weavify](https://github.com/anishkumar127/weavify)
