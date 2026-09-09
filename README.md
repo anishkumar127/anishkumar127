@@ -24,11 +24,12 @@ Previously, I worked as a Software Development Engineer at **Cubic Logics**, shi
 ### Technical Expertise 👨‍💻
 
 **Languages:** JavaScript, TypeScript, Python, Java  
-**Frontend:** React.js, Next.js, React Native, Expo, Redux, Zustand, HTML, CSS, Tailwind CSS, Fluent UI  
-**Backend:** Node.js, Express.js, Fastify.js, Hono, FastAPI  
-**Databases:** MongoDB, PostgreSQL, SharePoint  
-**Cloud & DevOps:** AWS (EC2, Amplify), Microsoft Azure, Docker, Git, GitHub, DevOps  
-**Microsoft Ecosystem:** SPFx, Microsoft 365, SharePoint, Excel Add-ins, Outlook Plugins  
-**AI & Data:** AI integrations, PySpark
+**Frontend:** React, Next.js, React Native, Expo, Redux, Zustand, HTML, CSS, Tailwind CSS, Fluent UI  
+**Backend:** Node.js, Express, Fastify, Hono, FastAPI  
+**Databases:** MongoDB, PostgreSQL  
+**Cloud & DevOps:** AWS (EC2, Amplify), Microsoft Azure, Azure DevOps, Docker  
+**Microsoft Ecosystem:** SPFx, Microsoft 365, SharePoint, Excel Add-ins, Outlook Add-ins  
+**AI & Data:** AI, PySpark  
+**Tools:** Git, GitHub
 
 </div>
