@@ -15,14 +15,20 @@
 ### About Me ✨
 <div align="justify" id="anishkumar127">
 
-Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a MERN stack developer from Abohar, Punjab, India. I specialize in both frontend and backend technologies. Proficient in JavaScript, TypeScript, React, Next.js, Redux, Node.js, Express, Fastify.js and database technologies including SharePoint and MongoDB, PostgreSQL. Coding for survival with a spark of passion on the side.
+Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), a Full Stack Software Developer based in India. I work as a freelancer, building production apps end to end — frontend, backend, databases, and deployment.
+
+Previously, I was a Software Development Engineer at **Cubic Logics**, where I shipped Microsoft 365 and SharePoint products used at scale. I enjoy taking projects from scratch: shaping the UI, choosing the right database, and keeping the frontend and backend fast and maintainable.
+
+[anishkumar.dev](https://anishkumar.dev) is my personal portfolio and blog. Separately, I'm building my own brand around websites and enterprise applications.
 
 ### Technical Expertise 👨‍💻
 
-**Languages:** JavaScript, TypeScript, Java, Python  
-**Frontend:** React.js, Next.js, Redux, SPFx, HTML, CSS, Tailwind CSS, Fluent UI  
-**Backend:** Node.js, Express.js, Fastify.js  
-**Databases:** MongoDB, SharePoint, PostgreSQL  
-**Tools & Platforms:** Git, GitHub, Docker, Azure, DevOps, AWS
+**Languages:** JavaScript, TypeScript, Python, Java  
+**Frontend:** React.js, Next.js, React Native, Expo, Redux, Zustand, HTML, CSS, Tailwind CSS, Fluent UI  
+**Backend:** Node.js, Express.js, Fastify.js, Hono, FastAPI  
+**Databases:** MongoDB, PostgreSQL, SharePoint  
+**Cloud & DevOps:** AWS (EC2, Amplify), Microsoft Azure, Docker, Git, GitHub, DevOps  
+**Microsoft Ecosystem:** SPFx, Microsoft 365, SharePoint, Excel Add-ins, Outlook Plugins  
+**AI & Data:** AI integrations, PySpark
 
 </div>
