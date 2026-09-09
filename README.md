@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="25px">, I'm [Anish!](https://github.com/anishkumar127) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=anishkumar127.anishkumar127)
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="25px" alt="wave">, I'm [Anish Kumar](https://github.com/anishkumar127), Full Stack Software Developer ![visitors](https://visitor-badge.laobi.icu/badge?page_id=anishkumar127.anishkumar127)
 
 ### Connect with me
 <!-- Social Media Links -->
@@ -15,13 +15,36 @@
 ### About Me ✨
 <div align="justify" id="anishkumar127">
 
-Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), a Full Stack Software Developer based in India. I'm freelancing right now and building production apps across frontend, backend, databases, and deployment. Open to full-time opportunities too.
+I'm **Anish Kumar**, a full stack software developer and freelance software engineer from **India**. I build web applications, mobile apps, backend APIs, and enterprise software with **React**, **Next.js**, **Node.js**, **TypeScript**, **Python**, and **FastAPI**.
 
-Previously, I worked as a Software Development Engineer at **Cubic Logics**, shipping Microsoft 365 and SharePoint products used at scale. I like taking projects from scratch, from UI and database choices to keeping the frontend and backend fast and maintainable.
+I'm freelancing right now and working on production apps across frontend, backend, databases, and cloud deployment on **AWS** and **Microsoft Azure**. Open to full-time software developer roles and remote opportunities.
+
+Previously, I worked as a Software Development Engineer at **Cubic Logics**, shipping **Microsoft 365**, **SharePoint**, and **SPFx** products used at scale. I also build **Excel Add-ins**, **Outlook Add-ins**, **React Native** apps with **Expo**, and **AI** features in real products.
 
 [anishkumar.dev](https://anishkumar.dev) is my personal portfolio and blog. I'm also building my own brand with websites and enterprise applications.
 
+### Quick Profile
+
+- **Name:** Anish Kumar
+- **Role:** Full Stack Software Developer
+- **Location:** India
+- **Availability:** Freelance | Open to full-time
+- **Portfolio:** [anishkumar.dev](https://anishkumar.dev)
+- **Email:** [anishbishnoi127@gmail.com](mailto:anishbishnoi127@gmail.com)
+- **Experience:** Cubic Logics (Software Development Engineer)
+
+### What I Build
+
+- Web apps with React, Next.js, TypeScript, Redux, and Zustand
+- Mobile apps with React Native and Expo
+- Backend APIs with Node.js, Express, Fastify, Hono, and FastAPI
+- Microsoft 365 solutions: SharePoint, SPFx, Excel Add-ins, Outlook Add-ins
+- Cloud deployment on AWS (EC2, Amplify) and Microsoft Azure
+- AI-powered features and data pipelines with PySpark
+
 ### Technical Expertise 👨‍💻
+
+JavaScript, TypeScript, Python, React, Next.js, Node.js, FastAPI, React Native, AWS, Azure, Microsoft 365, SharePoint, SPFx, and AI.
 
 **Languages:** JavaScript, TypeScript, Python, Java  
 **Frontend:** React, Next.js, React Native, Expo, Redux, Zustand, HTML, CSS, Tailwind CSS, Fluent UI  
