@@ -15,11 +15,11 @@
 ### About Me ✨
 <div align="justify" id="anishkumar127">
 
-Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), a Full Stack Software Developer based in India. I'm currently freelancing and building production apps end to end — frontend, backend, databases, and deployment — and open to the right full-time opportunity.
+Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), a Full Stack Software Developer based in India. I'm freelancing right now and building production apps across frontend, backend, databases, and deployment. Open to full-time opportunities too.
 
-Previously, I was a Software Development Engineer at **Cubic Logics**, where I shipped Microsoft 365 and SharePoint products used at scale. I enjoy taking projects from scratch: shaping the UI, choosing the right database, and keeping the frontend and backend fast and maintainable.
+Previously, I worked as a Software Development Engineer at **Cubic Logics**, shipping Microsoft 365 and SharePoint products used at scale. I like taking projects from scratch, from UI and database choices to keeping the frontend and backend fast and maintainable.
 
-[anishkumar.dev](https://anishkumar.dev) is my personal portfolio and blog. Separately, I'm building my own brand around websites and enterprise applications.
+[anishkumar.dev](https://anishkumar.dev) is my personal portfolio and blog. I'm also building my own brand with websites and enterprise applications.
 
 ### Technical Expertise 👨‍💻
 
