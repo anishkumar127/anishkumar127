@@ -8,6 +8,8 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCWy3HY8xhhCU37FS8t9m9kA)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anishbishnoi29)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/anishkumar127)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://anishkumar.dev/projects)
+[![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=rss&logoColor=white)](https://anishkumar.dev/blog)
 
 
 ### About Me ✨
@@ -22,9 +24,5 @@ Hi, I'm [Anish Kumar](https://www.linkedin.com/in/anishkumar29/), I work as a ME
 **Backend:** Node.js, Express.js, Fastify.js  
 **Databases:** MongoDB, SharePoint, PostgreSQL  
 **Tools & Platforms:** Git, GitHub, Docker, Azure, DevOps, AWS
-
-📂 **Portfolio:** [Explore My Projects](https://anishkumar.dev/projects)  
-
-📝 **Blog Articles:** [Read My Blog](https://anishkumar.dev)  
 
 </div>
