@@ -15,11 +15,11 @@
 ### About Me ✨
 <div align="justify" id="anishkumar127">
 
-I'm **Anish Kumar**, a software engineer from **India**. I build web applications, mobile apps, backend APIs, and enterprise software with **React**, **Next.js**, **Node.js**, **TypeScript**, **Python**, and **FastAPI**.
+I'm **Anish Kumar**, a software engineer from **India**. I build web applications, mobile apps, backend APIs, and enterprise software.
 
-I'm currently working at **[FinSensor](https://finsensor.ai/)**, building production apps across frontend, backend, databases, and cloud deployment on **AWS** and **Microsoft Azure**.
+I'm currently working at **[Finsensor AI](https://finsensor.ai/)** on production apps across frontend, backend, databases, and cloud.
 
-Previously, I worked as a Software Development Engineer at **Cubic Logics**, shipping **Microsoft 365**, **SharePoint**, and **SPFx** products used at scale. I also build **Excel Add-ins**, **Outlook Add-ins**, **React Native** apps with **Expo**, and **AI** features in real products.
+Previously, I worked as a Software Development Engineer at **[Cubic Logics](https://www.apps365.com/)**, shipping Microsoft 365 products used at scale. I also build Office add-ins, mobile apps, and AI features in real products.
 
 [anishkumar.dev](https://anishkumar.dev) is my personal portfolio and blog. I'm also building my own brand with websites and enterprise applications.
 
@@ -27,24 +27,21 @@ Previously, I worked as a Software Development Engineer at **Cubic Logics**, shi
 
 - **Name:** Anish Kumar
 - **Role:** Software Engineer
-- **Current:** [FinSensor](https://finsensor.ai/)
+- **Current:** [Finsensor AI](https://finsensor.ai/)
 - **Location:** India
 - **Portfolio:** [anishkumar.dev](https://anishkumar.dev)
 - **Email:** [anishbishnoi127@gmail.com](mailto:anishbishnoi127@gmail.com)
-- **Experience:** FinSensor; previously Cubic Logics (Software Development Engineer)
+- **Previously:** [Cubic Logics](https://www.apps365.com/) (Software Development Engineer)
 
 ### What I Build
 
-- Web apps with React, Next.js, TypeScript, Redux, and Zustand
-- Mobile apps with React Native and Expo
-- Backend APIs with Node.js, Express, Fastify, Hono, and FastAPI
-- Microsoft 365 solutions: SharePoint, SPFx, Power Apps, Power Automate, Excel Add-ins, Outlook Add-ins
-- Cloud deployment on AWS (EC2, Amplify) and Microsoft Azure
-- AI-powered features and data pipelines with PySpark
+- Web and mobile applications
+- Backend APIs and data pipelines
+- Microsoft 365 products, including SharePoint solutions, Power Apps, Power Automate, and Office add-ins
+- Cloud deployments
+- AI features in production software
 
 ### Technical Expertise 👨‍💻
-
-JavaScript, TypeScript, Python, React, Next.js, Node.js, FastAPI, React Native, AWS, Azure, Microsoft 365, SharePoint, SPFx, Power Apps, Power Automate, and AI.
 
 **Languages:** JavaScript, TypeScript, Python, Java  
 **Frontend:** React, Next.js, React Native, Expo, Redux, Zustand, HTML, CSS, Tailwind CSS, Fluent UI  
@@ -52,7 +49,7 @@ JavaScript, TypeScript, Python, React, Next.js, Node.js, FastAPI, React Native, 
 **Databases:** MongoDB, PostgreSQL  
 **Cloud & DevOps:** AWS (EC2, Amplify), Microsoft Azure, Azure DevOps, Docker  
 **Microsoft Ecosystem:** SPFx, Microsoft 365, SharePoint, Power Apps, Power Automate, Excel Add-ins, Outlook Add-ins  
-**AI & Data:** AI, PySpark  
+**AI & Data:** PySpark  
 **Tools:** Git, GitHub
 
 </div>
