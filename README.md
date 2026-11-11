@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="25px" alt="wave">, I'm [Anish Kumar](https://github.com/anishkumar127), Full Stack Software Developer ![visitors](https://visitor-badge.laobi.icu/badge?page_id=anishkumar127.anishkumar127)
+## Hey, I'm [Anish Kumar](https://anishkumar.dev/), Software Engineer ![visitors](https://visitor-badge.laobi.icu/badge?page_id=anishkumar127.anishkumar127)
 
 ### Connect with me
 <!-- Social Media Links -->
@@ -15,7 +15,7 @@
 ### About Me ✨
 <div align="justify" id="anishkumar127">
 
-I'm **Anish Kumar**, a full stack software developer and freelance software engineer from **India**. I build web applications, mobile apps, backend APIs, and enterprise software with **React**, **Next.js**, **Node.js**, **TypeScript**, **Python**, and **FastAPI**.
+I'm **Anish Kumar**, a software engineer and freelancer from **India**. I build web applications, mobile apps, backend APIs, and enterprise software with **React**, **Next.js**, **Node.js**, **TypeScript**, **Python**, and **FastAPI**.
 
 I'm freelancing right now and working on production apps across frontend, backend, databases, and cloud deployment on **AWS** and **Microsoft Azure**. Open to full-time software developer roles and remote opportunities.
 
@@ -26,7 +26,7 @@ Previously, I worked as a Software Development Engineer at **Cubic Logics**, shi
 ### Quick Profile
 
 - **Name:** Anish Kumar
-- **Role:** Full Stack Software Developer
+- **Role:** Software Engineer
 - **Location:** India
 - **Availability:** Freelance | Open to full-time
 - **Portfolio:** [anishkumar.dev](https://anishkumar.dev)
