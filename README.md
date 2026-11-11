@@ -15,9 +15,9 @@
 ### About Me ✨
 <div align="justify" id="anishkumar127">
 
-I'm **Anish Kumar**, a software engineer and freelancer from **India**. I build web applications, mobile apps, backend APIs, and enterprise software with **React**, **Next.js**, **Node.js**, **TypeScript**, **Python**, and **FastAPI**.
+I'm **Anish Kumar**, a software engineer from **India**. I build web applications, mobile apps, backend APIs, and enterprise software with **React**, **Next.js**, **Node.js**, **TypeScript**, **Python**, and **FastAPI**.
 
-I'm freelancing right now and working on production apps across frontend, backend, databases, and cloud deployment on **AWS** and **Microsoft Azure**. Open to full-time software developer roles and remote opportunities.
+I'm currently working at **[FinSensor](https://finsensor.ai/)**, building production apps across frontend, backend, databases, and cloud deployment on **AWS** and **Microsoft Azure**.
 
 Previously, I worked as a Software Development Engineer at **Cubic Logics**, shipping **Microsoft 365**, **SharePoint**, and **SPFx** products used at scale. I also build **Excel Add-ins**, **Outlook Add-ins**, **React Native** apps with **Expo**, and **AI** features in real products.
 
@@ -27,31 +27,31 @@ Previously, I worked as a Software Development Engineer at **Cubic Logics**, shi
 
 - **Name:** Anish Kumar
 - **Role:** Software Engineer
+- **Current:** [FinSensor](https://finsensor.ai/)
 - **Location:** India
-- **Availability:** Freelance | Open to full-time
 - **Portfolio:** [anishkumar.dev](https://anishkumar.dev)
 - **Email:** [anishbishnoi127@gmail.com](mailto:anishbishnoi127@gmail.com)
-- **Experience:** Cubic Logics (Software Development Engineer)
+- **Experience:** FinSensor; previously Cubic Logics (Software Development Engineer)
 
 ### What I Build
 
 - Web apps with React, Next.js, TypeScript, Redux, and Zustand
 - Mobile apps with React Native and Expo
 - Backend APIs with Node.js, Express, Fastify, Hono, and FastAPI
-- Microsoft 365 solutions: SharePoint, SPFx, Excel Add-ins, Outlook Add-ins
+- Microsoft 365 solutions: SharePoint, SPFx, Power Apps, Power Automate, Excel Add-ins, Outlook Add-ins
 - Cloud deployment on AWS (EC2, Amplify) and Microsoft Azure
 - AI-powered features and data pipelines with PySpark
 
 ### Technical Expertise 👨‍💻
 
-JavaScript, TypeScript, Python, React, Next.js, Node.js, FastAPI, React Native, AWS, Azure, Microsoft 365, SharePoint, SPFx, and AI.
+JavaScript, TypeScript, Python, React, Next.js, Node.js, FastAPI, React Native, AWS, Azure, Microsoft 365, SharePoint, SPFx, Power Apps, Power Automate, and AI.
 
 **Languages:** JavaScript, TypeScript, Python, Java  
 **Frontend:** React, Next.js, React Native, Expo, Redux, Zustand, HTML, CSS, Tailwind CSS, Fluent UI  
 **Backend:** Node.js, Express, Fastify, Hono, FastAPI  
 **Databases:** MongoDB, PostgreSQL  
 **Cloud & DevOps:** AWS (EC2, Amplify), Microsoft Azure, Azure DevOps, Docker  
-**Microsoft Ecosystem:** SPFx, Microsoft 365, SharePoint, Excel Add-ins, Outlook Add-ins  
+**Microsoft Ecosystem:** SPFx, Microsoft 365, SharePoint, Power Apps, Power Automate, Excel Add-ins, Outlook Add-ins  
 **AI & Data:** AI, PySpark  
 **Tools:** Git, GitHub
 
